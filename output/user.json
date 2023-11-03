@@ -1,0 +1,2802 @@
+[
+    {
+        "username": "User0",
+        "Anagrafica": {
+            "FirstName": "Mela",
+            "LastName": "Margi",
+            "email": "Mela.0@email.com",
+            "snapCode": "56675474",
+            "password": "password_Mela",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User1",
+        "Anagrafica": {
+            "FirstName": "Elora",
+            "LastName": "Shellie",
+            "email": "Elora.1@email.com",
+            "snapCode": "19669324",
+            "password": "password_Elora",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User2",
+        "Anagrafica": {
+            "FirstName": "Angel",
+            "LastName": "Horatia",
+            "email": "Angel.2@email.com",
+            "snapCode": "10022401",
+            "password": "password_Angel",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User3",
+        "Anagrafica": {
+            "FirstName": "Randa",
+            "LastName": "Ardra",
+            "email": "Randa.3@email.com",
+            "snapCode": "59615618",
+            "password": "password_Randa",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User4",
+        "Anagrafica": {
+            "FirstName": "Tanitansy",
+            "LastName": "Drusie",
+            "email": "Tanitansy.4@email.com",
+            "snapCode": "90441615",
+            "password": "password_Tanitansy",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User5",
+        "Anagrafica": {
+            "FirstName": "Cherise",
+            "LastName": "Janelle",
+            "email": "Cherise.5@email.com",
+            "snapCode": "84017335",
+            "password": "password_Cherise",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 8,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User6",
+        "Anagrafica": {
+            "FirstName": "Danika",
+            "LastName": "Thia",
+            "email": "Danika.6@email.com",
+            "snapCode": "91968144",
+            "password": "password_Danika",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 7,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User7",
+        "Anagrafica": {
+            "FirstName": "Kelley",
+            "LastName": "Loren",
+            "email": "Kelley.7@email.com",
+            "snapCode": "81968208",
+            "password": "password_Kelley",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User8",
+        "Anagrafica": {
+            "FirstName": "Dael",
+            "LastName": "Elga",
+            "email": "Dael.8@email.com",
+            "snapCode": "72316658",
+            "password": "password_Dael",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User9",
+        "Anagrafica": {
+            "FirstName": "Eleonora",
+            "LastName": "Ashley",
+            "email": "Eleonora.9@email.com",
+            "snapCode": "01148356",
+            "password": "password_Eleonora",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 6,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User10",
+        "Anagrafica": {
+            "FirstName": "Berti",
+            "LastName": "Lorry",
+            "email": "Berti.10@email.com",
+            "snapCode": "93363601",
+            "password": "password_Berti",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User11",
+        "Anagrafica": {
+            "FirstName": "Terrye",
+            "LastName": "Henryetta",
+            "email": "Terrye.11@email.com",
+            "snapCode": "63683637",
+            "password": "password_Terrye",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User12",
+        "Anagrafica": {
+            "FirstName": "Constanta",
+            "LastName": "Katinka",
+            "email": "Constanta.12@email.com",
+            "snapCode": "99337120",
+            "password": "password_Constanta",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User13",
+        "Anagrafica": {
+            "FirstName": "Lexie",
+            "LastName": "Karylin",
+            "email": "Lexie.13@email.com",
+            "snapCode": "15179239",
+            "password": "password_Lexie",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User14",
+        "Anagrafica": {
+            "FirstName": "Amalie",
+            "LastName": "Seline",
+            "email": "Amalie.14@email.com",
+            "snapCode": "44799318",
+            "password": "password_Amalie",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User15",
+        "Anagrafica": {
+            "FirstName": "Alfreda",
+            "LastName": "Bonnibelle",
+            "email": "Alfreda.15@email.com",
+            "snapCode": "90195151",
+            "password": "password_Alfreda",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User16",
+        "Anagrafica": {
+            "FirstName": "Fawnia",
+            "LastName": "Hetty",
+            "email": "Fawnia.16@email.com",
+            "snapCode": "66192908",
+            "password": "password_Fawnia",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User17",
+        "Anagrafica": {
+            "FirstName": "Codie",
+            "LastName": "Dahlia",
+            "email": "Codie.17@email.com",
+            "snapCode": "60853479",
+            "password": "password_Codie",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User18",
+        "Anagrafica": {
+            "FirstName": "Melinda",
+            "LastName": "Ora",
+            "email": "Melinda.18@email.com",
+            "snapCode": "72921160",
+            "password": "password_Melinda",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User19",
+        "Anagrafica": {
+            "FirstName": "Georgeanne",
+            "LastName": "Yelena",
+            "email": "Georgeanne.19@email.com",
+            "snapCode": "88604914",
+            "password": "password_Georgeanne",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User20",
+        "Anagrafica": {
+            "FirstName": "Reyna",
+            "LastName": "Valera",
+            "email": "Reyna.20@email.com",
+            "snapCode": "48088425",
+            "password": "password_Reyna",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 7,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User21",
+        "Anagrafica": {
+            "FirstName": "Linnell",
+            "LastName": "Petrina",
+            "email": "Linnell.21@email.com",
+            "snapCode": "42322648",
+            "password": "password_Linnell",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User22",
+        "Anagrafica": {
+            "FirstName": "Gaby",
+            "LastName": "Nariko",
+            "email": "Gaby.22@email.com",
+            "snapCode": "98596270",
+            "password": "password_Gaby",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User23",
+        "Anagrafica": {
+            "FirstName": "Franciska",
+            "LastName": "Myrtice",
+            "email": "Franciska.23@email.com",
+            "snapCode": "34443110",
+            "password": "password_Franciska",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User24",
+        "Anagrafica": {
+            "FirstName": "Clara",
+            "LastName": "Tiff",
+            "email": "Clara.24@email.com",
+            "snapCode": "24772490",
+            "password": "password_Clara",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User25",
+        "Anagrafica": {
+            "FirstName": "Brana",
+            "LastName": "Deborah",
+            "email": "Brana.25@email.com",
+            "snapCode": "30353477",
+            "password": "password_Brana",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 2,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User26",
+        "Anagrafica": {
+            "FirstName": "Salaidh",
+            "LastName": "Annalise",
+            "email": "Salaidh.26@email.com",
+            "snapCode": "39851937",
+            "password": "password_Salaidh",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User27",
+        "Anagrafica": {
+            "FirstName": "Ilyse",
+            "LastName": "Cathlene",
+            "email": "Ilyse.27@email.com",
+            "snapCode": "51398381",
+            "password": "password_Ilyse",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User28",
+        "Anagrafica": {
+            "FirstName": "Sidonia",
+            "LastName": "Chrysa",
+            "email": "Sidonia.28@email.com",
+            "snapCode": "37002679",
+            "password": "password_Sidonia",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User29",
+        "Anagrafica": {
+            "FirstName": "Jean",
+            "LastName": "Ayn",
+            "email": "Jean.29@email.com",
+            "snapCode": "36526037",
+            "password": "password_Jean",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User30",
+        "Anagrafica": {
+            "FirstName": "Krysta",
+            "LastName": "Danell",
+            "email": "Krysta.30@email.com",
+            "snapCode": "28118817",
+            "password": "password_Krysta",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User31",
+        "Anagrafica": {
+            "FirstName": "Robbi",
+            "LastName": "Priscilla",
+            "email": "Robbi.31@email.com",
+            "snapCode": "65193214",
+            "password": "password_Robbi",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User32",
+        "Anagrafica": {
+            "FirstName": "Anna-Maria",
+            "LastName": "Anestassia",
+            "email": "Anna-Maria.32@email.com",
+            "snapCode": "02991039",
+            "password": "password_Anna-Maria",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User33",
+        "Anagrafica": {
+            "FirstName": "Cristal",
+            "LastName": "Dasie",
+            "email": "Cristal.33@email.com",
+            "snapCode": "52087915",
+            "password": "password_Cristal",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User34",
+        "Anagrafica": {
+            "FirstName": "Mellisa",
+            "LastName": "Liesa",
+            "email": "Mellisa.34@email.com",
+            "snapCode": "82662038",
+            "password": "password_Mellisa",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User35",
+        "Anagrafica": {
+            "FirstName": "Greer",
+            "LastName": "Bettina",
+            "email": "Greer.35@email.com",
+            "snapCode": "42024785",
+            "password": "password_Greer",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User36",
+        "Anagrafica": {
+            "FirstName": "Dasie",
+            "LastName": "Taffy",
+            "email": "Dasie.36@email.com",
+            "snapCode": "22103551",
+            "password": "password_Dasie",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User37",
+        "Anagrafica": {
+            "FirstName": "Myrta",
+            "LastName": "Dorthy",
+            "email": "Myrta.37@email.com",
+            "snapCode": "02798147",
+            "password": "password_Myrta",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 7,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User38",
+        "Anagrafica": {
+            "FirstName": "Daile",
+            "LastName": "Ursola",
+            "email": "Daile.38@email.com",
+            "snapCode": "18422233",
+            "password": "password_Daile",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User39",
+        "Anagrafica": {
+            "FirstName": "Aubrie",
+            "LastName": "Danit",
+            "email": "Aubrie.39@email.com",
+            "snapCode": "05181185",
+            "password": "password_Aubrie",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 8,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User40",
+        "Anagrafica": {
+            "FirstName": "Arline",
+            "LastName": "Eudora",
+            "email": "Arline.40@email.com",
+            "snapCode": "21454470",
+            "password": "password_Arline",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User41",
+        "Anagrafica": {
+            "FirstName": "Karoly",
+            "LastName": "Deidre",
+            "email": "Karoly.41@email.com",
+            "snapCode": "80743910",
+            "password": "password_Karoly",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User42",
+        "Anagrafica": {
+            "FirstName": "Joby",
+            "LastName": "Johnna",
+            "email": "Joby.42@email.com",
+            "snapCode": "76303669",
+            "password": "password_Joby",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User43",
+        "Anagrafica": {
+            "FirstName": "Madlin",
+            "LastName": "Lyndy",
+            "email": "Madlin.43@email.com",
+            "snapCode": "34907799",
+            "password": "password_Madlin",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 6,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User44",
+        "Anagrafica": {
+            "FirstName": "Marlee",
+            "LastName": "Steffi",
+            "email": "Marlee.44@email.com",
+            "snapCode": "94204731",
+            "password": "password_Marlee",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User45",
+        "Anagrafica": {
+            "FirstName": "Kata",
+            "LastName": "Happy",
+            "email": "Kata.45@email.com",
+            "snapCode": "15698636",
+            "password": "password_Kata",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User46",
+        "Anagrafica": {
+            "FirstName": "Marybelle",
+            "LastName": "Ardith",
+            "email": "Marybelle.46@email.com",
+            "snapCode": "93427419",
+            "password": "password_Marybelle",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 7,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User47",
+        "Anagrafica": {
+            "FirstName": "Georgette",
+            "LastName": "Nydia",
+            "email": "Georgette.47@email.com",
+            "snapCode": "50620071",
+            "password": "password_Georgette",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 8,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User48",
+        "Anagrafica": {
+            "FirstName": "Brietta",
+            "LastName": "Nariko",
+            "email": "Brietta.48@email.com",
+            "snapCode": "91463891",
+            "password": "password_Brietta",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User49",
+        "Anagrafica": {
+            "FirstName": "Elset",
+            "LastName": "Hollyanne",
+            "email": "Elset.49@email.com",
+            "snapCode": "51329170",
+            "password": "password_Elset",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User50",
+        "Anagrafica": {
+            "FirstName": "Elspeth",
+            "LastName": "Toni",
+            "email": "Elspeth.50@email.com",
+            "snapCode": "54167600",
+            "password": "password_Elspeth",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 6,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User51",
+        "Anagrafica": {
+            "FirstName": "Nikaniki",
+            "LastName": "Drucill",
+            "email": "Nikaniki.51@email.com",
+            "snapCode": "91415038",
+            "password": "password_Nikaniki",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User52",
+        "Anagrafica": {
+            "FirstName": "Tonya",
+            "LastName": "Xylina",
+            "email": "Tonya.52@email.com",
+            "snapCode": "90267913",
+            "password": "password_Tonya",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User53",
+        "Anagrafica": {
+            "FirstName": "Betta",
+            "LastName": "Jacqui",
+            "email": "Betta.53@email.com",
+            "snapCode": "44407959",
+            "password": "password_Betta",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User54",
+        "Anagrafica": {
+            "FirstName": "Roxi",
+            "LastName": "Noni",
+            "email": "Roxi.54@email.com",
+            "snapCode": "55010580",
+            "password": "password_Roxi",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 2,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User55",
+        "Anagrafica": {
+            "FirstName": "Carie",
+            "LastName": "Mavis",
+            "email": "Carie.55@email.com",
+            "snapCode": "18416820",
+            "password": "password_Carie",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User56",
+        "Anagrafica": {
+            "FirstName": "Eba",
+            "LastName": "Georgianna",
+            "email": "Eba.56@email.com",
+            "snapCode": "92056295",
+            "password": "password_Eba",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User57",
+        "Anagrafica": {
+            "FirstName": "Roxanne",
+            "LastName": "Perrine",
+            "email": "Roxanne.57@email.com",
+            "snapCode": "01374377",
+            "password": "password_Roxanne",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User58",
+        "Anagrafica": {
+            "FirstName": "Ranna",
+            "LastName": "Katerina",
+            "email": "Ranna.58@email.com",
+            "snapCode": "74052278",
+            "password": "password_Ranna",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 8,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User59",
+        "Anagrafica": {
+            "FirstName": "Calley",
+            "LastName": "Pavia",
+            "email": "Calley.59@email.com",
+            "snapCode": "98377087",
+            "password": "password_Calley",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User60",
+        "Anagrafica": {
+            "FirstName": "Reine",
+            "LastName": "Katharyn",
+            "email": "Reine.60@email.com",
+            "snapCode": "18878854",
+            "password": "password_Reine",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User61",
+        "Anagrafica": {
+            "FirstName": "Martita",
+            "LastName": "Juditha",
+            "email": "Martita.61@email.com",
+            "snapCode": "32194523",
+            "password": "password_Martita",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User62",
+        "Anagrafica": {
+            "FirstName": "Giselle",
+            "LastName": "Denna",
+            "email": "Giselle.62@email.com",
+            "snapCode": "46735348",
+            "password": "password_Giselle",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User63",
+        "Anagrafica": {
+            "FirstName": "Merla",
+            "LastName": "Alameda",
+            "email": "Merla.63@email.com",
+            "snapCode": "20596856",
+            "password": "password_Merla",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User64",
+        "Anagrafica": {
+            "FirstName": "Kendre",
+            "LastName": "Seka",
+            "email": "Kendre.64@email.com",
+            "snapCode": "34046060",
+            "password": "password_Kendre",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User65",
+        "Anagrafica": {
+            "FirstName": "Mariam",
+            "LastName": "Althea",
+            "email": "Mariam.65@email.com",
+            "snapCode": "98486757",
+            "password": "password_Mariam",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 7,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User66",
+        "Anagrafica": {
+            "FirstName": "Mignonne",
+            "LastName": "Henka",
+            "email": "Mignonne.66@email.com",
+            "snapCode": "40093832",
+            "password": "password_Mignonne",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User67",
+        "Anagrafica": {
+            "FirstName": "Cody",
+            "LastName": "Hali",
+            "email": "Cody.67@email.com",
+            "snapCode": "46776557",
+            "password": "password_Cody",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User68",
+        "Anagrafica": {
+            "FirstName": "Emalee",
+            "LastName": "Cymbre",
+            "email": "Emalee.68@email.com",
+            "snapCode": "00056128",
+            "password": "password_Emalee",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User69",
+        "Anagrafica": {
+            "FirstName": "Laraine",
+            "LastName": "Linzy",
+            "email": "Laraine.69@email.com",
+            "snapCode": "68471600",
+            "password": "password_Laraine",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 6,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User70",
+        "Anagrafica": {
+            "FirstName": "Aggi",
+            "LastName": "Joelly",
+            "email": "Aggi.70@email.com",
+            "snapCode": "40570326",
+            "password": "password_Aggi",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User71",
+        "Anagrafica": {
+            "FirstName": "Anny",
+            "LastName": "Arliene",
+            "email": "Anny.71@email.com",
+            "snapCode": "49599821",
+            "password": "password_Anny",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User72",
+        "Anagrafica": {
+            "FirstName": "Odella",
+            "LastName": "Tiff",
+            "email": "Odella.72@email.com",
+            "snapCode": "27947059",
+            "password": "password_Odella",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User73",
+        "Anagrafica": {
+            "FirstName": "Chelsae",
+            "LastName": "Verena",
+            "email": "Chelsae.73@email.com",
+            "snapCode": "05657023",
+            "password": "password_Chelsae",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User74",
+        "Anagrafica": {
+            "FirstName": "Cecil",
+            "LastName": "Truda",
+            "email": "Cecil.74@email.com",
+            "snapCode": "29816842",
+            "password": "password_Cecil",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User75",
+        "Anagrafica": {
+            "FirstName": "Steffi",
+            "LastName": "Natalie",
+            "email": "Steffi.75@email.com",
+            "snapCode": "06286722",
+            "password": "password_Steffi",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User76",
+        "Anagrafica": {
+            "FirstName": "Mariya",
+            "LastName": "Cecilia",
+            "email": "Mariya.76@email.com",
+            "snapCode": "76476914",
+            "password": "password_Mariya",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User77",
+        "Anagrafica": {
+            "FirstName": "Christi",
+            "LastName": "Bunni",
+            "email": "Christi.77@email.com",
+            "snapCode": "77804594",
+            "password": "password_Christi",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User78",
+        "Anagrafica": {
+            "FirstName": "Marcella",
+            "LastName": "Shayne",
+            "email": "Marcella.78@email.com",
+            "snapCode": "90505019",
+            "password": "password_Marcella",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 10,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User79",
+        "Anagrafica": {
+            "FirstName": "Diahann",
+            "LastName": "Doro",
+            "email": "Diahann.79@email.com",
+            "snapCode": "81876903",
+            "password": "password_Diahann",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 2,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User80",
+        "Anagrafica": {
+            "FirstName": "Bobbee",
+            "LastName": "Rebecca",
+            "email": "Bobbee.80@email.com",
+            "snapCode": "14176880",
+            "password": "password_Bobbee",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 6,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User81",
+        "Anagrafica": {
+            "FirstName": "Rubie",
+            "LastName": "Viv",
+            "email": "Rubie.81@email.com",
+            "snapCode": "45264046",
+            "password": "password_Rubie",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User82",
+        "Anagrafica": {
+            "FirstName": "Matelda",
+            "LastName": "Ollie",
+            "email": "Matelda.82@email.com",
+            "snapCode": "10705805",
+            "password": "password_Matelda",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 9,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User83",
+        "Anagrafica": {
+            "FirstName": "Norina",
+            "LastName": "Odette",
+            "email": "Norina.83@email.com",
+            "snapCode": "32456992",
+            "password": "password_Norina",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 6,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User84",
+        "Anagrafica": {
+            "FirstName": "Anderea",
+            "LastName": "Vinni",
+            "email": "Anderea.84@email.com",
+            "snapCode": "74309172",
+            "password": "password_Anderea",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User85",
+        "Anagrafica": {
+            "FirstName": "Adi",
+            "LastName": "Karola",
+            "email": "Adi.85@email.com",
+            "snapCode": "41901126",
+            "password": "password_Adi",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User86",
+        "Anagrafica": {
+            "FirstName": "Corene",
+            "LastName": "Jeanelle",
+            "email": "Corene.86@email.com",
+            "snapCode": "67772285",
+            "password": "password_Corene",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 5,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User87",
+        "Anagrafica": {
+            "FirstName": "Nariko",
+            "LastName": "Brier",
+            "email": "Nariko.87@email.com",
+            "snapCode": "57577550",
+            "password": "password_Nariko",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User88",
+        "Anagrafica": {
+            "FirstName": "Dacia",
+            "LastName": "Brianna",
+            "email": "Dacia.88@email.com",
+            "snapCode": "13210344",
+            "password": "password_Dacia",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User89",
+        "Anagrafica": {
+            "FirstName": "Maighdiln",
+            "LastName": "Gisella",
+            "email": "Maighdiln.89@email.com",
+            "snapCode": "50585106",
+            "password": "password_Maighdiln",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 2,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User90",
+        "Anagrafica": {
+            "FirstName": "Alejandrina",
+            "LastName": "Jamie",
+            "email": "Alejandrina.90@email.com",
+            "snapCode": "55676095",
+            "password": "password_Alejandrina",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User91",
+        "Anagrafica": {
+            "FirstName": "Terese",
+            "LastName": "Leshia",
+            "email": "Terese.91@email.com",
+            "snapCode": "94691674",
+            "password": "password_Terese",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 4,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User92",
+        "Anagrafica": {
+            "FirstName": "Rhianna",
+            "LastName": "Antonella",
+            "email": "Rhianna.92@email.com",
+            "snapCode": "89903694",
+            "password": "password_Rhianna",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User93",
+        "Anagrafica": {
+            "FirstName": "Lucia",
+            "LastName": "Clemmy",
+            "email": "Lucia.93@email.com",
+            "snapCode": "16686547",
+            "password": "password_Lucia",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 7,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User94",
+        "Anagrafica": {
+            "FirstName": "Wini",
+            "LastName": "Fernande",
+            "email": "Wini.94@email.com",
+            "snapCode": "27474707",
+            "password": "password_Wini",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 2,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User95",
+        "Anagrafica": {
+            "FirstName": "Hyacintha",
+            "LastName": "Tillie",
+            "email": "Hyacintha.95@email.com",
+            "snapCode": "09400199",
+            "password": "password_Hyacintha",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 3,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User96",
+        "Anagrafica": {
+            "FirstName": "Sammy",
+            "LastName": "Antonie",
+            "email": "Sammy.96@email.com",
+            "snapCode": "87919523",
+            "password": "password_Sammy",
+            "genre": "other",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 2,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User97",
+        "Anagrafica": {
+            "FirstName": "Rosanne",
+            "LastName": "Ellyn",
+            "email": "Rosanne.97@email.com",
+            "snapCode": "92825588",
+            "password": "password_Rosanne",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": true,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User98",
+        "Anagrafica": {
+            "FirstName": "Susi",
+            "LastName": "Antonella",
+            "email": "Susi.98@email.com",
+            "snapCode": "59905503",
+            "password": "password_Susi",
+            "genre": "male",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": true,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 1,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    },
+    {
+        "username": "User99",
+        "Anagrafica": {
+            "FirstName": "Helyn",
+            "LastName": "Laurie",
+            "email": "Helyn.99@email.com",
+            "snapCode": "21140327",
+            "password": "password_Helyn",
+            "genre": "female",
+            "phoneNumber": "",
+            "birthday": ""
+        },
+        "BusinessInfo": {
+            "isBusiness": false,
+            "BusinessImage": "",
+            "BusinessName": "",
+            "BusinessAddress": ""
+        },
+        "nSnaps": 0,
+        "ownSnaps": [],
+        "LatestOwnSnaps": [],
+        "hasAvatar": false,
+        "Notify": [],
+        "Friends": [],
+        "CloseFriends": [],
+        "Followed": [],
+        "Blocked": []
+    }
+]
