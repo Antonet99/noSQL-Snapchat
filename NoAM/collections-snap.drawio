@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T20:26:28.168Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="rtJk7O_4SxYWZyIVYXDa" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T20:37:17.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="S0FCqgUUyV6jya1Kz5Jb" version="22.0.8" type="github">
   <diagram name="Page-1" id="yTEgXZxeoU4mQSqTjCOM">
-    <mxGraphModel dx="1050" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
             <mxRectangle width="110" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhL6a_--adM9_cyL9lvs-6" value="{ &lt;b&gt;Text&lt;/b&gt;: string, &lt;b&gt;Media&lt;/b&gt;: string, &lt;b&gt;Music&lt;/b&gt;: string&amp;nbsp; }" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zhL6a_--adM9_cyL9lvs-4">
+        <mxCell id="zhL6a_--adM9_cyL9lvs-6" value="{ &lt;b&gt;Text&lt;/b&gt;: string, &lt;b&gt;Pic&lt;/b&gt;: string, &lt;b&gt;Music&lt;/b&gt;: string&amp;nbsp; }" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zhL6a_--adM9_cyL9lvs-4">
           <mxGeometry x="110" width="210" height="47" as="geometry">
             <mxRectangle width="210" height="47" as="alternateBounds" />
           </mxGeometry>
