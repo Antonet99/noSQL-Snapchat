@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T20:15:08.741Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="VFbz5U8aOnt7gppFt0cs" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T20:18:54.143Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="hwjtH8c1F4ty8KXONV_P" version="22.0.8" type="github">
   <diagram name="Page-1" id="eeb6GIZZUfjWowHsOeuV">
     <mxGraphModel dx="1050" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-58" value="Snap" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="54" y="40" width="160" height="296" as="geometry" />
+          <mxGeometry x="54" y="40" width="160" height="266" as="geometry" />
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-59" value="*IdSnap" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-58" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="E8tW6npieSF5YsgEbHwR-63" value="Location" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-58" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E8tW6npieSF5YsgEbHwR-64" value="TextAdded" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-58" vertex="1">
+        <mxCell id="E8tW6npieSF5YsgEbHwR-64" value="Media" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-58" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-65" value="Music" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-58" vertex="1">
@@ -120,9 +120,6 @@
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-108" value="isPrivate" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-58" vertex="1">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2spzqY9XINyE_dRfJW_h-1" value="PicAdded" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="E8tW6npieSF5YsgEbHwR-58">
-          <mxGeometry y="266" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-77" value="Avatar" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="1060" y="350" width="160" height="206" as="geometry" />
