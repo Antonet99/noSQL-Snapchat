@@ -316,7 +316,7 @@ def update_users():
         filtered_snaps = list(filter(lambda x: x["ownSnaps"] == user["username"], snaps_array))
         filtered_snaps.sort(key = lambda x: x["Timestamp"], reverse=False)
         filtered_snaps = list(map(lambda x: x["idSnap"], filtered_snaps))
-        user["LatestOwnSnaps"] = filtered_snaps[:SNAPS_PARTITIONING-1]
+        user["LatestOwnSnaps"] = filtered_snaps[-SNAPS_PARTITIONING:]
         
         for snap in snaps_array:
             if snap["ownSnaps"] == user["username"]:
