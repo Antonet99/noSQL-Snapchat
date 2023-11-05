@@ -86,14 +86,66 @@ def generate_snaps():
                 "ownSnaps": user["username"],
                 "UserLikes": [],
                 "LikesCount": random.randint(0, USERS_NUMBER),
-                "Location": random.choice(coordinates),
+                "Location": {
+                    "isOn": random.choice([True, False]),
+                    "coordinates": ""
+                    },
                 "isPrivate": random.choice([True, False]),
                 "Timestamp": datetime.datetime.now().timestamp()
             })
         
     with open('output/snap.json', 'w') as outfile:
         json.dump(snaps_array, outfile, indent=4)
+
+def generate_coordinates():
+    
+    snap_file = open('output/snap.json')
+    snaps_array = json.load(snap_file)
+    
+    for i in range(USERS_NUMBER):
+        if snaps_array[i]["Location"]["isOn"]:
+            snaps_array[i]["Location"]["coordinates"] = random.choice(coordinates)
+                
+    with open('output/snap.json', 'w') as outfile:
+        json.dump(snaps_array, outfile, indent=4)
+    
+def generate_maps():
+    
+    user_file = open('output/user.json')
+    users_array = json.load(user_file)
+    
+    maps_array = []
+    
+    for user in users_array:
+        maps_array.append({
+            "idAsset": ''.join(random.choices(string.digits, k=6)),
+            "User": user["username"],
+            "Snaps": [],
+            "StatusGPS": random.choice([True, False]),
+            "isHotspot": random.choice([True, False]),
+            "isSatellite": random.choice([True, False]),
+            "isGhostMode": random.choice([True, False]),
+            "isHideLiveLocation": random.choice([True, False])
+            })
+
+    with open('output/map.json', 'w') as outfile:
+        json.dump(maps_array, outfile, indent=4) 
         
+def update_maps():
+    
+    snap_file = open('output/snap.json')
+    snaps_array = json.load(snap_file)
+    
+    maps_file = open('output/map.json')
+    maps_array = json.load(maps_file)
+        
+    for snap in snaps_array:
+        for maps in maps_array:
+            if snap["Location"]["isOn"] == True and snap["ownSnaps"] == maps["User"]:
+                maps["Snaps"].append(snap["idSnap"])
+
+    with open('output/map.json', 'w') as outfile:
+        json.dump(maps_array, outfile, indent=4)
         
 def generate_chats():
     chats_array = []
@@ -171,7 +223,7 @@ def generate_notify():
     with open('output/notify.json', 'w') as outfile:
         json.dump(notify_array, outfile, indent=4)
         
-        
+
 def update_notify():
     
     user_file = open('output/user.json')
@@ -180,9 +232,17 @@ def update_notify():
     notify_file = open('output/notify.json')
     notify_array = json.load(notify_file)
     
-    username_list = (list(map(lambda x: x["username"], users_array)))
-    
-    #inserimento in ogni utente tutte le notifiche all'interno di notify_array che hanno receiver = user["username"]
+    for notify in notify_array:
+        if notify["Cat"] == "Snap":
+            notify["Text"] = "New Snap"
+            notify["idNotify"] += "Snap"
+        elif notify["Cat"] == "Request":
+            notify["Text"] = "New Request"
+            notify["idNotify"] += "Request"
+        elif notify["Cat"] == "Message":
+            notify["Text"] = "New Message"
+            notify["idNotify"] += "Message"
+        
     for user in users_array:
         filtered_notify = list(filter(lambda x: x["Receiver"] == user["username"], notify_array))
         filtered_notify = list(map(lambda x: x["idNotify"], filtered_notify))
@@ -297,13 +357,16 @@ if __name__ == '__main__':
     generate_users()
     generate_stickers()
     generate_snaps()
+    generate_coordinates()
     generate_chats()
     generate_messages()
     generate_notify()
     generate_stickers()
+    generate_maps()
     
     update_chats()
     update_users()
     update_snaps()
     update_business()
     update_notify()
+    update_maps()
