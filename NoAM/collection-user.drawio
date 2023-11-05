@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T14:24:33.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="P7eJjkn0mcZIzq91d3gk" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T14:48:30.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Bj7zSJqfcE493yHSQ59J" version="22.0.8" type="github">
   <diagram name="Page-1" id="lnG2zAfyn-MAA1SeDjfi">
     <mxGraphModel dx="1152" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
             <mxRectangle width="157" height="65" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hmr-0E7K-5ribQI1uCZg-24" value="{ { &lt;b&gt;Receiver&lt;/b&gt;: K(user), &lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string },&amp;nbsp;{ &lt;b&gt;Receiver&lt;/b&gt;: K(user), &lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string },&amp;nbsp; ..., { &lt;b&gt;Receiver&lt;/b&gt;: K(user), &lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string }}" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hmr-0E7K-5ribQI1uCZg-22" vertex="1">
+        <mxCell id="Hmr-0E7K-5ribQI1uCZg-24" value="{ { &lt;b&gt;Sender&lt;/b&gt;: K(user), &lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string },&amp;nbsp;{ &lt;b&gt;Sender&lt;/b&gt;: K(user), &lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string },&amp;nbsp; ..., { &lt;b&gt;Sender&lt;/b&gt;: K(user), &lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string }}" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hmr-0E7K-5ribQI1uCZg-22" vertex="1">
           <mxGeometry x="157" width="313" height="65" as="geometry">
             <mxRectangle width="313" height="65" as="alternateBounds" />
           </mxGeometry>
