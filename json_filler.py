@@ -263,6 +263,7 @@ def update_chats():
     for chats in chats_array:
         for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
             chats["Media"]["Pics"].append((f"pic{i}"))
+        for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
             chats["Media"]["Docs"].append((f"doc{i}"))
             
     with open('output/chat.json', 'w') as outfile:
