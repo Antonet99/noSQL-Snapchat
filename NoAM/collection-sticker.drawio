@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T22:43:06.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="ogTPsSD4FtOu0616MRpZ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T07:05:56.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="c5InWh4QNPPP26FdmjIu" version="22.0.8" type="github">
   <diagram name="Page-1" id="-hrCW1JOt1rqmKrmkx0s">
     <mxGraphModel dx="954" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="eokv_deSClD9n7se6uqg-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eokv_deSClD9n7se6uqg-19" vertex="1">
           <mxGeometry y="100" width="158" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eokv_deSClD9n7se6uqg-27" value="&lt;b&gt;IdAvatar&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="eokv_deSClD9n7se6uqg-26" vertex="1">
+        <mxCell id="eokv_deSClD9n7se6uqg-27" value="&lt;b&gt;User&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="eokv_deSClD9n7se6uqg-26" vertex="1">
           <mxGeometry width="79" height="50" as="geometry">
             <mxRectangle width="79" height="50" as="alternateBounds" />
           </mxGeometry>
