@@ -12,7 +12,7 @@ MAX_STICKERS_NUMBER = 100
 MAX_NOTIFY_NUMBER = 10
 MAX_TAGGED_USERS = 3
 MAX_GHOST_FRIENDS = 5
-MAX_MEDIA_IMAGES = 5
+MAX_MEDIADOC_IMAGES = 5
 
 MESSAGE_PARTITIONING = 10
 SNAPS_PARTITIONING = 10
@@ -109,7 +109,10 @@ def generate_chats():
     for i in range(random.randint(0,USERS_NUMBER*5)):
         chats_array.append({
             "idChat": f"C{i}",
-            "Media": [],
+            "Media": {
+                "Docs": [],
+                "Pics": [],
+                },
 	        "Users": [],
 	        "Messages": [],
             "Stickers": [],
@@ -258,6 +261,11 @@ def update_chats():
             chat["Timestamp"] = chat["Messages"][-1]["content"]["timestamp"]
         else:
             chat["Timestamp"] = 0
+   
+    for chats in chats_array:
+        for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
+            chats["Media"]["Pics"].append((f"pic{i}"))
+            chats["Media"]["Docs"].append((f"doc{i}"))
             
     with open('output/chat.json', 'w') as outfile:
         json.dump(chats_array, outfile, indent=4)
