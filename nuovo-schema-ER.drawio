@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T18:37:58.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="fivEFf6cHg-wRB-QuTOT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T06:40:16.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="WAIIf6PH0HEMFxG-sDuI" version="22.0.8" type="github">
   <diagram name="Page-1" id="eeb6GIZZUfjWowHsOeuV">
-    <mxGraphModel dx="1152" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="RKkL9MZf_iNBz_sPCRg5-13" value="BusinessAddress" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-1" vertex="1">
           <mxGeometry y="416" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vfc1sTTZPO-d4x__9HAk-7" value="BusinessAddress" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="E8tW6npieSF5YsgEbHwR-1">
+        <mxCell id="jBL-wK7k-CgSUwXq3E96-1" value="LikesCountBusiness" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="E8tW6npieSF5YsgEbHwR-1">
           <mxGeometry y="446" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-8" value="MapAsset" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="E8tW6npieSF5YsgEbHwR-10" value="User" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-8" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vfc1sTTZPO-d4x__9HAk-10" value="Snaps" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="E8tW6npieSF5YsgEbHwR-8">
+        <mxCell id="vfc1sTTZPO-d4x__9HAk-10" value="Snaps" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-8" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E8tW6npieSF5YsgEbHwR-15" value="StatusGPS" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="E8tW6npieSF5YsgEbHwR-8" vertex="1">
