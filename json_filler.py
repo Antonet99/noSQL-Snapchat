@@ -20,7 +20,7 @@ SNAPS_PARTITIONING = 10
 names = open('txt/firstnames.txt').read().splitlines()
 surnames = open('txt/lastnames.txt').read().splitlines()
 words = open('txt/words.txt').read().splitlines()
-messages = open('txt/messages.txt').read().splitlines()
+msg_file = open('txt/messages.txt').read().splitlines()
 numbers = open('txt/numbers.txt').read().splitlines()
 birthdays = open('txt/birthdays.txt').read().splitlines()
 coordinates = open('txt/coordinates.txt').read().splitlines()
@@ -102,46 +102,7 @@ def generate_snaps():
         
     with open('output/snap.json', 'w') as outfile:
         json.dump(snaps_array, outfile, indent=4)
-
         
-def generate_chats():
-    chats_array = []
-    for i in range(random.randint(0,USERS_NUMBER*5)):
-        chats_array.append({
-            "idChat": f"C{i}",
-            "Media": {
-                "Docs": [],
-                "Pics": [],
-                },
-	        "Users": [],
-	        "Messages": [],
-            "Stickers": [],
-            "Timestamp": ""
-        })
-
-    with open('output/chat.json', 'w') as outfile:
-        json.dump(chats_array, outfile, indent=4)
-        
-def generate_messages():
-
-    chat_file = open('output/chat.json')
-    chats_array = json.load(chat_file)
-
-    idChat_list = list(map(lambda x: x["idChat"], chats_array))
-
-    messages_array = []
-    for i in range(random.randint(1,USERS_NUMBER*50)):
-        messages_array.append({
-            "idMsg": f"msg{i}",
-            "content": {
-                "text": random.choice(messages),
-                "timestamp": datetime.datetime.now().timestamp()
-            },
-            "idChat": random.choice(idChat_list),
-        })
-
-    with open('output/message.json', 'w') as outfile:
-        json.dump(messages_array, outfile, indent=4)
 
 
 def generate_stickers():
@@ -164,7 +125,7 @@ def generate_stickers():
     with open('output/sticker.json', 'w') as outfile:
         json.dump(sticker_array, outfile, indent=4)
         
-def update_stickers():
+'''def update_stickers():
     
     chat_file = open('output/chat.json')
     chats_array = json.load(chat_file)
@@ -180,7 +141,7 @@ def update_stickers():
                 chat["Stickers"].append(sticker)
             
     with open('output/chat.json', 'w') as outfile:
-        json.dump(chats_array, outfile, indent=4)
+        json.dump(chats_array, outfile, indent=4)'''
         
         
 def generate_notify():
@@ -234,33 +195,70 @@ def update_notify():
     with open('output/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
     
+
+def generate_chats():
+    
+    user_file = open('output/user.json')
+    users_array = json.load(user_file)
+    
+    usernames = [user["username"] for user in users_array]
+
+    chats = []
+    
+    chat_count = 100  
+    for i in range(chat_count):
+
+        user1, user2 = random.sample(usernames, 2)
+        
+        chat_id = f'C{i}'
+        
+        messages = []
+        message_count = random.randint(1, 10) 
+        for _ in range(message_count):
+            sender, receiver = random.choice([user1, user2]), random.choice([user1, user2])
+            message = {
+                "User": sender,    
+                "Text": random.choice(msg_file),
+                "Timestamp": datetime.datetime.now().timestamp()
+            }
+            messages.append(message)
+
+        last_message_timestamp = max(message["Timestamp"] for message in messages)
+
+        chat = {
+            "idChat": chat_id,
+            "Media": {
+                "Pics": [],
+                "Docs": []
+            },
+            "Users": [user1, user2],
+            "Messages": messages,
+            "Stickers": [],
+            "Timestamp": last_message_timestamp
+        }
+
+        chats.append(chat)
+
+            
+    with open('output/chat.json', 'w') as chat_file:
+        json.dump(chats, chat_file, indent=4)
+    
+
     
 def update_chats():
     
     chat_file = open('output/chat.json')
     chats_array = json.load(chat_file)
     
-    user_file = open('output/user.json')
-    users_array = json.load(user_file)
+    sticker_file = open('output/sticker.json')
+    stickers_array = json.load(sticker_file)
     
-    message_file = open('output/message.json')
-    messages_array = json.load(message_file)
-    
-    username_list = (list(map(lambda x: x['username'], users_array)))
-    
-    # AGGIUNTA UTENTI A CHAT CON MESSAGGI
     for chat in chats_array:
-        for i in range(2):
-            chat['Users'].append(random.choice(list(set(username_list) - set(chat['Users']))))
-    
-        filtered_directs = list(filter(lambda x: x["idChat"] == chat["idChat"], messages_array))
-        filtered_directs.sort(key = lambda x: x["content"]["timestamp"], reverse=False)
-        chat["Messages"] = filtered_directs[:MESSAGE_PARTITIONING-1]
-    
-        if chat["Messages"]:
-            chat["Timestamp"] = chat["Messages"][-1]["content"]["timestamp"]
-        else:
-            chat["Timestamp"] = 0
+        chat_users = set(chat["Users"])
+        
+        for sticker in stickers_array:
+            if sticker["idAvatar"] in chat_users:
+                chat["Stickers"].append(sticker)
    
     for chats in chats_array:
         for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
@@ -269,19 +267,7 @@ def update_chats():
             
     with open('output/chat.json', 'w') as outfile:
         json.dump(chats_array, outfile, indent=4)
-        
-    chat_file = open('output/chat.json')
-    chats_array = json.load(chat_file)
-        
-    for chat in chats_array:
-        for message in chat["Messages"]:
-            del message["idChat"]
-    
-    with open('output/chat.json', 'w') as outfile:
-        json.dump(chats_array, outfile, indent=4)
-    
-    with open('output/message.json', 'w') as outfile:
-        json.dump(messages_array, outfile, indent=4)
+
         
 def update_users():
     
@@ -420,7 +406,6 @@ def update_maps():
 if __name__ == '__main__':
     generate_users()
     generate_snaps()
-    generate_messages()
     generate_chats()
     generate_stickers() 
     generate_notify()
@@ -429,6 +414,6 @@ if __name__ == '__main__':
     update_business()
     update_snaps()
     update_chats()
-    update_stickers()
+    #update_stickers()
     update_notify()
     update_maps()

@@ -1,75 +1,171 @@
 [
     {
-        "idAsset": "570571",
+        "idAsset": "263550",
         "User": "User0",
         "Snaps": [
-            "User0Snap4",
-            "User0Snap6",
-            "User0Snap9",
-            "User0Snap10",
-            "User0Snap11",
-            "User0Snap13",
-            "User0Snap14",
-            "User0Snap16",
-            "User0Snap20",
-            "User0Snap21",
-            "User0Snap25"
+            "User0Snap1",
+            "User0Snap2",
+            "User0Snap7",
+            "User0Snap8",
+            "User0Snap9"
         ],
-        "StatusGPS": true,
+        "StatusGPS": false,
         "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
         "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User57",
+                "User95",
+                "User57",
+                "User5",
+                "User75"
+            ]
         }
     },
     {
-        "idAsset": "565432",
+        "idAsset": "524974",
         "User": "User1",
         "Snaps": [
-            "User1Snap0",
-            "User1Snap1",
+            "User1Snap3",
+            "User1Snap4",
             "User1Snap5",
             "User1Snap6",
             "User1Snap7",
-            "User1Snap8",
+            "User1Snap9",
+            "User1Snap11",
             "User1Snap12",
-            "User1Snap13",
             "User1Snap14",
-            "User1Snap15",
-            "User1Snap16",
-            "User1Snap18",
-            "User1Snap19"
+            "User1Snap15"
         ],
         "StatusGPS": true,
-        "isHotspot": true,
+        "isHotspot": false,
         "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "869631",
+        "User": "User2",
+        "Snaps": [
+            "User2Snap0",
+            "User2Snap1",
+            "User2Snap2",
+            "User2Snap4",
+            "User2Snap11",
+            "User2Snap12"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "714902",
+        "User": "User3",
+        "Snaps": [
+            "User3Snap0",
+            "User3Snap1",
+            "User3Snap2",
+            "User3Snap5",
+            "User3Snap6",
+            "User3Snap9",
+            "User3Snap11",
+            "User3Snap12",
+            "User3Snap13",
+            "User3Snap15",
+            "User3Snap16",
+            "User3Snap20",
+            "User3Snap22",
+            "User3Snap24",
+            "User3Snap25",
+            "User3Snap27"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": false,
         "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "642648",
+        "User": "User4",
+        "Snaps": [
+            "User4Snap2",
+            "User4Snap4",
+            "User4Snap6",
+            "User4Snap8",
+            "User4Snap10",
+            "User4Snap12",
+            "User4Snap13",
+            "User4Snap14"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "927071",
+        "User": "User5",
+        "Snaps": [
+            "User5Snap0",
+            "User5Snap5"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User58"
+                "User38",
+                "User56",
+                "User62",
+                "User95"
             ]
         }
     },
     {
-        "idAsset": "156571",
-        "User": "User2",
+        "idAsset": "391286",
+        "User": "User6",
         "Snaps": [
-            "User2Snap0",
-            "User2Snap5",
-            "User2Snap6",
-            "User2Snap9",
-            "User2Snap11",
-            "User2Snap12",
-            "User2Snap14",
-            "User2Snap17",
-            "User2Snap20",
-            "User2Snap21",
-            "User2Snap22",
-            "User2Snap23",
-            "User2Snap24"
+            "User6Snap0",
+            "User6Snap1",
+            "User6Snap2"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "227400",
+        "User": "User7",
+        "Snaps": [
+            "User7Snap0",
+            "User7Snap3",
+            "User7Snap5",
+            "User7Snap6"
         ],
         "StatusGPS": false,
         "isHotspot": true,
@@ -81,149 +177,28 @@
         }
     },
     {
-        "idAsset": "753289",
-        "User": "User3",
+        "idAsset": "459174",
+        "User": "User8",
         "Snaps": [],
         "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User39",
-                "User26",
-                "User82",
-                "User73",
-                "User92"
-            ]
-        }
-    },
-    {
-        "idAsset": "248380",
-        "User": "User4",
-        "Snaps": [
-            "User4Snap0"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User12"
-            ]
-        }
-    },
-    {
-        "idAsset": "710653",
-        "User": "User5",
-        "Snaps": [
-            "User5Snap0",
-            "User5Snap3",
-            "User5Snap6",
-            "User5Snap7"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User84",
-                "User91",
-                "User8"
-            ]
-        }
-    },
-    {
-        "idAsset": "305456",
-        "User": "User6",
-        "Snaps": [
-            "User6Snap0",
-            "User6Snap3"
-        ],
-        "StatusGPS": true,
         "isHotspot": false,
         "isSatellite": true,
         "isHideLiveLocation": false,
         "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User36"
-            ]
+            "isGhostMode": false,
+            "GhostModeFriends": []
         }
     },
     {
-        "idAsset": "461105",
-        "User": "User7",
-        "Snaps": [
-            "User7Snap0",
-            "User7Snap1",
-            "User7Snap2",
-            "User7Snap4",
-            "User7Snap7",
-            "User7Snap9",
-            "User7Snap10",
-            "User7Snap18",
-            "User7Snap19",
-            "User7Snap20",
-            "User7Snap21",
-            "User7Snap24"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User46",
-                "User46"
-            ]
-        }
-    },
-    {
-        "idAsset": "902409",
-        "User": "User8",
-        "Snaps": [
-            "User8Snap0",
-            "User8Snap2",
-            "User8Snap3",
-            "User8Snap7",
-            "User8Snap8",
-            "User8Snap10",
-            "User8Snap12",
-            "User8Snap16",
-            "User8Snap17"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User52",
-                "User36",
-                "User63",
-                "User33",
-                "User36"
-            ]
-        }
-    },
-    {
-        "idAsset": "135270",
+        "idAsset": "676474",
         "User": "User9",
         "Snaps": [
             "User9Snap1",
             "User9Snap2",
             "User9Snap3",
             "User9Snap4",
-            "User9Snap7",
-            "User9Snap14"
+            "User9Snap5",
+            "User9Snap7"
         ],
         "StatusGPS": false,
         "isHotspot": true,
@@ -235,126 +210,201 @@
         }
     },
     {
-        "idAsset": "387058",
+        "idAsset": "908821",
         "User": "User10",
         "Snaps": [
-            "User10Snap0",
-            "User10Snap1"
+            "User10Snap1",
+            "User10Snap4",
+            "User10Snap5",
+            "User10Snap7",
+            "User10Snap8",
+            "User10Snap9",
+            "User10Snap10",
+            "User10Snap14"
         ],
-        "StatusGPS": true,
-        "isHotspot": false,
+        "StatusGPS": false,
+        "isHotspot": true,
         "isSatellite": false,
-        "isHideLiveLocation": true,
+        "isHideLiveLocation": false,
         "GhostMode": {
             "isGhostMode": false,
             "GhostModeFriends": []
         }
     },
     {
-        "idAsset": "507095",
+        "idAsset": "889478",
         "User": "User11",
         "Snaps": [
             "User11Snap0",
-            "User11Snap4",
-            "User11Snap5",
+            "User11Snap2",
+            "User11Snap3",
             "User11Snap6",
             "User11Snap7",
-            "User11Snap8",
             "User11Snap9",
-            "User11Snap12",
+            "User11Snap10",
+            "User11Snap11",
             "User11Snap13",
-            "User11Snap15",
-            "User11Snap18",
+            "User11Snap14",
+            "User11Snap16",
+            "User11Snap17",
+            "User11Snap19",
+            "User11Snap20",
             "User11Snap21",
             "User11Snap23",
-            "User11Snap25",
-            "User11Snap26"
+            "User11Snap24",
+            "User11Snap28",
+            "User11Snap29"
         ],
         "StatusGPS": false,
         "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User18",
-                "User32",
-                "User40",
-                "User73",
-                "User33"
-            ]
-        }
-    },
-    {
-        "idAsset": "677429",
-        "User": "User12",
-        "Snaps": [
-            "User12Snap1",
-            "User12Snap3",
-            "User12Snap4",
-            "User12Snap6"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
+        "isSatellite": false,
         "isHideLiveLocation": true,
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User91",
-                "User27",
-                "User27",
-                "User53",
-                "User2"
+                "User46",
+                "User39",
+                "User72",
+                "User99"
             ]
         }
     },
     {
-        "idAsset": "823500",
-        "User": "User13",
+        "idAsset": "127922",
+        "User": "User12",
         "Snaps": [
-            "User13Snap2",
-            "User13Snap3",
-            "User13Snap4",
-            "User13Snap9",
-            "User13Snap11",
-            "User13Snap12",
-            "User13Snap13",
-            "User13Snap15",
-            "User13Snap18"
+            "User12Snap5",
+            "User12Snap9",
+            "User12Snap12",
+            "User12Snap15",
+            "User12Snap17",
+            "User12Snap20",
+            "User12Snap23",
+            "User12Snap25",
+            "User12Snap26",
+            "User12Snap27",
+            "User12Snap29"
         ],
-        "StatusGPS": true,
+        "StatusGPS": false,
         "isHotspot": false,
         "isSatellite": true,
         "isHideLiveLocation": true,
         "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "779294",
+        "User": "User13",
+        "Snaps": [
+            "User13Snap1",
+            "User13Snap4",
+            "User13Snap5",
+            "User13Snap6",
+            "User13Snap7",
+            "User13Snap8",
+            "User13Snap10",
+            "User13Snap11",
+            "User13Snap14",
+            "User13Snap15",
+            "User13Snap16",
+            "User13Snap17",
+            "User13Snap20"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "732692",
+        "User": "User14",
+        "Snaps": [
+            "User14Snap1",
+            "User14Snap7",
+            "User14Snap8",
+            "User14Snap10",
+            "User14Snap13"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User59",
-                "User59"
+                "User79",
+                "User80",
+                "User80",
+                "User89",
+                "User18"
             ]
         }
     },
     {
-        "idAsset": "846241",
-        "User": "User14",
+        "idAsset": "735588",
+        "User": "User15",
         "Snaps": [
-            "User14Snap0",
-            "User14Snap3",
-            "User14Snap4",
-            "User14Snap5",
-            "User14Snap10",
-            "User14Snap11",
-            "User14Snap15",
-            "User14Snap17",
-            "User14Snap20",
-            "User14Snap21",
-            "User14Snap23",
-            "User14Snap24",
-            "User14Snap25"
+            "User15Snap2",
+            "User15Snap6",
+            "User15Snap8"
         ],
         "StatusGPS": true,
-        "isHotspot": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User62"
+            ]
+        }
+    },
+    {
+        "idAsset": "608332",
+        "User": "User16",
+        "Snaps": [
+            "User16Snap1",
+            "User16Snap2",
+            "User16Snap3",
+            "User16Snap4",
+            "User16Snap12"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User53",
+                "User32",
+                "User32",
+                "User32"
+            ]
+        }
+    },
+    {
+        "idAsset": "223475",
+        "User": "User17",
+        "Snaps": [
+            "User17Snap2",
+            "User17Snap3",
+            "User17Snap5",
+            "User17Snap6",
+            "User17Snap9",
+            "User17Snap11",
+            "User17Snap15",
+            "User17Snap19",
+            "User17Snap26"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
         "isSatellite": false,
         "isHideLiveLocation": false,
         "GhostMode": {
@@ -363,17 +413,136 @@
         }
     },
     {
-        "idAsset": "547545",
-        "User": "User15",
+        "idAsset": "580513",
+        "User": "User18",
         "Snaps": [
-            "User15Snap1",
-            "User15Snap2",
-            "User15Snap4",
-            "User15Snap6",
-            "User15Snap7"
+            "User18Snap1",
+            "User18Snap2",
+            "User18Snap6",
+            "User18Snap7",
+            "User18Snap8",
+            "User18Snap11",
+            "User18Snap12"
         ],
         "StatusGPS": false,
-        "isHotspot": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User98",
+                "User32",
+                "User98"
+            ]
+        }
+    },
+    {
+        "idAsset": "286064",
+        "User": "User19",
+        "Snaps": [
+            "User19Snap0",
+            "User19Snap3",
+            "User19Snap4",
+            "User19Snap5",
+            "User19Snap6",
+            "User19Snap10",
+            "User19Snap11",
+            "User19Snap13",
+            "User19Snap16"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User61",
+                "User1",
+                "User93"
+            ]
+        }
+    },
+    {
+        "idAsset": "046852",
+        "User": "User20",
+        "Snaps": [
+            "User20Snap4",
+            "User20Snap7",
+            "User20Snap8",
+            "User20Snap10",
+            "User20Snap12",
+            "User20Snap15",
+            "User20Snap16",
+            "User20Snap19",
+            "User20Snap25",
+            "User20Snap26",
+            "User20Snap27"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User55",
+                "User37",
+                "User37"
+            ]
+        }
+    },
+    {
+        "idAsset": "126353",
+        "User": "User21",
+        "Snaps": [
+            "User21Snap0",
+            "User21Snap2",
+            "User21Snap3",
+            "User21Snap5",
+            "User21Snap7",
+            "User21Snap8",
+            "User21Snap11",
+            "User21Snap13",
+            "User21Snap21",
+            "User21Snap22"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User58",
+                "User58",
+                "User58",
+                "User58",
+                "User58"
+            ]
+        }
+    },
+    {
+        "idAsset": "691366",
+        "User": "User22",
+        "Snaps": [
+            "User22Snap1",
+            "User22Snap4",
+            "User22Snap5",
+            "User22Snap8",
+            "User22Snap10",
+            "User22Snap13",
+            "User22Snap14",
+            "User22Snap18",
+            "User22Snap19",
+            "User22Snap21",
+            "User22Snap22",
+            "User22Snap24",
+            "User22Snap25"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
         "isSatellite": true,
         "isHideLiveLocation": false,
         "GhostMode": {
@@ -382,1606 +551,284 @@
         }
     },
     {
-        "idAsset": "577299",
-        "User": "User16",
+        "idAsset": "733403",
+        "User": "User23",
         "Snaps": [
-            "User16Snap1"
+            "User23Snap0",
+            "User23Snap2",
+            "User23Snap3",
+            "User23Snap4",
+            "User23Snap5",
+            "User23Snap6",
+            "User23Snap7",
+            "User23Snap8",
+            "User23Snap10"
         ],
         "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User68",
+                "User94"
+            ]
+        }
+    },
+    {
+        "idAsset": "905759",
+        "User": "User24",
+        "Snaps": [
+            "User24Snap0",
+            "User24Snap1",
+            "User24Snap2",
+            "User24Snap3",
+            "User24Snap4",
+            "User24Snap5",
+            "User24Snap7",
+            "User24Snap8",
+            "User24Snap11",
+            "User24Snap12"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User75",
+                "User86",
+                "User66",
+                "User18"
+            ]
+        }
+    },
+    {
+        "idAsset": "912024",
+        "User": "User25",
+        "Snaps": [
+            "User25Snap1",
+            "User25Snap2",
+            "User25Snap3",
+            "User25Snap6"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "412076",
+        "User": "User26",
+        "Snaps": [
+            "User26Snap3",
+            "User26Snap7",
+            "User26Snap8",
+            "User26Snap11",
+            "User26Snap13",
+            "User26Snap14"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "829029",
+        "User": "User27",
+        "Snaps": [
+            "User27Snap1"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User60",
+                "User52",
+                "User55",
+                "User22"
+            ]
+        }
+    },
+    {
+        "idAsset": "878072",
+        "User": "User28",
+        "Snaps": [
+            "User28Snap2",
+            "User28Snap3"
+        ],
+        "StatusGPS": false,
         "isHotspot": true,
         "isSatellite": false,
         "isHideLiveLocation": true,
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User15",
-                "User18",
-                "User74",
-                "User65",
+                "User27",
+                "User83",
+                "User36"
+            ]
+        }
+    },
+    {
+        "idAsset": "170769",
+        "User": "User29",
+        "Snaps": [
+            "User29Snap1",
+            "User29Snap2",
+            "User29Snap3",
+            "User29Snap4",
+            "User29Snap11",
+            "User29Snap12",
+            "User29Snap13"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User5",
+                "User72",
+                "User3",
+                "User72",
                 "User77"
             ]
         }
     },
     {
-        "idAsset": "148986",
-        "User": "User17",
-        "Snaps": [
-            "User17Snap5",
-            "User17Snap8",
-            "User17Snap9",
-            "User17Snap12",
-            "User17Snap14",
-            "User17Snap15",
-            "User17Snap16",
-            "User17Snap17",
-            "User17Snap18",
-            "User17Snap19"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "075396",
-        "User": "User18",
-        "Snaps": [
-            "User18Snap0",
-            "User18Snap2",
-            "User18Snap3",
-            "User18Snap4",
-            "User18Snap5"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "996534",
-        "User": "User19",
-        "Snaps": [
-            "User19Snap2",
-            "User19Snap4",
-            "User19Snap8"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "227181",
-        "User": "User20",
-        "Snaps": [
-            "User20Snap1",
-            "User20Snap2",
-            "User20Snap3",
-            "User20Snap4",
-            "User20Snap7",
-            "User20Snap11",
-            "User20Snap15",
-            "User20Snap17",
-            "User20Snap21",
-            "User20Snap22",
-            "User20Snap23",
-            "User20Snap25",
-            "User20Snap26",
-            "User20Snap27"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User70",
-                "User68",
-                "User40"
-            ]
-        }
-    },
-    {
-        "idAsset": "495987",
-        "User": "User21",
-        "Snaps": [
-            "User21Snap2",
-            "User21Snap3",
-            "User21Snap7",
-            "User21Snap9",
-            "User21Snap10",
-            "User21Snap11",
-            "User21Snap12",
-            "User21Snap13",
-            "User21Snap14",
-            "User21Snap17",
-            "User21Snap19",
-            "User21Snap20",
-            "User21Snap21"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User64",
-                "User2"
-            ]
-        }
-    },
-    {
-        "idAsset": "371080",
-        "User": "User22",
-        "Snaps": [
-            "User22Snap2",
-            "User22Snap4",
-            "User22Snap5",
-            "User22Snap6",
-            "User22Snap7",
-            "User22Snap10",
-            "User22Snap12",
-            "User22Snap13",
-            "User22Snap14",
-            "User22Snap16",
-            "User22Snap17",
-            "User22Snap20",
-            "User22Snap21",
-            "User22Snap22",
-            "User22Snap24",
-            "User22Snap25",
-            "User22Snap27",
-            "User22Snap29"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "943666",
-        "User": "User23",
-        "Snaps": [
-            "User23Snap0",
-            "User23Snap1",
-            "User23Snap3",
-            "User23Snap6",
-            "User23Snap7",
-            "User23Snap8",
-            "User23Snap11",
-            "User23Snap13",
-            "User23Snap14"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User38",
-                "User97",
-                "User18",
-                "User10"
-            ]
-        }
-    },
-    {
-        "idAsset": "611180",
-        "User": "User24",
-        "Snaps": [
-            "User24Snap9",
-            "User24Snap10",
-            "User24Snap12"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "425896",
-        "User": "User25",
-        "Snaps": [
-            "User25Snap0",
-            "User25Snap1",
-            "User25Snap4",
-            "User25Snap6",
-            "User25Snap8",
-            "User25Snap12",
-            "User25Snap13",
-            "User25Snap16"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "350399",
-        "User": "User26",
-        "Snaps": [
-            "User26Snap2",
-            "User26Snap3",
-            "User26Snap4",
-            "User26Snap7",
-            "User26Snap8"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User66",
-                "User11",
-                "User95",
-                "User2"
-            ]
-        }
-    },
-    {
-        "idAsset": "110955",
-        "User": "User27",
-        "Snaps": [
-            "User27Snap0",
-            "User27Snap4",
-            "User27Snap5"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "002052",
-        "User": "User28",
-        "Snaps": [
-            "User28Snap0",
-            "User28Snap1",
-            "User28Snap4",
-            "User28Snap7",
-            "User28Snap11",
-            "User28Snap13",
-            "User28Snap15",
-            "User28Snap16",
-            "User28Snap18",
-            "User28Snap21",
-            "User28Snap23",
-            "User28Snap24",
-            "User28Snap28"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "411771",
-        "User": "User29",
-        "Snaps": [
-            "User29Snap0",
-            "User29Snap3",
-            "User29Snap4",
-            "User29Snap6",
-            "User29Snap7",
-            "User29Snap10",
-            "User29Snap11",
-            "User29Snap13",
-            "User29Snap14",
-            "User29Snap15",
-            "User29Snap17"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User2",
-                "User49",
-                "User81"
-            ]
-        }
-    },
-    {
-        "idAsset": "296074",
+        "idAsset": "574876",
         "User": "User30",
         "Snaps": [
             "User30Snap0",
+            "User30Snap1",
             "User30Snap2",
+            "User30Snap3",
             "User30Snap4",
             "User30Snap5",
-            "User30Snap6",
-            "User30Snap7",
-            "User30Snap10",
-            "User30Snap12",
-            "User30Snap13",
-            "User30Snap14",
-            "User30Snap15"
+            "User30Snap8"
         ],
         "StatusGPS": false,
         "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User21",
-                "User9"
+                "User62",
+                "User29",
+                "User76"
             ]
         }
     },
     {
-        "idAsset": "422774",
+        "idAsset": "799700",
         "User": "User31",
         "Snaps": [
-            "User31Snap0",
-            "User31Snap2",
+            "User31Snap3",
+            "User31Snap4",
             "User31Snap5",
-            "User31Snap7",
+            "User31Snap6",
             "User31Snap8",
-            "User31Snap10",
-            "User31Snap12"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User89",
-                "User20"
-            ]
-        }
-    },
-    {
-        "idAsset": "379602",
-        "User": "User32",
-        "Snaps": [
-            "User32Snap0"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User70",
-                "User34",
-                "User81",
-                "User25"
-            ]
-        }
-    },
-    {
-        "idAsset": "305682",
-        "User": "User33",
-        "Snaps": [
-            "User33Snap4",
-            "User33Snap5",
-            "User33Snap6",
-            "User33Snap7",
-            "User33Snap9",
-            "User33Snap10",
-            "User33Snap11",
-            "User33Snap14",
-            "User33Snap18"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User10",
-                "User31",
-                "User10"
-            ]
-        }
-    },
-    {
-        "idAsset": "973144",
-        "User": "User34",
-        "Snaps": [
-            "User34Snap1",
-            "User34Snap2"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "034055",
-        "User": "User35",
-        "Snaps": [
-            "User35Snap1",
-            "User35Snap2",
-            "User35Snap8",
-            "User35Snap9",
-            "User35Snap10",
-            "User35Snap13"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "052812",
-        "User": "User36",
-        "Snaps": [
-            "User36Snap0",
-            "User36Snap2"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User32",
-                "User69",
-                "User69",
-                "User50"
-            ]
-        }
-    },
-    {
-        "idAsset": "420789",
-        "User": "User37",
-        "Snaps": [
-            "User37Snap1",
-            "User37Snap3",
-            "User37Snap4",
-            "User37Snap6",
-            "User37Snap7",
-            "User37Snap9",
-            "User37Snap11",
-            "User37Snap18",
-            "User37Snap20",
-            "User37Snap22",
-            "User37Snap23"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "755601",
-        "User": "User38",
-        "Snaps": [
-            "User38Snap1",
-            "User38Snap7",
-            "User38Snap8",
-            "User38Snap9",
-            "User38Snap10",
-            "User38Snap11",
-            "User38Snap12"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User90",
-                "User78"
-            ]
-        }
-    },
-    {
-        "idAsset": "151057",
-        "User": "User39",
-        "Snaps": [
-            "User39Snap1",
-            "User39Snap5",
-            "User39Snap6",
-            "User39Snap8"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User9",
-                "User54",
-                "User59",
-                "User56"
-            ]
-        }
-    },
-    {
-        "idAsset": "436545",
-        "User": "User40",
-        "Snaps": [
-            "User40Snap0",
-            "User40Snap3"
+            "User31Snap9",
+            "User31Snap10"
         ],
         "StatusGPS": false,
         "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User29"
-            ]
-        }
-    },
-    {
-        "idAsset": "922627",
-        "User": "User41",
-        "Snaps": [
-            "User41Snap0",
-            "User41Snap3",
-            "User41Snap5",
-            "User41Snap7",
-            "User41Snap9",
-            "User41Snap10",
-            "User41Snap11",
-            "User41Snap12",
-            "User41Snap16",
-            "User41Snap17",
-            "User41Snap18"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User73",
-                "User52",
-                "User91"
-            ]
-        }
-    },
-    {
-        "idAsset": "754054",
-        "User": "User42",
-        "Snaps": [
-            "User42Snap0",
-            "User42Snap1",
-            "User42Snap2",
-            "User42Snap3",
-            "User42Snap4",
-            "User42Snap5"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
         "isSatellite": true,
         "isHideLiveLocation": false,
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
                 "User27",
-                "User37"
-            ]
-        }
-    },
-    {
-        "idAsset": "375989",
-        "User": "User43",
-        "Snaps": [
-            "User43Snap0",
-            "User43Snap3",
-            "User43Snap5",
-            "User43Snap6"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "623355",
-        "User": "User44",
-        "Snaps": [
-            "User44Snap0"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "274685",
-        "User": "User45",
-        "Snaps": [],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "910153",
-        "User": "User46",
-        "Snaps": [
-            "User46Snap3",
-            "User46Snap5",
-            "User46Snap6",
-            "User46Snap7",
-            "User46Snap9"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User70",
-                "User8",
-                "User8",
-                "User19"
-            ]
-        }
-    },
-    {
-        "idAsset": "680963",
-        "User": "User47",
-        "Snaps": [
-            "User47Snap0",
-            "User47Snap1"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User15",
-                "User81",
-                "User88",
-                "User35"
-            ]
-        }
-    },
-    {
-        "idAsset": "859215",
-        "User": "User48",
-        "Snaps": [
-            "User48Snap0",
-            "User48Snap2",
-            "User48Snap4",
-            "User48Snap7",
-            "User48Snap9",
-            "User48Snap11",
-            "User48Snap12",
-            "User48Snap14"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User78",
-                "User41",
-                "User71",
-                "User56"
-            ]
-        }
-    },
-    {
-        "idAsset": "588370",
-        "User": "User49",
-        "Snaps": [
-            "User49Snap0",
-            "User49Snap1",
-            "User49Snap4"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User19",
-                "User7",
-                "User15"
-            ]
-        }
-    },
-    {
-        "idAsset": "450797",
-        "User": "User50",
-        "Snaps": [
-            "User50Snap0",
-            "User50Snap2",
-            "User50Snap5"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User63",
-                "User48"
-            ]
-        }
-    },
-    {
-        "idAsset": "373899",
-        "User": "User51",
-        "Snaps": [
-            "User51Snap0",
-            "User51Snap3",
-            "User51Snap4",
-            "User51Snap6",
-            "User51Snap8",
-            "User51Snap10",
-            "User51Snap13"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User60",
-                "User45",
-                "User75",
-                "User85"
-            ]
-        }
-    },
-    {
-        "idAsset": "636974",
-        "User": "User52",
-        "Snaps": [
-            "User52Snap4",
-            "User52Snap6",
-            "User52Snap8",
-            "User52Snap9",
-            "User52Snap12",
-            "User52Snap14"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "668554",
-        "User": "User53",
-        "Snaps": [
-            "User53Snap1",
-            "User53Snap2",
-            "User53Snap4",
-            "User53Snap5",
-            "User53Snap10",
-            "User53Snap11",
-            "User53Snap12",
-            "User53Snap13",
-            "User53Snap14",
-            "User53Snap18",
-            "User53Snap20"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User84",
-                "User84",
-                "User24",
-                "User49"
-            ]
-        }
-    },
-    {
-        "idAsset": "414234",
-        "User": "User54",
-        "Snaps": [
-            "User54Snap1",
-            "User54Snap2",
-            "User54Snap3",
-            "User54Snap5",
-            "User54Snap7",
-            "User54Snap9",
-            "User54Snap11",
-            "User54Snap12",
-            "User54Snap13",
-            "User54Snap16",
-            "User54Snap18",
-            "User54Snap22",
-            "User54Snap23"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User33",
-                "User60",
-                "User35",
-                "User60"
-            ]
-        }
-    },
-    {
-        "idAsset": "519835",
-        "User": "User55",
-        "Snaps": [
-            "User55Snap0",
-            "User55Snap1",
-            "User55Snap2",
-            "User55Snap4",
-            "User55Snap6",
-            "User55Snap11",
-            "User55Snap13"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User81",
-                "User49",
-                "User31",
-                "User31",
-                "User50"
-            ]
-        }
-    },
-    {
-        "idAsset": "995510",
-        "User": "User56",
-        "Snaps": [
-            "User56Snap5"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User4",
-                "User4",
-                "User74",
-                "User99",
-                "User28"
-            ]
-        }
-    },
-    {
-        "idAsset": "789303",
-        "User": "User57",
-        "Snaps": [
-            "User57Snap2",
-            "User57Snap4",
-            "User57Snap5",
-            "User57Snap8",
-            "User57Snap10"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User60",
-                "User25"
-            ]
-        }
-    },
-    {
-        "idAsset": "698277",
-        "User": "User58",
-        "Snaps": [
-            "User58Snap3",
-            "User58Snap6"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User85",
-                "User17",
-                "User75",
-                "User14",
-                "User75"
-            ]
-        }
-    },
-    {
-        "idAsset": "273350",
-        "User": "User59",
-        "Snaps": [
-            "User59Snap0",
-            "User59Snap2",
-            "User59Snap3",
-            "User59Snap4",
-            "User59Snap5",
-            "User59Snap9"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "724748",
-        "User": "User60",
-        "Snaps": [
-            "User60Snap0",
-            "User60Snap1",
-            "User60Snap3",
-            "User60Snap5",
-            "User60Snap13",
-            "User60Snap15",
-            "User60Snap16",
-            "User60Snap17",
-            "User60Snap23"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "954769",
-        "User": "User61",
-        "Snaps": [
-            "User61Snap0",
-            "User61Snap2",
-            "User61Snap4",
-            "User61Snap5",
-            "User61Snap6",
-            "User61Snap9",
-            "User61Snap10",
-            "User61Snap14",
-            "User61Snap15",
-            "User61Snap16",
-            "User61Snap17",
-            "User61Snap19"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User80",
-                "User3",
-                "User80",
-                "User5"
-            ]
-        }
-    },
-    {
-        "idAsset": "669918",
-        "User": "User62",
-        "Snaps": [
-            "User62Snap1",
-            "User62Snap2",
-            "User62Snap3",
-            "User62Snap5",
-            "User62Snap6",
-            "User62Snap11"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User54",
-                "User54",
-                "User71"
-            ]
-        }
-    },
-    {
-        "idAsset": "651415",
-        "User": "User63",
-        "Snaps": [
-            "User63Snap0",
-            "User63Snap2",
-            "User63Snap3",
-            "User63Snap4",
-            "User63Snap5",
-            "User63Snap6",
-            "User63Snap7",
-            "User63Snap9",
-            "User63Snap10"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User40",
-                "User55",
-                "User96",
-                "User50"
-            ]
-        }
-    },
-    {
-        "idAsset": "563547",
-        "User": "User64",
-        "Snaps": [
-            "User64Snap2",
-            "User64Snap3",
-            "User64Snap4",
-            "User64Snap5",
-            "User64Snap7",
-            "User64Snap8",
-            "User64Snap9",
-            "User64Snap10",
-            "User64Snap11"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User63",
-                "User3",
-                "User87"
-            ]
-        }
-    },
-    {
-        "idAsset": "225801",
-        "User": "User65",
-        "Snaps": [
-            "User65Snap0",
-            "User65Snap1",
-            "User65Snap4"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "315230",
-        "User": "User66",
-        "Snaps": [
-            "User66Snap0",
-            "User66Snap5",
-            "User66Snap7",
-            "User66Snap11",
-            "User66Snap14"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "631525",
-        "User": "User67",
-        "Snaps": [
-            "User67Snap1",
-            "User67Snap2",
-            "User67Snap3",
-            "User67Snap4",
-            "User67Snap6",
-            "User67Snap7",
-            "User67Snap9",
-            "User67Snap10",
-            "User67Snap11",
-            "User67Snap13",
-            "User67Snap14",
-            "User67Snap15",
-            "User67Snap16",
-            "User67Snap20",
-            "User67Snap21"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "711836",
-        "User": "User68",
-        "Snaps": [
-            "User68Snap0",
-            "User68Snap2",
-            "User68Snap4",
-            "User68Snap5",
-            "User68Snap10",
-            "User68Snap11",
-            "User68Snap13",
-            "User68Snap17",
-            "User68Snap18",
-            "User68Snap20",
-            "User68Snap23",
-            "User68Snap24"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "965813",
-        "User": "User69",
-        "Snaps": [
-            "User69Snap3",
-            "User69Snap4",
-            "User69Snap6",
-            "User69Snap7",
-            "User69Snap13"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User98"
-            ]
-        }
-    },
-    {
-        "idAsset": "972928",
-        "User": "User70",
-        "Snaps": [
-            "User70Snap0",
-            "User70Snap3",
-            "User70Snap4",
-            "User70Snap8",
-            "User70Snap9",
-            "User70Snap12",
-            "User70Snap13",
-            "User70Snap15",
-            "User70Snap16",
-            "User70Snap18",
-            "User70Snap19",
-            "User70Snap22",
-            "User70Snap23"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "832786",
-        "User": "User71",
-        "Snaps": [
-            "User71Snap5",
-            "User71Snap6",
-            "User71Snap7",
-            "User71Snap8",
-            "User71Snap9",
-            "User71Snap10",
-            "User71Snap14",
-            "User71Snap17",
-            "User71Snap18",
-            "User71Snap21",
-            "User71Snap22",
-            "User71Snap24",
-            "User71Snap26"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User96",
-                "User46",
-                "User46",
-                "User96",
-                "User96"
-            ]
-        }
-    },
-    {
-        "idAsset": "001506",
-        "User": "User72",
-        "Snaps": [
-            "User72Snap1",
-            "User72Snap2",
-            "User72Snap3",
-            "User72Snap7",
-            "User72Snap8",
-            "User72Snap9",
-            "User72Snap11",
-            "User72Snap13",
-            "User72Snap15",
-            "User72Snap17",
-            "User72Snap20",
-            "User72Snap21"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User42",
-                "User94",
-                "User23"
-            ]
-        }
-    },
-    {
-        "idAsset": "509785",
-        "User": "User73",
-        "Snaps": [
-            "User73Snap0"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
                 "User6",
-                "User16",
-                "User18",
-                "User90",
-                "User25"
+                "User27",
+                "User27"
             ]
         }
     },
     {
-        "idAsset": "489831",
-        "User": "User74",
+        "idAsset": "659901",
+        "User": "User32",
         "Snaps": [
-            "User74Snap1",
-            "User74Snap2",
-            "User74Snap3",
-            "User74Snap5"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User12",
-                "User45",
-                "User31",
-                "User52"
-            ]
-        }
-    },
-    {
-        "idAsset": "573223",
-        "User": "User75",
-        "Snaps": [
-            "User75Snap4",
-            "User75Snap8",
-            "User75Snap9",
-            "User75Snap11",
-            "User75Snap12",
-            "User75Snap13",
-            "User75Snap16",
-            "User75Snap18",
-            "User75Snap21",
-            "User75Snap22",
-            "User75Snap23"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "177931",
-        "User": "User76",
-        "Snaps": [
-            "User76Snap3",
-            "User76Snap4",
-            "User76Snap5",
-            "User76Snap6",
-            "User76Snap8",
-            "User76Snap9",
-            "User76Snap10"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User0",
-                "User77",
-                "User98"
-            ]
-        }
-    },
-    {
-        "idAsset": "328988",
-        "User": "User77",
-        "Snaps": [
-            "User77Snap4",
-            "User77Snap5",
-            "User77Snap9"
+            "User32Snap0",
+            "User32Snap1",
+            "User32Snap7",
+            "User32Snap8"
         ],
         "StatusGPS": false,
         "isHotspot": false,
         "isSatellite": false,
-        "isHideLiveLocation": true,
+        "isHideLiveLocation": false,
         "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User93",
+                "User38",
+                "User22"
+            ]
         }
     },
     {
-        "idAsset": "629890",
-        "User": "User78",
+        "idAsset": "730244",
+        "User": "User33",
         "Snaps": [
-            "User78Snap0",
-            "User78Snap2",
-            "User78Snap3",
-            "User78Snap4"
+            "User33Snap1",
+            "User33Snap2",
+            "User33Snap3",
+            "User33Snap4",
+            "User33Snap6",
+            "User33Snap7",
+            "User33Snap8",
+            "User33Snap10",
+            "User33Snap11",
+            "User33Snap13"
         ],
         "StatusGPS": false,
         "isHotspot": true,
         "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "000438",
-        "User": "User79",
-        "Snaps": [
-            "User79Snap8",
-            "User79Snap10",
-            "User79Snap11"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": false,
         "isHideLiveLocation": true,
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
                 "User37",
-                "User25",
-                "User32",
-                "User37"
+                "User9"
             ]
         }
     },
     {
-        "idAsset": "094460",
-        "User": "User80",
+        "idAsset": "059896",
+        "User": "User34",
         "Snaps": [
-            "User80Snap0",
-            "User80Snap6",
-            "User80Snap7",
-            "User80Snap8",
-            "User80Snap10"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User29",
-                "User21",
-                "User29",
-                "User63",
-                "User55"
-            ]
-        }
-    },
-    {
-        "idAsset": "965710",
-        "User": "User81",
-        "Snaps": [
-            "User81Snap0",
-            "User81Snap2",
-            "User81Snap3",
-            "User81Snap4",
-            "User81Snap5",
-            "User81Snap6",
-            "User81Snap8",
-            "User81Snap9",
-            "User81Snap10",
-            "User81Snap11",
-            "User81Snap12",
-            "User81Snap13",
-            "User81Snap14",
-            "User81Snap15",
-            "User81Snap16",
-            "User81Snap18"
+            "User34Snap2",
+            "User34Snap4",
+            "User34Snap6",
+            "User34Snap9",
+            "User34Snap10",
+            "User34Snap12",
+            "User34Snap14",
+            "User34Snap17",
+            "User34Snap18",
+            "User34Snap19",
+            "User34Snap20",
+            "User34Snap22"
         ],
         "StatusGPS": true,
         "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User0",
-                "User92",
-                "User20"
-            ]
-        }
-    },
-    {
-        "idAsset": "641913",
-        "User": "User82",
-        "Snaps": [
-            "User82Snap1",
-            "User82Snap2"
-        ],
-        "StatusGPS": false,
-        "isHotspot": false,
-        "isSatellite": false,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User36",
-                "User30",
-                "User83",
-                "User5"
-            ]
-        }
-    },
-    {
-        "idAsset": "487252",
-        "User": "User83",
-        "Snaps": [
-            "User83Snap1",
-            "User83Snap3",
-            "User83Snap5",
-            "User83Snap6",
-            "User83Snap10",
-            "User83Snap12",
-            "User83Snap15",
-            "User83Snap17",
-            "User83Snap19",
-            "User83Snap21",
-            "User83Snap22",
-            "User83Snap27"
-        ],
-        "StatusGPS": true,
-        "isHotspot": true,
         "isSatellite": false,
         "isHideLiveLocation": true,
         "GhostMode": {
@@ -1990,60 +837,54 @@
         }
     },
     {
-        "idAsset": "067791",
-        "User": "User84",
+        "idAsset": "121368",
+        "User": "User35",
         "Snaps": [
-            "User84Snap0",
-            "User84Snap7",
-            "User84Snap9"
+            "User35Snap0",
+            "User35Snap2",
+            "User35Snap6",
+            "User35Snap7",
+            "User35Snap8",
+            "User35Snap11",
+            "User35Snap12",
+            "User35Snap13",
+            "User35Snap15",
+            "User35Snap16",
+            "User35Snap17",
+            "User35Snap18",
+            "User35Snap19",
+            "User35Snap21",
+            "User35Snap22",
+            "User35Snap23",
+            "User35Snap26",
+            "User35Snap27"
         ],
         "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": false,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User46"
-            ]
-        }
-    },
-    {
-        "idAsset": "310884",
-        "User": "User85",
-        "Snaps": [
-            "User85Snap1",
-            "User85Snap2",
-            "User85Snap3",
-            "User85Snap4",
-            "User85Snap6",
-            "User85Snap7",
-            "User85Snap8",
-            "User85Snap12"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
+        "isHotspot": false,
         "isSatellite": true,
-        "isHideLiveLocation": true,
+        "isHideLiveLocation": false,
         "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User2",
-                "User61"
-            ]
+            "isGhostMode": false,
+            "GhostModeFriends": []
         }
     },
     {
-        "idAsset": "733781",
-        "User": "User86",
+        "idAsset": "773396",
+        "User": "User36",
         "Snaps": [
-            "User86Snap5",
-            "User86Snap6",
-            "User86Snap11",
-            "User86Snap12",
-            "User86Snap13",
-            "User86Snap14",
-            "User86Snap20"
+            "User36Snap2",
+            "User36Snap4",
+            "User36Snap8",
+            "User36Snap10",
+            "User36Snap11",
+            "User36Snap12",
+            "User36Snap13",
+            "User36Snap14",
+            "User36Snap15",
+            "User36Snap18",
+            "User36Snap19",
+            "User36Snap23",
+            "User36Snap28"
         ],
         "StatusGPS": false,
         "isHotspot": true,
@@ -2052,61 +893,213 @@
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User8",
+                "User9",
+                "User28",
+                "User40",
+                "User40",
+                "User9"
+            ]
+        }
+    },
+    {
+        "idAsset": "552031",
+        "User": "User37",
+        "Snaps": [
+            "User37Snap0",
+            "User37Snap2",
+            "User37Snap3",
+            "User37Snap9"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User83",
+                "User18"
+            ]
+        }
+    },
+    {
+        "idAsset": "387140",
+        "User": "User38",
+        "Snaps": [
+            "User38Snap0",
+            "User38Snap1",
+            "User38Snap4",
+            "User38Snap5",
+            "User38Snap8",
+            "User38Snap9"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User36",
+                "User19",
+                "User19"
+            ]
+        }
+    },
+    {
+        "idAsset": "532454",
+        "User": "User39",
+        "Snaps": [
+            "User39Snap3",
+            "User39Snap5",
+            "User39Snap6",
+            "User39Snap10",
+            "User39Snap11",
+            "User39Snap12"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "837569",
+        "User": "User40",
+        "Snaps": [
+            "User40Snap0",
+            "User40Snap5",
+            "User40Snap6",
+            "User40Snap7"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User23",
+                "User94",
+                "User82",
+                "User12",
+                "User82"
+            ]
+        }
+    },
+    {
+        "idAsset": "900217",
+        "User": "User41",
+        "Snaps": [
+            "User41Snap1",
+            "User41Snap2",
+            "User41Snap7",
+            "User41Snap9",
+            "User41Snap11",
+            "User41Snap12",
+            "User41Snap14",
+            "User41Snap21",
+            "User41Snap22",
+            "User41Snap23"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "634844",
+        "User": "User42",
+        "Snaps": [
+            "User42Snap2",
+            "User42Snap3",
+            "User42Snap5"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "722299",
+        "User": "User43",
+        "Snaps": [
+            "User43Snap0",
+            "User43Snap1",
+            "User43Snap5",
+            "User43Snap6",
+            "User43Snap7",
+            "User43Snap10",
+            "User43Snap11",
+            "User43Snap12",
+            "User43Snap15",
+            "User43Snap16"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User92",
+                "User54",
+                "User75",
+                "User46",
+                "User84"
+            ]
+        }
+    },
+    {
+        "idAsset": "310195",
+        "User": "User44",
+        "Snaps": [
+            "User44Snap0",
+            "User44Snap4",
+            "User44Snap6",
+            "User44Snap8",
+            "User44Snap11",
+            "User44Snap13",
+            "User44Snap14",
+            "User44Snap16",
+            "User44Snap17"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User83",
+                "User94",
                 "User52"
             ]
         }
     },
     {
-        "idAsset": "909790",
-        "User": "User87",
+        "idAsset": "567815",
+        "User": "User45",
         "Snaps": [
-            "User87Snap0",
-            "User87Snap3",
-            "User87Snap6",
-            "User87Snap7",
-            "User87Snap9",
-            "User87Snap10",
-            "User87Snap11",
-            "User87Snap15",
-            "User87Snap16",
-            "User87Snap17",
-            "User87Snap18",
-            "User87Snap19",
-            "User87Snap20",
-            "User87Snap21",
-            "User87Snap22"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "323740",
-        "User": "User88",
-        "Snaps": [
-            "User88Snap2"
+            "User45Snap0",
+            "User45Snap1",
+            "User45Snap3",
+            "User45Snap4",
+            "User45Snap8"
         ],
         "StatusGPS": false,
         "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "030838",
-        "User": "User89",
-        "Snaps": [],
-        "StatusGPS": false,
-        "isHotspot": true,
         "isSatellite": false,
         "isHideLiveLocation": false,
         "GhostMode": {
@@ -2115,59 +1108,15 @@
         }
     },
     {
-        "idAsset": "110626",
-        "User": "User90",
+        "idAsset": "493523",
+        "User": "User46",
         "Snaps": [
-            "User90Snap0"
-        ],
-        "StatusGPS": false,
-        "isHotspot": true,
-        "isSatellite": true,
-        "isHideLiveLocation": true,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "151800",
-        "User": "User91",
-        "Snaps": [
-            "User91Snap1",
-            "User91Snap2",
-            "User91Snap6",
-            "User91Snap8",
-            "User91Snap10",
-            "User91Snap11",
-            "User91Snap12",
-            "User91Snap13",
-            "User91Snap16",
-            "User91Snap23",
-            "User91Snap25"
-        ],
-        "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
-        "GhostMode": {
-            "isGhostMode": false,
-            "GhostModeFriends": []
-        }
-    },
-    {
-        "idAsset": "439625",
-        "User": "User92",
-        "Snaps": [
-            "User92Snap0",
-            "User92Snap2",
-            "User92Snap3",
-            "User92Snap4",
-            "User92Snap5",
-            "User92Snap6",
-            "User92Snap9",
-            "User92Snap10",
-            "User92Snap11",
-            "User92Snap15"
+            "User46Snap1",
+            "User46Snap3",
+            "User46Snap5",
+            "User46Snap8",
+            "User46Snap10",
+            "User46Snap11"
         ],
         "StatusGPS": true,
         "isHotspot": true,
@@ -2176,45 +1125,678 @@
         "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User7",
-                "User40"
+                "User87"
             ]
         }
     },
     {
-        "idAsset": "081228",
-        "User": "User93",
+        "idAsset": "604707",
+        "User": "User47",
         "Snaps": [
-            "User93Snap1",
-            "User93Snap3",
-            "User93Snap5",
-            "User93Snap8",
-            "User93Snap10",
-            "User93Snap13"
+            "User47Snap2"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User22",
+                "User43",
+                "User79",
+                "User73",
+                "User22"
+            ]
+        }
+    },
+    {
+        "idAsset": "240253",
+        "User": "User48",
+        "Snaps": [],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "985206",
+        "User": "User49",
+        "Snaps": [
+            "User49Snap0",
+            "User49Snap2",
+            "User49Snap4",
+            "User49Snap5",
+            "User49Snap7"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User6",
+                "User73",
+                "User55"
+            ]
+        }
+    },
+    {
+        "idAsset": "684033",
+        "User": "User50",
+        "Snaps": [
+            "User50Snap0",
+            "User50Snap1",
+            "User50Snap2",
+            "User50Snap3",
+            "User50Snap6",
+            "User50Snap8",
+            "User50Snap11",
+            "User50Snap12",
+            "User50Snap13",
+            "User50Snap15",
+            "User50Snap18",
+            "User50Snap20"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User14",
+                "User42",
+                "User42",
+                "User55"
+            ]
+        }
+    },
+    {
+        "idAsset": "367374",
+        "User": "User51",
+        "Snaps": [
+            "User51Snap0"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User54",
+                "User58",
+                "User47",
+                "User64",
+                "User54"
+            ]
+        }
+    },
+    {
+        "idAsset": "768112",
+        "User": "User52",
+        "Snaps": [
+            "User52Snap8",
+            "User52Snap9",
+            "User52Snap12",
+            "User52Snap13",
+            "User52Snap19",
+            "User52Snap21"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User6",
+                "User38",
+                "User72",
+                "User38"
+            ]
+        }
+    },
+    {
+        "idAsset": "395027",
+        "User": "User53",
+        "Snaps": [
+            "User53Snap5",
+            "User53Snap6"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User98",
+                "User98",
+                "User47"
+            ]
+        }
+    },
+    {
+        "idAsset": "250158",
+        "User": "User54",
+        "Snaps": [
+            "User54Snap0"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "355703",
+        "User": "User55",
+        "Snaps": [
+            "User55Snap2",
+            "User55Snap3",
+            "User55Snap4",
+            "User55Snap6",
+            "User55Snap7",
+            "User55Snap8",
+            "User55Snap11",
+            "User55Snap15",
+            "User55Snap18",
+            "User55Snap19",
+            "User55Snap20",
+            "User55Snap22",
+            "User55Snap23",
+            "User55Snap25",
+            "User55Snap26",
+            "User55Snap27"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "438098",
+        "User": "User56",
+        "Snaps": [
+            "User56Snap0",
+            "User56Snap2",
+            "User56Snap3",
+            "User56Snap6",
+            "User56Snap8",
+            "User56Snap11",
+            "User56Snap12",
+            "User56Snap13",
+            "User56Snap14",
+            "User56Snap16",
+            "User56Snap17",
+            "User56Snap18",
+            "User56Snap19",
+            "User56Snap20"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "964841",
+        "User": "User57",
+        "Snaps": [
+            "User57Snap0",
+            "User57Snap7",
+            "User57Snap8",
+            "User57Snap10",
+            "User57Snap11",
+            "User57Snap13",
+            "User57Snap14",
+            "User57Snap15",
+            "User57Snap16",
+            "User57Snap17",
+            "User57Snap18",
+            "User57Snap19",
+            "User57Snap20",
+            "User57Snap21",
+            "User57Snap23",
+            "User57Snap26",
+            "User57Snap27",
+            "User57Snap28"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User58",
+                "User84",
+                "User84",
+                "User51"
+            ]
+        }
+    },
+    {
+        "idAsset": "023187",
+        "User": "User58",
+        "Snaps": [
+            "User58Snap0",
+            "User58Snap3",
+            "User58Snap4"
         ],
         "StatusGPS": false,
         "isHotspot": true,
         "isSatellite": true,
         "isHideLiveLocation": true,
         "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "092183",
+        "User": "User59",
+        "Snaps": [
+            "User59Snap1",
+            "User59Snap2",
+            "User59Snap5",
+            "User59Snap8",
+            "User59Snap9",
+            "User59Snap10",
+            "User59Snap12",
+            "User59Snap13",
+            "User59Snap14",
+            "User59Snap15",
+            "User59Snap17",
+            "User59Snap18",
+            "User59Snap20",
+            "User59Snap22"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "540267",
+        "User": "User60",
+        "Snaps": [
+            "User60Snap1",
+            "User60Snap5",
+            "User60Snap7",
+            "User60Snap8",
+            "User60Snap9"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "764832",
+        "User": "User61",
+        "Snaps": [
+            "User61Snap0",
+            "User61Snap1",
+            "User61Snap2",
+            "User61Snap3",
+            "User61Snap10",
+            "User61Snap11",
+            "User61Snap12",
+            "User61Snap14",
+            "User61Snap16",
+            "User61Snap17",
+            "User61Snap19",
+            "User61Snap21",
+            "User61Snap23"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "329890",
+        "User": "User62",
+        "Snaps": [
+            "User62Snap2",
+            "User62Snap5",
+            "User62Snap7",
+            "User62Snap8",
+            "User62Snap9",
+            "User62Snap10",
+            "User62Snap11"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "895201",
+        "User": "User63",
+        "Snaps": [
+            "User63Snap3",
+            "User63Snap6",
+            "User63Snap7",
+            "User63Snap8",
+            "User63Snap13",
+            "User63Snap14",
+            "User63Snap15",
+            "User63Snap17",
+            "User63Snap18",
+            "User63Snap20",
+            "User63Snap24"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
+                "User92",
+                "User5",
+                "User95",
+                "User50",
+                "User41"
+            ]
+        }
+    },
+    {
+        "idAsset": "730192",
+        "User": "User64",
+        "Snaps": [
+            "User64Snap0",
+            "User64Snap7",
+            "User64Snap9",
+            "User64Snap12",
+            "User64Snap14",
+            "User64Snap15",
+            "User64Snap16",
+            "User64Snap19",
+            "User64Snap21",
+            "User64Snap24",
+            "User64Snap26",
+            "User64Snap27"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User4",
+                "User43",
+                "User32",
+                "User57"
+            ]
+        }
+    },
+    {
+        "idAsset": "593072",
+        "User": "User65",
+        "Snaps": [
+            "User65Snap1",
+            "User65Snap2",
+            "User65Snap5",
+            "User65Snap9",
+            "User65Snap11",
+            "User65Snap12"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User86"
+            ]
+        }
+    },
+    {
+        "idAsset": "744288",
+        "User": "User66",
+        "Snaps": [
+            "User66Snap1",
+            "User66Snap3",
+            "User66Snap4",
+            "User66Snap6",
+            "User66Snap8",
+            "User66Snap9",
+            "User66Snap10",
+            "User66Snap11"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User52",
+                "User12"
+            ]
+        }
+    },
+    {
+        "idAsset": "666004",
+        "User": "User67",
+        "Snaps": [
+            "User67Snap1",
+            "User67Snap2",
+            "User67Snap3",
+            "User67Snap10"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User68",
+                "User88",
+                "User75",
                 "User91"
             ]
         }
     },
     {
-        "idAsset": "827720",
-        "User": "User94",
+        "idAsset": "964043",
+        "User": "User68",
         "Snaps": [
-            "User94Snap0",
-            "User94Snap4",
-            "User94Snap5",
-            "User94Snap6",
-            "User94Snap7",
-            "User94Snap9"
+            "User68Snap1"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User34",
+                "User10"
+            ]
+        }
+    },
+    {
+        "idAsset": "635979",
+        "User": "User69",
+        "Snaps": [
+            "User69Snap0",
+            "User69Snap2",
+            "User69Snap3"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User45"
+            ]
+        }
+    },
+    {
+        "idAsset": "565798",
+        "User": "User70",
+        "Snaps": [
+            "User70Snap4",
+            "User70Snap8",
+            "User70Snap10",
+            "User70Snap13",
+            "User70Snap14",
+            "User70Snap15",
+            "User70Snap16",
+            "User70Snap18",
+            "User70Snap19",
+            "User70Snap20"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "880730",
+        "User": "User71",
+        "Snaps": [
+            "User71Snap0",
+            "User71Snap1",
+            "User71Snap4",
+            "User71Snap6",
+            "User71Snap7",
+            "User71Snap8",
+            "User71Snap9",
+            "User71Snap12",
+            "User71Snap13",
+            "User71Snap15",
+            "User71Snap16",
+            "User71Snap21",
+            "User71Snap25"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "816262",
+        "User": "User72",
+        "Snaps": [],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "402365",
+        "User": "User73",
+        "Snaps": [
+            "User73Snap3",
+            "User73Snap5",
+            "User73Snap9",
+            "User73Snap12",
+            "User73Snap13",
+            "User73Snap14",
+            "User73Snap16",
+            "User73Snap18"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User77"
+            ]
+        }
+    },
+    {
+        "idAsset": "668873",
+        "User": "User74",
+        "Snaps": [
+            "User74Snap0",
+            "User74Snap1",
+            "User74Snap5",
+            "User74Snap6",
+            "User74Snap7",
+            "User74Snap8",
+            "User74Snap9",
+            "User74Snap11"
         ],
         "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User91",
+                "User4"
+            ]
+        }
+    },
+    {
+        "idAsset": "781333",
+        "User": "User75",
+        "Snaps": [
+            "User75Snap0",
+            "User75Snap1",
+            "User75Snap3",
+            "User75Snap8"
+        ],
+        "StatusGPS": true,
         "isHotspot": false,
         "isSatellite": true,
         "isHideLiveLocation": false,
@@ -2224,14 +1806,159 @@
         }
     },
     {
-        "idAsset": "747793",
-        "User": "User95",
+        "idAsset": "167722",
+        "User": "User76",
         "Snaps": [
-            "User95Snap2",
-            "User95Snap3",
-            "User95Snap4"
+            "User76Snap1",
+            "User76Snap3",
+            "User76Snap4"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "277508",
+        "User": "User77",
+        "Snaps": [
+            "User77Snap0",
+            "User77Snap2",
+            "User77Snap3",
+            "User77Snap4",
+            "User77Snap6",
+            "User77Snap8",
+            "User77Snap10",
+            "User77Snap12",
+            "User77Snap13",
+            "User77Snap14"
         ],
         "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User60",
+                "User60",
+                "User6",
+                "User6"
+            ]
+        }
+    },
+    {
+        "idAsset": "861942",
+        "User": "User78",
+        "Snaps": [
+            "User78Snap0",
+            "User78Snap3",
+            "User78Snap4",
+            "User78Snap5",
+            "User78Snap7",
+            "User78Snap9",
+            "User78Snap10",
+            "User78Snap13",
+            "User78Snap14",
+            "User78Snap16",
+            "User78Snap19",
+            "User78Snap23",
+            "User78Snap25",
+            "User78Snap26",
+            "User78Snap27"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "486592",
+        "User": "User79",
+        "Snaps": [
+            "User79Snap4",
+            "User79Snap6",
+            "User79Snap13",
+            "User79Snap15",
+            "User79Snap16",
+            "User79Snap17",
+            "User79Snap18",
+            "User79Snap19"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User96",
+                "User73",
+                "User50",
+                "User83"
+            ]
+        }
+    },
+    {
+        "idAsset": "720959",
+        "User": "User80",
+        "Snaps": [
+            "User80Snap1",
+            "User80Snap4",
+            "User80Snap6",
+            "User80Snap7",
+            "User80Snap8",
+            "User80Snap9",
+            "User80Snap11",
+            "User80Snap12",
+            "User80Snap14",
+            "User80Snap15",
+            "User80Snap17",
+            "User80Snap19",
+            "User80Snap22",
+            "User80Snap23"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User90",
+                "User39",
+                "User90"
+            ]
+        }
+    },
+    {
+        "idAsset": "359851",
+        "User": "User81",
+        "Snaps": [
+            "User81Snap0",
+            "User81Snap3",
+            "User81Snap4",
+            "User81Snap6",
+            "User81Snap7",
+            "User81Snap10",
+            "User81Snap11",
+            "User81Snap16",
+            "User81Snap18",
+            "User81Snap19",
+            "User81Snap20",
+            "User81Snap21",
+            "User81Snap26",
+            "User81Snap28"
+        ],
+        "StatusGPS": true,
         "isHotspot": false,
         "isSatellite": true,
         "isHideLiveLocation": true,
@@ -2241,38 +1968,372 @@
         }
     },
     {
-        "idAsset": "006365",
-        "User": "User96",
+        "idAsset": "961535",
+        "User": "User82",
         "Snaps": [
-            "User96Snap0",
-            "User96Snap2",
-            "User96Snap3",
-            "User96Snap7",
-            "User96Snap10",
-            "User96Snap12",
-            "User96Snap13",
-            "User96Snap15",
-            "User96Snap16",
-            "User96Snap18"
+            "User82Snap2"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "148476",
+        "User": "User83",
+        "Snaps": [
+            "User83Snap4",
+            "User83Snap5",
+            "User83Snap7"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User54",
+                "User36",
+                "User80",
+                "User35"
+            ]
+        }
+    },
+    {
+        "idAsset": "386912",
+        "User": "User84",
+        "Snaps": [
+            "User84Snap1",
+            "User84Snap2",
+            "User84Snap4",
+            "User84Snap6",
+            "User84Snap8",
+            "User84Snap11",
+            "User84Snap17",
+            "User84Snap18",
+            "User84Snap19"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User73",
+                "User65",
+                "User40"
+            ]
+        }
+    },
+    {
+        "idAsset": "262166",
+        "User": "User85",
+        "Snaps": [
+            "User85Snap0",
+            "User85Snap1",
+            "User85Snap2",
+            "User85Snap4",
+            "User85Snap5",
+            "User85Snap6",
+            "User85Snap9",
+            "User85Snap13",
+            "User85Snap16",
+            "User85Snap17",
+            "User85Snap18"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User25"
+            ]
+        }
+    },
+    {
+        "idAsset": "225664",
+        "User": "User86",
+        "Snaps": [
+            "User86Snap0",
+            "User86Snap3",
+            "User86Snap10",
+            "User86Snap11",
+            "User86Snap13",
+            "User86Snap14",
+            "User86Snap16",
+            "User86Snap17",
+            "User86Snap21",
+            "User86Snap24",
+            "User86Snap27"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User59"
+            ]
+        }
+    },
+    {
+        "idAsset": "691235",
+        "User": "User87",
+        "Snaps": [
+            "User87Snap0",
+            "User87Snap1",
+            "User87Snap2"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "977011",
+        "User": "User88",
+        "Snaps": [
+            "User88Snap2",
+            "User88Snap4",
+            "User88Snap5",
+            "User88Snap6",
+            "User88Snap7",
+            "User88Snap9",
+            "User88Snap10",
+            "User88Snap12",
+            "User88Snap13",
+            "User88Snap14",
+            "User88Snap15"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User99",
+                "User95"
+            ]
+        }
+    },
+    {
+        "idAsset": "652174",
+        "User": "User89",
+        "Snaps": [
+            "User89Snap1",
+            "User89Snap2",
+            "User89Snap3",
+            "User89Snap4",
+            "User89Snap5",
+            "User89Snap6",
+            "User89Snap8"
+        ],
+        "StatusGPS": true,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "028764",
+        "User": "User90",
+        "Snaps": [
+            "User90Snap0",
+            "User90Snap1",
+            "User90Snap2",
+            "User90Snap4",
+            "User90Snap6",
+            "User90Snap13",
+            "User90Snap15",
+            "User90Snap18",
+            "User90Snap19",
+            "User90Snap21"
         ],
         "StatusGPS": false,
         "isHotspot": false,
         "isSatellite": true,
         "isHideLiveLocation": false,
         "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "426921",
+        "User": "User91",
+        "Snaps": [
+            "User91Snap1",
+            "User91Snap2",
+            "User91Snap4"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
             "isGhostMode": true,
             "GhostModeFriends": [
-                "User1",
-                "User46"
+                "User58",
+                "User78",
+                "User66",
+                "User85",
+                "User63"
             ]
         }
     },
     {
-        "idAsset": "178920",
+        "idAsset": "777532",
+        "User": "User92",
+        "Snaps": [
+            "User92Snap0",
+            "User92Snap2",
+            "User92Snap9",
+            "User92Snap15",
+            "User92Snap19",
+            "User92Snap21",
+            "User92Snap25"
+        ],
+        "StatusGPS": false,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User72",
+                "User72",
+                "User72",
+                "User71",
+                "User13"
+            ]
+        }
+    },
+    {
+        "idAsset": "594517",
+        "User": "User93",
+        "Snaps": [
+            "User93Snap1",
+            "User93Snap4",
+            "User93Snap5",
+            "User93Snap7",
+            "User93Snap9",
+            "User93Snap12",
+            "User93Snap13",
+            "User93Snap15",
+            "User93Snap18",
+            "User93Snap21",
+            "User93Snap22",
+            "User93Snap23"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User28",
+                "User66",
+                "User38"
+            ]
+        }
+    },
+    {
+        "idAsset": "823806",
+        "User": "User94",
+        "Snaps": [
+            "User94Snap1",
+            "User94Snap3",
+            "User94Snap5",
+            "User94Snap6",
+            "User94Snap11",
+            "User94Snap12"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": false,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User13",
+                "User18",
+                "User52",
+                "User67",
+                "User18"
+            ]
+        }
+    },
+    {
+        "idAsset": "314638",
+        "User": "User95",
+        "Snaps": [
+            "User95Snap1",
+            "User95Snap8",
+            "User95Snap10",
+            "User95Snap12",
+            "User95Snap13",
+            "User95Snap14"
+        ],
+        "StatusGPS": false,
+        "isHotspot": false,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": true,
+            "GhostModeFriends": [
+                "User89"
+            ]
+        }
+    },
+    {
+        "idAsset": "698279",
+        "User": "User96",
+        "Snaps": [
+            "User96Snap1",
+            "User96Snap3",
+            "User96Snap6",
+            "User96Snap8",
+            "User96Snap10",
+            "User96Snap11"
+        ],
+        "StatusGPS": true,
+        "isHotspot": true,
+        "isSatellite": true,
+        "isHideLiveLocation": true,
+        "GhostMode": {
+            "isGhostMode": false,
+            "GhostModeFriends": []
+        }
+    },
+    {
+        "idAsset": "756827",
         "User": "User97",
         "Snaps": [
-            "User97Snap0",
-            "User97Snap7"
+            "User97Snap4",
+            "User97Snap13",
+            "User97Snap14",
+            "User97Snap17",
+            "User97Snap18",
+            "User97Snap19",
+            "User97Snap23"
         ],
         "StatusGPS": false,
         "isHotspot": true,
@@ -2284,49 +2345,34 @@
         }
     },
     {
-        "idAsset": "637381",
+        "idAsset": "236664",
         "User": "User98",
-        "Snaps": [
-            "User98Snap0",
-            "User98Snap2",
-            "User98Snap4",
-            "User98Snap9",
-            "User98Snap10",
-            "User98Snap11",
-            "User98Snap12",
-            "User98Snap13",
-            "User98Snap19",
-            "User98Snap21",
-            "User98Snap23",
-            "User98Snap24"
-        ],
+        "Snaps": [],
         "StatusGPS": false,
-        "isHotspot": true,
+        "isHotspot": false,
         "isSatellite": true,
-        "isHideLiveLocation": false,
+        "isHideLiveLocation": true,
         "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User26"
-            ]
+            "isGhostMode": false,
+            "GhostModeFriends": []
         }
     },
     {
-        "idAsset": "619274",
+        "idAsset": "127577",
         "User": "User99",
-        "Snaps": [],
+        "Snaps": [
+            "User99Snap3",
+            "User99Snap4",
+            "User99Snap8",
+            "User99Snap12"
+        ],
         "StatusGPS": true,
-        "isHotspot": false,
-        "isSatellite": true,
-        "isHideLiveLocation": false,
+        "isHotspot": true,
+        "isSatellite": false,
+        "isHideLiveLocation": true,
         "GhostMode": {
-            "isGhostMode": true,
-            "GhostModeFriends": [
-                "User87",
-                "User9",
-                "User1",
-                "User21"
-            ]
+            "isGhostMode": false,
+            "GhostModeFriends": []
         }
     }
 ]
