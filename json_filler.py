@@ -38,10 +38,10 @@ def generate_users():
         surname = random.choice(surnames)
         
         users_array.append({
-            "username": f"User{i}",
-            "Anagrafica": {
-                "FirstName": name,
-                "LastName": surname,
+            "username": f"user{i}",
+            "anagrafica": {
+                "firstName": name,
+                "lastName": surname,
                 "email": f"{name}.{surname}.{i}@email.com",
                 "snapCode": ''.join(random.choices(string.digits, k=8)),
                 "password": f"password_{name}",
@@ -49,28 +49,29 @@ def generate_users():
                 "phoneNumber": random.choice(numbers),
                 "birthday": random.choice(birthdays),
             },
-            "BusinessInfo": {
+            "businessInfo": {
                 "isBusiness": random.choice([True, False]),
-                "BusinessImage": "",
-                "BusinessName": "",
-                "BusinessAddress": "",
-                "BusinessLocation": "",
+                "bImg": "",
+                "bName": "",
+                "bAddress": "",
+                "bLocation": "",
+                "bLikesCount": "",
             },
             "nSnaps": random.randint(1, MAX_SNAPS_NUMBERS),
             "ownSnaps": [],
-            "LatestOwnSnaps": [],
+            "latestOwnSnaps": [],
             "hasAvatar": hasAvatar,
-            "Avatar": {
+            "avatar": {
                 "idFace": ''.join(random.choices(string.digits, k=5)) if hasAvatar else "",
                 "idBody": ''.join(random.choices(string.digits, k=5)) if hasAvatar else "",
                 "idShirt": ''.join(random.choices(string.digits, k=5)) if hasAvatar else "",
                 "idPants": ''.join(random.choices(string.digits, k=5)) if hasAvatar else "",
-                "Timestamp": datetime.datetime.now().timestamp() if hasAvatar else ""
+                "timestamp": datetime.datetime.now().timestamp() if hasAvatar else ""
             },
-            "Notify": [],
-            "Friends": [],
-            "CloseFriends": [],
-            "Blocked": []
+            "notify": [],
+            "friends": [],
+            "closeFriends": [],
+            "blocked": []
         }) 
         
     with open('output/user.json', 'w') as outfile:
@@ -92,12 +93,12 @@ def generate_snaps():
                     "music": ""
                     },
                 "ownSnaps": user["username"],
-                "UserLikes": [],
-                "LikesCount": random.randint(0, USERS_NUMBER),
-                "TagUsers": [],
-                "Location": random.choice(["", random.choice(coordinates)]),
+                "userLikes": [],
+                "likesCount": random.randint(0, USERS_NUMBER),
+                "tagUsers": [],
+                "location": random.choice(["", random.choice(coordinates)]),
                 "isPrivate": random.choice([True, False]),
-                "Timestamp": datetime.datetime.now().timestamp()
+                "timestamp": datetime.datetime.now().timestamp()
             })
         
     with open('output/snap.json', 'w') as outfile:
@@ -115,35 +116,17 @@ def generate_stickers():
     
     for i in range(MAX_STICKERS_NUMBER):
         sticker_array.append({
-            "idSticker": f'Sticker{i}',
+            "idSticker": f'sticker{i}',
             "text": random.choice(words),
-            "media": random.choice(["GIF", "animatedSticker", "staticSticker"]),
+            "media": random.choice(["gif", "animatedSticker", "staticSticker"]),
             "idAvatar": random.choice(username_list), 
-            "Timestamp": datetime.datetime.now().timestamp()
+            "timestamp": datetime.datetime.now().timestamp()
         })
 
     with open('output/sticker.json', 'w') as outfile:
         json.dump(sticker_array, outfile, indent=4)
         
-'''def update_stickers():
-    
-    chat_file = open('output/chat.json')
-    chats_array = json.load(chat_file)
-    
-    sticker_file = open('output/sticker.json')
-    stickers_array = json.load(sticker_file)
-    
-    for chat in chats_array:
-        chat_users = set(chat["Users"])
-        
-        for sticker in stickers_array:
-            if sticker["idAvatar"] in chat_users:
-                chat["Stickers"].append(sticker)
-            
-    with open('output/chat.json', 'w') as outfile:
-        json.dump(chats_array, outfile, indent=4)'''
-        
-        
+
 def generate_notify():
     
     user_file = open('output/user.json')
@@ -156,10 +139,10 @@ def generate_notify():
     for user in users_array:
         for i in range(random.randint(0,MAX_NOTIFY_NUMBER)):
             notify_array.append({ 
-                "Sender": random.choice(username_list),
-                "idNotify": f'Notify{i}',
-                "Cat": random.choice(["Snap", "Request", "Message"]),
-                "Text": ""
+                "sender": random.choice(username_list),
+                "idNotify": f'notify{i}',
+                "cat": random.choice(["snap", "request", "message"]),
+                "text": ""
             })
 
     with open('output/notify.json', 'w') as outfile:
@@ -175,14 +158,14 @@ def update_notify():
     notify_array = json.load(notify_file)
     
     for notify in notify_array:
-        if notify["Cat"] == "Snap":
-            notify["Text"] = "New Snap"
-            notify["idNotify"] += "Snap"
-        elif notify["Cat"] == "Request":
-            notify["Text"] = "New Request"
+        if notify["cat"] == "snap":
+            notify["text"] = "New snap"
+            notify["idNotify"] += "snap"
+        elif notify["cat"] == "Request":
+            notify["text"] = "New request"
             notify["idNotify"] += "Request"
-        elif notify["Cat"] == "Message":
-            notify["Text"] = "New Message"
+        elif notify["cat"] == "Message":
+            notify["text"] = "New message"
             notify["idNotify"] += "Message"
             
     with open('output/notify.json', 'w') as outfile:
@@ -190,7 +173,7 @@ def update_notify():
         
     for user in users_array:
         for i in range(random.randint(0,5)):
-            user["Notify"].append(random.choice(notify_array))
+            user["notify"].append(random.choice(notify_array))
     
     with open('output/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
@@ -210,31 +193,31 @@ def generate_chats():
 
         user1, user2 = random.sample(usernames, 2)
         
-        chat_id = f'C{i}'
+        chat_id = f'c{i}'
         
         messages = []
         message_count = random.randint(1, 10) 
         for _ in range(message_count):
             sender, receiver = random.choice([user1, user2]), random.choice([user1, user2])
             message = {
-                "User": sender,    
-                "Text": random.choice(msg_file),
-                "Timestamp": datetime.datetime.now().timestamp()
+                "user": sender,    
+                "text": random.choice(msg_file),
+                "timestamp": datetime.datetime.now().timestamp()
             }
             messages.append(message)
 
-        last_message_timestamp = max(message["Timestamp"] for message in messages)
+        last_message_timestamp = max(message["timestamp"] for message in messages)
 
         chat = {
             "idChat": chat_id,
-            "Media": {
-                "Pics": [],
-                "Docs": []
+            "users": [user1, user2],
+            "messages": messages,
+            "media": {
+                "pics": [],
+                "docs": []
             },
-            "Users": [user1, user2],
-            "Messages": messages,
-            "Stickers": [],
-            "Timestamp": last_message_timestamp
+            "stickers": [],
+            "timestamp": last_message_timestamp
         }
 
         chats.append(chat)
@@ -254,17 +237,17 @@ def update_chats():
     stickers_array = json.load(sticker_file)
     
     for chat in chats_array:
-        chat_users = set(chat["Users"])
+        chat_users = set(chat["users"])
         
         for sticker in stickers_array:
             if sticker["idAvatar"] in chat_users:
-                chat["Stickers"].append(sticker)
+                chat["stickers"].append(sticker)
    
     for chats in chats_array:
         for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
-            chats["Media"]["Pics"].append((f"pic{i}"))
+            chats["media"]["pics"].append((f"pic{i}"))
         for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
-            chats["Media"]["Docs"].append((f"doc{i}"))
+            chats["media"]["docs"].append((f"doc{i}"))
             
     with open('output/chat.json', 'w') as outfile:
         json.dump(chats_array, outfile, indent=4)
@@ -280,23 +263,23 @@ def update_users():
         for i in range(random.randint(1,MAX_FRIENDS_NUMBER)):
             
             username_list = (list(map(lambda x: x["username"], users_array)))
-            sub_list = user["Friends"] + [user["username"]]
+            sub_list = user["friends"] + [user["username"]]
             username_list = list(set(username_list) - set(sub_list))
             
             rand_user = random.choice(username_list)
-            user["Friends"].append(rand_user)
-            if (random.choice([True,False])): user["CloseFriends"].append(rand_user)
+            user["friends"].append(rand_user)
+            if (random.choice([True,False])): user["closeFriends"].append(rand_user)
             
     # AGGIUNTA BLOCKED
     for user in users_array:
         for i in range(random.randint(1,MAX_BLOCKED_NUMBER)):
             
             username_list = (list(map(lambda x: x["username"], users_array)))
-            sub_list = user["Friends"] + [user["username"]]
+            sub_list = user["friends"] + [user["username"]]
             username_list = list(set(username_list) - set(sub_list))
             
             rand_user = random.choice(username_list)
-            user["Blocked"].append(rand_user)
+            user["blocked"].append(rand_user)
                         
                 
     snap_file = open('output/snap.json')
@@ -305,9 +288,9 @@ def update_users():
     # AGGIUNTA NUMERO SNAP PER UTENTE
     for user in users_array:
         filtered_snaps = list(filter(lambda x: x["ownSnaps"] == user["username"], snaps_array))
-        filtered_snaps.sort(key = lambda x: x["Timestamp"], reverse=False)
+        filtered_snaps.sort(key = lambda x: x["timestamp"], reverse=False)
         filtered_snaps = list(map(lambda x: x["idSnap"], filtered_snaps))
-        user["LatestOwnSnaps"] = filtered_snaps[-SNAPS_PARTITIONING:]
+        user["latestOwnSnaps"] = filtered_snaps[-SNAPS_PARTITIONING:]
         
         for snap in snaps_array:
             if snap["ownSnaps"] == user["username"]:
@@ -321,7 +304,7 @@ def update_users():
 
     for user in users_array:
         
-        friends_list = list(set(user["Friends"]))    
+        friends_list = list(set(user["friends"]))    
              
         if len(friends_list) == 0:
             is_ghost_mode = False
@@ -335,15 +318,15 @@ def update_users():
                 
         maps_array.append({
             "idAsset": ''.join(random.choices(string.digits, k=6)),
-            "User": user["username"],
-            "Snaps": [],
-            "StatusGPS": random.choice([True, False]),
+            "user": user["username"],
+            "snaps": [],
+            "statusGPS": random.choice([True, False]),
             "isHotspot": random.choice([True, False]),
             "isSatellite": random.choice([True, False]),
             "isHideLiveLocation": random.choice([True, False]),
-            "GhostMode": {
+            "ghostMode": {
                 "isGhostMode": is_ghost_mode,
-                "GhostModeFriends": ghost_friends_list,
+                "ghostModeFriends": ghost_friends_list,
             }
         })
 
@@ -362,10 +345,10 @@ def update_snaps():
     
     # AGGIUNTA TAGGED USERS E LIKES
     for snap in snaps_array:
-        for i in range(snap["LikesCount"]):
-            snap["UserLikes"].append(random.choice(list(set(username_list)-set(snap["UserLikes"]))))
+        for i in range(snap["likesCount"]):
+            snap["userLikes"].append(random.choice(list(set(username_list)-set(snap["userLikes"]))))
         for i in range(random.randint(0,MAX_TAGGED_USERS)):
-            snap["TagUsers"].append(random.choice(list(set(username_list)-set(snap["TagUsers"]))))
+            snap["tagUsers"].append(random.choice(list(set(username_list)-set(snap["tagUsers"]))))
     
     with open('output/snap.json', 'w') as outfile:
         json.dump(snaps_array, outfile, indent=4)
@@ -376,10 +359,11 @@ def update_business():
     users_array = json.load(user_file)
     
     for i in range(USERS_NUMBER):
-        if users_array[i]["BusinessInfo"]["isBusiness"]:
-            users_array[i]["BusinessInfo"]["BusinessName"] = f"UserBusiness{i}"
-            users_array[i]["BusinessInfo"]["BusinessAddress"] = f"{random.choice(streets)}, n. {random.randint(1,100)}"
-            users_array[i]["BusinessInfo"]["BusinessLocation"] = random.choice(coordinates)
+        if users_array[i]["businessInfo"]["isBusiness"]:
+            users_array[i]["businessInfo"]["bName"] = f"userBusiness{i}"
+            users_array[i]["businessInfo"]["bAddress"] = f"{random.choice(streets)}, n. {random.randint(1,100)}"
+            users_array[i]["businessInfo"]["bLocation"] = random.choice(coordinates)
+            users_array[i]["businessInfo"]["bLikesCount"] = random.randint(0, 100)
                 
     with open('output/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
@@ -398,8 +382,8 @@ def update_maps():
         
     for snap in snaps_array:
         for maps in maps_array:
-            if snap["Location"] and snap["ownSnaps"] == maps["User"]:
-                maps["Snaps"].append(snap["idSnap"])
+            if snap["location"] and snap["ownSnaps"] == maps["user"]:
+                maps["snaps"].append(snap["idSnap"])
             
     with open('output/map.json', 'w') as outfile:
         json.dump(maps_array, outfile, indent=4)
@@ -415,6 +399,5 @@ if __name__ == '__main__':
     update_business()
     update_snaps()
     update_chats()
-    #update_stickers()
     update_notify()
     update_maps()
