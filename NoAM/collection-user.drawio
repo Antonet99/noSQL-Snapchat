@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T10:42:57.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="f333KblrpnLeva40jN9_" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T10:46:36.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="443uB9MfM4pK0VH4aTq6" version="22.0.8" type="github">
   <diagram name="Page-1" id="lnG2zAfyn-MAA1SeDjfi">
-    <mxGraphModel dx="954" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             <mxRectangle width="157" height="54" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hmr-0E7K-5ribQI1uCZg-9" value="{ &lt;b&gt;isBusiness&lt;/b&gt;: bool, &lt;b&gt;BImg&lt;/b&gt;: string, &lt;b&gt;BName&lt;/b&gt;: string, &lt;b&gt;BAddress&lt;/b&gt;: string,&amp;nbsp;&lt;b&gt;Location: &lt;/b&gt;string, &lt;b&gt;LikesCountBusiness&lt;/b&gt;: int }" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hmr-0E7K-5ribQI1uCZg-7" vertex="1">
+        <mxCell id="Hmr-0E7K-5ribQI1uCZg-9" value="{ &lt;b&gt;isBusiness&lt;/b&gt;: bool, &lt;b&gt;BImg&lt;/b&gt;: string, &lt;b&gt;BName&lt;/b&gt;: string, &lt;b&gt;BAddress&lt;/b&gt;: string, &lt;b&gt;BLocation: &lt;/b&gt;string, &lt;b&gt;BLikesCount&lt;/b&gt;: int }" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hmr-0E7K-5ribQI1uCZg-7" vertex="1">
           <mxGeometry x="157" width="313" height="54" as="geometry">
             <mxRectangle width="313" height="54" as="alternateBounds" />
           </mxGeometry>
@@ -86,7 +86,7 @@
             <mxRectangle width="157" height="65" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hmr-0E7K-5ribQI1uCZg-24" value="[ { &lt;b&gt;Sender&lt;/b&gt;: K(user),&amp;nbsp;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;idNotify&lt;/b&gt;: string,&lt;br&gt;&lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string },&amp;nbsp;&amp;nbsp;..., { &lt;b&gt;Sender&lt;/b&gt;: K(user),&amp;nbsp;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;idNotify&lt;/b&gt;: string,&amp;nbsp;&lt;b&gt;Cat&lt;/b&gt;: string, &lt;b&gt;Text&lt;/b&gt;: string }]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Hmr-0E7K-5ribQI1uCZg-22" vertex="1">
+        <mxCell id="Hmr-0E7K-5ribQI1uCZg-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[ { &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Sender&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: K(user),&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;idNotify&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: string,&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Cat&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: string, &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Text&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: string },&amp;nbsp;&amp;nbsp;..., { &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Sender&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: K(user),&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;idNotify&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: string,&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Cat&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: string, &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Text&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: string }]&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="Hmr-0E7K-5ribQI1uCZg-22" vertex="1">
           <mxGeometry x="157" width="313" height="65" as="geometry">
             <mxRectangle width="313" height="65" as="alternateBounds" />
           </mxGeometry>
