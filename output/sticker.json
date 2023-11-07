@@ -1,702 +1,702 @@
 [
     {
         "idSticker": "sticker0",
-        "text": "Capelli",
-        "media": "gif",
-        "idAvatar": "user45",
-        "timestamp": 1699354986.180679
+        "text": "Maglia",
+        "media": "staticSticker",
+        "idAvatar": "user32",
+        "timestamp": 1699355279.707259
     },
     {
         "idSticker": "sticker1",
-        "text": "Naso",
+        "text": "Libro",
         "media": "gif",
-        "idAvatar": "user11",
-        "timestamp": 1699354986.180688
+        "idAvatar": "user69",
+        "timestamp": 1699355279.707269
     },
     {
         "idSticker": "sticker2",
-        "text": "Musica",
+        "text": "Sabbia",
         "media": "animatedSticker",
-        "idAvatar": "user44",
-        "timestamp": 1699354986.180707
+        "idAvatar": "user32",
+        "timestamp": 1699355279.707273
     },
     {
         "idSticker": "sticker3",
-        "text": "Barca",
-        "media": "gif",
-        "idAvatar": "user71",
-        "timestamp": 1699354986.180711
+        "text": "Giardino",
+        "media": "staticSticker",
+        "idAvatar": "user49",
+        "timestamp": 1699355279.707277
     },
     {
         "idSticker": "sticker4",
-        "text": "Puzzle",
+        "text": "Lupo",
         "media": "animatedSticker",
-        "idAvatar": "user97",
-        "timestamp": 1699354986.180714
+        "idAvatar": "user54",
+        "timestamp": 1699355279.70728
     },
     {
         "idSticker": "sticker5",
-        "text": "Cavallo",
+        "text": "Barca",
         "media": "gif",
-        "idAvatar": "user51",
-        "timestamp": 1699354986.180718
+        "idAvatar": "user45",
+        "timestamp": 1699355279.707284
     },
     {
         "idSticker": "sticker6",
-        "text": "Rana",
-        "media": "staticSticker",
-        "idAvatar": "user87",
-        "timestamp": 1699354986.180721
+        "text": "Penna",
+        "media": "animatedSticker",
+        "idAvatar": "user38",
+        "timestamp": 1699355279.707288
     },
     {
         "idSticker": "sticker7",
-        "text": "Giardino",
+        "text": "Fotografia",
         "media": "gif",
-        "idAvatar": "user51",
-        "timestamp": 1699354986.180724
+        "idAvatar": "user37",
+        "timestamp": 1699355279.707292
     },
     {
         "idSticker": "sticker8",
-        "text": "Astuccio",
-        "media": "animatedSticker",
-        "idAvatar": "user37",
-        "timestamp": 1699354986.180728
+        "text": "Pianeta",
+        "media": "staticSticker",
+        "idAvatar": "user32",
+        "timestamp": 1699355279.707296
     },
     {
         "idSticker": "sticker9",
-        "text": "Oro",
-        "media": "animatedSticker",
-        "idAvatar": "user32",
-        "timestamp": 1699354986.180751
+        "text": "Scarpe",
+        "media": "staticSticker",
+        "idAvatar": "user7",
+        "timestamp": 1699355279.7073
     },
     {
         "idSticker": "sticker10",
-        "text": "Papera",
+        "text": "Tempo",
         "media": "gif",
-        "idAvatar": "user98",
-        "timestamp": 1699354986.180755
+        "idAvatar": "user42",
+        "timestamp": 1699355279.707303
     },
     {
         "idSticker": "sticker11",
-        "text": "Sedia",
+        "text": "Nuvola",
         "media": "animatedSticker",
-        "idAvatar": "user30",
-        "timestamp": 1699354986.180758
+        "idAvatar": "user70",
+        "timestamp": 1699355279.707307
     },
     {
         "idSticker": "sticker12",
-        "text": "Giostra",
+        "text": "Giardino",
         "media": "staticSticker",
-        "idAvatar": "user3",
-        "timestamp": 1699354986.180762
+        "idAvatar": "user64",
+        "timestamp": 1699355279.70731
     },
     {
         "idSticker": "sticker13",
-        "text": "Papera",
-        "media": "gif",
-        "idAvatar": "user40",
-        "timestamp": 1699354986.180765
+        "text": "Giraffa",
+        "media": "staticSticker",
+        "idAvatar": "user79",
+        "timestamp": 1699355279.707314
     },
     {
         "idSticker": "sticker14",
-        "text": "Telefono",
-        "media": "gif",
-        "idAvatar": "user68",
-        "timestamp": 1699354986.180769
+        "text": "Porta",
+        "media": "staticSticker",
+        "idAvatar": "user6",
+        "timestamp": 1699355279.707317
     },
     {
         "idSticker": "sticker15",
-        "text": "Neve",
+        "text": "Ombrello",
         "media": "animatedSticker",
-        "idAvatar": "user47",
-        "timestamp": 1699354986.180773
+        "idAvatar": "user80",
+        "timestamp": 1699355279.707321
     },
     {
         "idSticker": "sticker16",
-        "text": "Pizza",
+        "text": "Scarafaggio",
         "media": "animatedSticker",
-        "idAvatar": "user68",
-        "timestamp": 1699354986.180777
+        "idAvatar": "user36",
+        "timestamp": 1699355279.707325
     },
     {
         "idSticker": "sticker17",
-        "text": "Nuvola",
+        "text": "Ombrello",
         "media": "animatedSticker",
-        "idAvatar": "user5",
-        "timestamp": 1699354986.18078
+        "idAvatar": "user59",
+        "timestamp": 1699355279.707329
     },
     {
         "idSticker": "sticker18",
-        "text": "Miele",
-        "media": "gif",
-        "idAvatar": "user0",
-        "timestamp": 1699354986.180798
+        "text": "Dado",
+        "media": "staticSticker",
+        "idAvatar": "user49",
+        "timestamp": 1699355279.707332
     },
     {
         "idSticker": "sticker19",
-        "text": "Miele",
+        "text": "Tavola",
         "media": "gif",
-        "idAvatar": "user42",
-        "timestamp": 1699354986.180801
+        "idAvatar": "user30",
+        "timestamp": 1699355279.707335
     },
     {
         "idSticker": "sticker20",
-        "text": "Astuccio",
-        "media": "animatedSticker",
-        "idAvatar": "user87",
-        "timestamp": 1699354986.180805
+        "text": "Tavola",
+        "media": "gif",
+        "idAvatar": "user34",
+        "timestamp": 1699355279.707339
     },
     {
         "idSticker": "sticker21",
-        "text": "Dado",
-        "media": "animatedSticker",
-        "idAvatar": "user70",
-        "timestamp": 1699354986.180808
+        "text": "Specchio",
+        "media": "staticSticker",
+        "idAvatar": "user60",
+        "timestamp": 1699355279.707342
     },
     {
         "idSticker": "sticker22",
-        "text": "Castello",
-        "media": "animatedSticker",
-        "idAvatar": "user62",
-        "timestamp": 1699354986.180812
+        "text": "Astuccio",
+        "media": "gif",
+        "idAvatar": "user40",
+        "timestamp": 1699355279.707346
     },
     {
         "idSticker": "sticker23",
-        "text": "Oro",
-        "media": "staticSticker",
-        "idAvatar": "user11",
-        "timestamp": 1699354986.180815
+        "text": "Cavallo",
+        "media": "gif",
+        "idAvatar": "user94",
+        "timestamp": 1699355279.707349
     },
     {
         "idSticker": "sticker24",
-        "text": "Tappetino",
-        "media": "gif",
-        "idAvatar": "user10",
-        "timestamp": 1699354986.180819
+        "text": "Strada",
+        "media": "animatedSticker",
+        "idAvatar": "user63",
+        "timestamp": 1699355279.707353
     },
     {
         "idSticker": "sticker25",
-        "text": "Sole",
-        "media": "gif",
-        "idAvatar": "user29",
-        "timestamp": 1699354986.180822
+        "text": "Montagna",
+        "media": "staticSticker",
+        "idAvatar": "user60",
+        "timestamp": 1699355279.707356
     },
     {
         "idSticker": "sticker26",
-        "text": "Fragola",
-        "media": "staticSticker",
+        "text": "Mela",
+        "media": "gif",
         "idAvatar": "user3",
-        "timestamp": 1699354986.180826
+        "timestamp": 1699355279.70736
     },
     {
         "idSticker": "sticker27",
-        "text": "Razzo",
-        "media": "animatedSticker",
-        "idAvatar": "user25",
-        "timestamp": 1699354986.18083
+        "text": "Banana",
+        "media": "staticSticker",
+        "idAvatar": "user33",
+        "timestamp": 1699355279.707364
     },
     {
         "idSticker": "sticker28",
-        "text": "Acqua",
+        "text": "Porta",
         "media": "animatedSticker",
-        "idAvatar": "user16",
-        "timestamp": 1699354986.180833
+        "idAvatar": "user84",
+        "timestamp": 1699355279.707368
     },
     {
         "idSticker": "sticker29",
-        "text": "Luna",
+        "text": "Cuscino",
         "media": "animatedSticker",
-        "idAvatar": "user95",
-        "timestamp": 1699354986.180837
+        "idAvatar": "user35",
+        "timestamp": 1699355279.707372
     },
     {
         "idSticker": "sticker30",
-        "text": "Treno",
-        "media": "animatedSticker",
-        "idAvatar": "user44",
-        "timestamp": 1699354986.180841
+        "text": "Specchio",
+        "media": "staticSticker",
+        "idAvatar": "user15",
+        "timestamp": 1699355279.707375
     },
     {
         "idSticker": "sticker31",
-        "text": "Scimmia",
-        "media": "staticSticker",
-        "idAvatar": "user78",
-        "timestamp": 1699354986.180844
+        "text": "Tempo",
+        "media": "gif",
+        "idAvatar": "user14",
+        "timestamp": 1699355279.70738
     },
     {
         "idSticker": "sticker32",
-        "text": "Orologio",
+        "text": "Fotografia",
         "media": "animatedSticker",
-        "idAvatar": "user43",
-        "timestamp": 1699354986.180847
+        "idAvatar": "user8",
+        "timestamp": 1699355279.707384
     },
     {
         "idSticker": "sticker33",
-        "text": "Avventura",
-        "media": "gif",
-        "idAvatar": "user16",
-        "timestamp": 1699354986.180851
+        "text": "Laguna",
+        "media": "staticSticker",
+        "idAvatar": "user76",
+        "timestamp": 1699355279.707388
     },
     {
         "idSticker": "sticker34",
-        "text": "Papera",
-        "media": "animatedSticker",
-        "idAvatar": "user51",
-        "timestamp": 1699354986.180854
+        "text": "Treno",
+        "media": "gif",
+        "idAvatar": "user13",
+        "timestamp": 1699355279.707391
     },
     {
         "idSticker": "sticker35",
-        "text": "Stella",
-        "media": "staticSticker",
-        "idAvatar": "user71",
-        "timestamp": 1699354986.180858
+        "text": "Montagna",
+        "media": "animatedSticker",
+        "idAvatar": "user54",
+        "timestamp": 1699355279.707395
     },
     {
         "idSticker": "sticker36",
-        "text": "Pesca",
-        "media": "gif",
-        "idAvatar": "user19",
-        "timestamp": 1699354986.180861
+        "text": "Montagna",
+        "media": "animatedSticker",
+        "idAvatar": "user84",
+        "timestamp": 1699355279.707398
     },
     {
         "idSticker": "sticker37",
-        "text": "Polvere",
-        "media": "staticSticker",
-        "idAvatar": "user71",
-        "timestamp": 1699354986.180865
+        "text": "Cielo",
+        "media": "gif",
+        "idAvatar": "user45",
+        "timestamp": 1699355279.707402
     },
     {
         "idSticker": "sticker38",
-        "text": "Scarpe",
-        "media": "gif",
-        "idAvatar": "user60",
-        "timestamp": 1699354986.180869
+        "text": "Stella",
+        "media": "staticSticker",
+        "idAvatar": "user40",
+        "timestamp": 1699355279.707406
     },
     {
         "idSticker": "sticker39",
-        "text": "Pizza",
-        "media": "staticSticker",
-        "idAvatar": "user94",
-        "timestamp": 1699354986.180872
+        "text": "Avventura",
+        "media": "gif",
+        "idAvatar": "user88",
+        "timestamp": 1699355279.707409
     },
     {
         "idSticker": "sticker40",
-        "text": "Lavandino",
-        "media": "animatedSticker",
-        "idAvatar": "user98",
-        "timestamp": 1699354986.180876
+        "text": "Vela",
+        "media": "gif",
+        "idAvatar": "user16",
+        "timestamp": 1699355279.707413
     },
     {
         "idSticker": "sticker41",
-        "text": "Orologio",
+        "text": "Barca",
         "media": "staticSticker",
-        "idAvatar": "user86",
-        "timestamp": 1699354986.18088
+        "idAvatar": "user18",
+        "timestamp": 1699355279.707416
     },
     {
         "idSticker": "sticker42",
-        "text": "Porta",
-        "media": "staticSticker",
-        "idAvatar": "user95",
-        "timestamp": 1699354986.180883
+        "text": "Arancia",
+        "media": "animatedSticker",
+        "idAvatar": "user69",
+        "timestamp": 1699355279.70742
     },
     {
         "idSticker": "sticker43",
-        "text": "Cancro",
-        "media": "staticSticker",
-        "idAvatar": "user31",
-        "timestamp": 1699354986.180887
+        "text": "Rana",
+        "media": "gif",
+        "idAvatar": "user15",
+        "timestamp": 1699355279.707424
     },
     {
         "idSticker": "sticker44",
-        "text": "Fiore",
-        "media": "animatedSticker",
-        "idAvatar": "user11",
-        "timestamp": 1699354986.18089
+        "text": "Penna",
+        "media": "staticSticker",
+        "idAvatar": "user94",
+        "timestamp": 1699355279.707427
     },
     {
         "idSticker": "sticker45",
-        "text": "Cucina",
-        "media": "staticSticker",
-        "idAvatar": "user34",
-        "timestamp": 1699354986.180893
+        "text": "Penna",
+        "media": "animatedSticker",
+        "idAvatar": "user81",
+        "timestamp": 1699355279.70743
     },
     {
         "idSticker": "sticker46",
-        "text": "Caff\u00e8",
-        "media": "gif",
-        "idAvatar": "user98",
-        "timestamp": 1699354986.180897
+        "text": "Ape",
+        "media": "animatedSticker",
+        "idAvatar": "user19",
+        "timestamp": 1699355279.707434
     },
     {
         "idSticker": "sticker47",
-        "text": "Cancro",
-        "media": "gif",
-        "idAvatar": "user45",
-        "timestamp": 1699354986.1809
+        "text": "Dado",
+        "media": "animatedSticker",
+        "idAvatar": "user76",
+        "timestamp": 1699355279.707437
     },
     {
         "idSticker": "sticker48",
-        "text": "Panino",
-        "media": "staticSticker",
-        "idAvatar": "user65",
-        "timestamp": 1699354986.180904
+        "text": "Mela",
+        "media": "animatedSticker",
+        "idAvatar": "user86",
+        "timestamp": 1699355279.70744
     },
     {
         "idSticker": "sticker49",
-        "text": "Oro",
-        "media": "staticSticker",
-        "idAvatar": "user47",
-        "timestamp": 1699354986.180907
+        "text": "Foglia",
+        "media": "gif",
+        "idAvatar": "user11",
+        "timestamp": 1699355279.707444
     },
     {
         "idSticker": "sticker50",
-        "text": "Tavola",
-        "media": "gif",
+        "text": "Oro",
+        "media": "staticSticker",
         "idAvatar": "user2",
-        "timestamp": 1699354986.180911
+        "timestamp": 1699355279.707448
     },
     {
         "idSticker": "sticker51",
-        "text": "Orologio",
+        "text": "Lavandino",
         "media": "gif",
-        "idAvatar": "user10",
-        "timestamp": 1699354986.180914
+        "idAvatar": "user99",
+        "timestamp": 1699355279.707452
     },
     {
         "idSticker": "sticker52",
-        "text": "Miele",
+        "text": "Struzzo",
         "media": "animatedSticker",
-        "idAvatar": "user64",
-        "timestamp": 1699354986.180937
+        "idAvatar": "user31",
+        "timestamp": 1699355279.707455
     },
     {
         "idSticker": "sticker53",
-        "text": "Dado",
-        "media": "animatedSticker",
-        "idAvatar": "user70",
-        "timestamp": 1699354986.180941
+        "text": "Cuscino",
+        "media": "gif",
+        "idAvatar": "user62",
+        "timestamp": 1699355279.707459
     },
     {
         "idSticker": "sticker54",
-        "text": "Laguna",
-        "media": "staticSticker",
-        "idAvatar": "user99",
-        "timestamp": 1699354986.180944
+        "text": "Razzo",
+        "media": "animatedSticker",
+        "idAvatar": "user18",
+        "timestamp": 1699355279.707462
     },
     {
         "idSticker": "sticker55",
-        "text": "Scarpe",
-        "media": "animatedSticker",
-        "idAvatar": "user25",
-        "timestamp": 1699354986.180948
+        "text": "Sabbia",
+        "media": "staticSticker",
+        "idAvatar": "user7",
+        "timestamp": 1699355279.707466
     },
     {
         "idSticker": "sticker56",
-        "text": "Papera",
+        "text": "Tavolo",
         "media": "animatedSticker",
-        "idAvatar": "user60",
-        "timestamp": 1699354986.180951
+        "idAvatar": "user85",
+        "timestamp": 1699355279.707469
     },
     {
         "idSticker": "sticker57",
-        "text": "Computer",
-        "media": "staticSticker",
-        "idAvatar": "user30",
-        "timestamp": 1699354986.180955
+        "text": "Rana",
+        "media": "gif",
+        "idAvatar": "user26",
+        "timestamp": 1699355279.707473
     },
     {
         "idSticker": "sticker58",
-        "text": "Struzzo",
-        "media": "animatedSticker",
-        "idAvatar": "user37",
-        "timestamp": 1699354986.180958
+        "text": "Specchio",
+        "media": "gif",
+        "idAvatar": "user16",
+        "timestamp": 1699355279.707476
     },
     {
         "idSticker": "sticker59",
-        "text": "Puzzle",
-        "media": "animatedSticker",
-        "idAvatar": "user71",
-        "timestamp": 1699354986.180962
+        "text": "Fiore",
+        "media": "gif",
+        "idAvatar": "user46",
+        "timestamp": 1699355279.70748
     },
     {
         "idSticker": "sticker60",
-        "text": "Cavalletta",
-        "media": "animatedSticker",
-        "idAvatar": "user17",
-        "timestamp": 1699354986.180966
+        "text": "Laguna",
+        "media": "staticSticker",
+        "idAvatar": "user28",
+        "timestamp": 1699355279.707483
     },
     {
         "idSticker": "sticker61",
-        "text": "Cuscino",
-        "media": "animatedSticker",
-        "idAvatar": "user37",
-        "timestamp": 1699354986.18097
+        "text": "Neve",
+        "media": "gif",
+        "idAvatar": "user17",
+        "timestamp": 1699355279.707487
     },
     {
         "idSticker": "sticker62",
-        "text": "Tempo",
+        "text": "Sabbia",
         "media": "staticSticker",
-        "idAvatar": "user94",
-        "timestamp": 1699354986.180988
+        "idAvatar": "user45",
+        "timestamp": 1699355279.70749
     },
     {
         "idSticker": "sticker63",
-        "text": "Laguna",
-        "media": "animatedSticker",
-        "idAvatar": "user91",
-        "timestamp": 1699354986.180991
+        "text": "Banana",
+        "media": "staticSticker",
+        "idAvatar": "user67",
+        "timestamp": 1699355279.707494
     },
     {
         "idSticker": "sticker64",
-        "text": "Cinema",
+        "text": "Panino",
         "media": "staticSticker",
-        "idAvatar": "user57",
-        "timestamp": 1699354986.181011
+        "idAvatar": "user0",
+        "timestamp": 1699355279.707497
     },
     {
         "idSticker": "sticker65",
-        "text": "Lupo",
-        "media": "staticSticker",
-        "idAvatar": "user83",
-        "timestamp": 1699354986.181015
+        "text": "Capelli",
+        "media": "gif",
+        "idAvatar": "user33",
+        "timestamp": 1699355279.707501
     },
     {
         "idSticker": "sticker66",
-        "text": "Barca",
-        "media": "gif",
-        "idAvatar": "user59",
-        "timestamp": 1699354986.181018
+        "text": "Cuscino",
+        "media": "animatedSticker",
+        "idAvatar": "user10",
+        "timestamp": 1699355279.707504
     },
     {
         "idSticker": "sticker67",
-        "text": "Volpe",
+        "text": "Piede",
         "media": "staticSticker",
-        "idAvatar": "user89",
-        "timestamp": 1699354986.181022
+        "idAvatar": "user35",
+        "timestamp": 1699355279.707508
     },
     {
         "idSticker": "sticker68",
-        "text": "Libro",
-        "media": "staticSticker",
-        "idAvatar": "user18",
-        "timestamp": 1699354986.181025
+        "text": "Razzo",
+        "media": "animatedSticker",
+        "idAvatar": "user68",
+        "timestamp": 1699355279.707511
     },
     {
         "idSticker": "sticker69",
-        "text": "Polvere",
-        "media": "staticSticker",
-        "idAvatar": "user91",
-        "timestamp": 1699354986.181028
+        "text": "Volpe",
+        "media": "animatedSticker",
+        "idAvatar": "user57",
+        "timestamp": 1699355279.707515
     },
     {
         "idSticker": "sticker70",
-        "text": "Panino",
-        "media": "staticSticker",
-        "idAvatar": "user20",
-        "timestamp": 1699354986.181032
+        "text": "Fiore",
+        "media": "animatedSticker",
+        "idAvatar": "user82",
+        "timestamp": 1699355279.707519
     },
     {
         "idSticker": "sticker71",
-        "text": "Montagna",
-        "media": "gif",
-        "idAvatar": "user44",
-        "timestamp": 1699354986.181035
+        "text": "Barca",
+        "media": "animatedSticker",
+        "idAvatar": "user0",
+        "timestamp": 1699355279.707522
     },
     {
         "idSticker": "sticker72",
-        "text": "Gelato",
-        "media": "gif",
-        "idAvatar": "user59",
-        "timestamp": 1699354986.181038
+        "text": "Papera",
+        "media": "staticSticker",
+        "idAvatar": "user73",
+        "timestamp": 1699355279.707526
     },
     {
         "idSticker": "sticker73",
-        "text": "Banana",
-        "media": "gif",
-        "idAvatar": "user45",
-        "timestamp": 1699354986.181041
+        "text": "Tappetino",
+        "media": "animatedSticker",
+        "idAvatar": "user82",
+        "timestamp": 1699355279.707529
     },
     {
         "idSticker": "sticker74",
-        "text": "Telefono",
-        "media": "staticSticker",
-        "idAvatar": "user87",
-        "timestamp": 1699354986.181045
+        "text": "Specchio",
+        "media": "animatedSticker",
+        "idAvatar": "user23",
+        "timestamp": 1699355279.707532
     },
     {
         "idSticker": "sticker75",
-        "text": "Laguna",
-        "media": "animatedSticker",
-        "idAvatar": "user38",
-        "timestamp": 1699354986.181048
+        "text": "Tempo",
+        "media": "gif",
+        "idAvatar": "user77",
+        "timestamp": 1699355279.707536
     },
     {
         "idSticker": "sticker76",
-        "text": "Mappa",
-        "media": "staticSticker",
-        "idAvatar": "user63",
-        "timestamp": 1699354986.181051
+        "text": "Nuvola",
+        "media": "animatedSticker",
+        "idAvatar": "user61",
+        "timestamp": 1699355279.70754
     },
     {
         "idSticker": "sticker77",
-        "text": "Cane",
+        "text": "Computer",
         "media": "staticSticker",
-        "idAvatar": "user35",
-        "timestamp": 1699354986.181055
+        "idAvatar": "user53",
+        "timestamp": 1699355279.707544
     },
     {
         "idSticker": "sticker78",
-        "text": "Polvere",
-        "media": "staticSticker",
-        "idAvatar": "user99",
-        "timestamp": 1699354986.181059
+        "text": "Pizza",
+        "media": "animatedSticker",
+        "idAvatar": "user24",
+        "timestamp": 1699355279.707548
     },
     {
         "idSticker": "sticker79",
-        "text": "Tavolo",
-        "media": "staticSticker",
-        "idAvatar": "user4",
-        "timestamp": 1699354986.181062
+        "text": "Treno",
+        "media": "gif",
+        "idAvatar": "user61",
+        "timestamp": 1699355279.707552
     },
     {
         "idSticker": "sticker80",
-        "text": "Dado",
+        "text": "Telefono",
         "media": "gif",
-        "idAvatar": "user80",
-        "timestamp": 1699354986.181065
+        "idAvatar": "user64",
+        "timestamp": 1699355279.707555
     },
     {
         "idSticker": "sticker81",
-        "text": "Libro",
-        "media": "gif",
-        "idAvatar": "user74",
-        "timestamp": 1699354986.181069
+        "text": "Sedia",
+        "media": "animatedSticker",
+        "idAvatar": "user45",
+        "timestamp": 1699355279.707558
     },
     {
         "idSticker": "sticker82",
-        "text": "Bottone",
-        "media": "animatedSticker",
-        "idAvatar": "user67",
-        "timestamp": 1699354986.181072
+        "text": "Pallone",
+        "media": "gif",
+        "idAvatar": "user2",
+        "timestamp": 1699355279.707562
     },
     {
         "idSticker": "sticker83",
-        "text": "Fragola",
-        "media": "animatedSticker",
-        "idAvatar": "user69",
-        "timestamp": 1699354986.181075
+        "text": "Penna",
+        "media": "gif",
+        "idAvatar": "user7",
+        "timestamp": 1699355279.707566
     },
     {
         "idSticker": "sticker84",
-        "text": "Capelli",
-        "media": "staticSticker",
-        "idAvatar": "user49",
-        "timestamp": 1699354986.181079
+        "text": "Volpe",
+        "media": "gif",
+        "idAvatar": "user24",
+        "timestamp": 1699355279.707569
     },
     {
         "idSticker": "sticker85",
-        "text": "Lavandino",
+        "text": "Lampione",
         "media": "gif",
-        "idAvatar": "user77",
-        "timestamp": 1699354986.181082
+        "idAvatar": "user69",
+        "timestamp": 1699355279.707573
     },
     {
         "idSticker": "sticker86",
-        "text": "Tappetino",
+        "text": "Volpe",
         "media": "gif",
-        "idAvatar": "user49",
-        "timestamp": 1699354986.181085
+        "idAvatar": "user92",
+        "timestamp": 1699355279.707576
     },
     {
         "idSticker": "sticker87",
-        "text": "Tappeto",
-        "media": "animatedSticker",
-        "idAvatar": "user65",
-        "timestamp": 1699354986.181089
+        "text": "Specchio",
+        "media": "staticSticker",
+        "idAvatar": "user8",
+        "timestamp": 1699355279.707579
     },
     {
         "idSticker": "sticker88",
-        "text": "Panino",
+        "text": "Sedia",
         "media": "staticSticker",
-        "idAvatar": "user86",
-        "timestamp": 1699354986.181092
+        "idAvatar": "user76",
+        "timestamp": 1699355279.707583
     },
     {
         "idSticker": "sticker89",
-        "text": "Sole",
+        "text": "Giostra",
         "media": "staticSticker",
-        "idAvatar": "user76",
-        "timestamp": 1699354986.181095
+        "idAvatar": "user81",
+        "timestamp": 1699355279.707587
     },
     {
         "idSticker": "sticker90",
-        "text": "Lavagna",
+        "text": "Cancello",
         "media": "gif",
-        "idAvatar": "user20",
-        "timestamp": 1699354986.181099
+        "idAvatar": "user34",
+        "timestamp": 1699355279.70759
     },
     {
         "idSticker": "sticker91",
-        "text": "Libro",
-        "media": "staticSticker",
-        "idAvatar": "user64",
-        "timestamp": 1699354986.181102
+        "text": "Cuscino",
+        "media": "animatedSticker",
+        "idAvatar": "user94",
+        "timestamp": 1699355279.707594
     },
     {
         "idSticker": "sticker92",
-        "text": "Razzo",
-        "media": "gif",
-        "idAvatar": "user5",
-        "timestamp": 1699354986.181105
+        "text": "Volpe",
+        "media": "animatedSticker",
+        "idAvatar": "user70",
+        "timestamp": 1699355279.707597
     },
     {
         "idSticker": "sticker93",
-        "text": "Razzo",
-        "media": "staticSticker",
-        "idAvatar": "user3",
-        "timestamp": 1699354986.181109
+        "text": "Neve",
+        "media": "gif",
+        "idAvatar": "user17",
+        "timestamp": 1699355279.707601
     },
     {
         "idSticker": "sticker94",
-        "text": "Tempo",
-        "media": "gif",
-        "idAvatar": "user30",
-        "timestamp": 1699354986.181112
+        "text": "Telefono",
+        "media": "animatedSticker",
+        "idAvatar": "user42",
+        "timestamp": 1699355279.707604
     },
     {
         "idSticker": "sticker95",
-        "text": "Stella",
-        "media": "animatedSticker",
-        "idAvatar": "user68",
-        "timestamp": 1699354986.181115
+        "text": "Scarpe",
+        "media": "gif",
+        "idAvatar": "user32",
+        "timestamp": 1699355279.707608
     },
     {
         "idSticker": "sticker96",
-        "text": "Scimmia",
-        "media": "staticSticker",
-        "idAvatar": "user14",
-        "timestamp": 1699354986.181119
+        "text": "Ombrello",
+        "media": "gif",
+        "idAvatar": "user43",
+        "timestamp": 1699355279.707611
     },
     {
         "idSticker": "sticker97",
-        "text": "Lupo",
+        "text": "Puzzle",
         "media": "animatedSticker",
-        "idAvatar": "user62",
-        "timestamp": 1699354986.181122
+        "idAvatar": "user36",
+        "timestamp": 1699355279.707615
     },
     {
         "idSticker": "sticker98",
-        "text": "Montagna",
-        "media": "animatedSticker",
-        "idAvatar": "user68",
-        "timestamp": 1699354986.181125
+        "text": "Scarafaggio",
+        "media": "staticSticker",
+        "idAvatar": "user73",
+        "timestamp": 1699355279.707618
     },
     {
         "idSticker": "sticker99",
-        "text": "Scarafaggio",
-        "media": "gif",
-        "idAvatar": "user74",
-        "timestamp": 1699354986.181128
+        "text": "Cane",
+        "media": "animatedSticker",
+        "idAvatar": "user41",
+        "timestamp": 1699355279.707621
     }
 ]

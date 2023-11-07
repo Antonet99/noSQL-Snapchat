@@ -161,9 +161,9 @@ def update_notify():
         if notify["cat"] == "snap":
             notify["text"] = "New snap"
             notify["idNotify"] += "snap"
-        elif notify["cat"] == "Request":
+        elif notify["cat"] == "request":
             notify["text"] = "New request"
-            notify["idNotify"] += "Request"
+            notify["idNotify"] += "request"
         elif notify["cat"] == "Message":
             notify["text"] = "New message"
             notify["idNotify"] += "Message"
