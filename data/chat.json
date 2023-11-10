@@ -1,0 +1,6596 @@
+[
+    {
+        "idChat": "c0",
+        "users": [
+            "user47",
+            "user48"
+        ],
+        "messages": [
+            {
+                "user": "user47",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.440623
+            },
+            {
+                "user": "user47",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.440633
+            },
+            {
+                "user": "user47",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.440637
+            },
+            {
+                "user": "user47",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.440641
+            },
+            {
+                "user": "user48",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.440644
+            },
+            {
+                "user": "user47",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.440648
+            },
+            {
+                "user": "user47",
+                "text": "Sorrisi fanno giorno migliore",
+                "timestamp": 1699611786.440652
+            },
+            {
+                "user": "user47",
+                "text": "Gocce pioggia foglie",
+                "timestamp": 1699611786.440655
+            },
+            {
+                "user": "user48",
+                "text": "Gita montagna emozionante",
+                "timestamp": 1699611786.440658
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker45",
+                "text": "Ombrello",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453096
+            },
+            {
+                "idSticker": "sticker69",
+                "text": "Cinema",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453188
+            },
+            {
+                "idSticker": "sticker78",
+                "text": "Scarafaggio",
+                "media": "staticSticker",
+                "idAvatar": "user48",
+                "timestamp": 1699611786.45322
+            }
+        ],
+        "timestamp": 1699611786.440658
+    },
+    {
+        "idChat": "c1",
+        "users": [
+            "user13",
+            "user51"
+        ],
+        "messages": [
+            {
+                "user": "user13",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.440674
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker46",
+                "text": "Sedia",
+                "media": "staticSticker",
+                "idAvatar": "user13",
+                "timestamp": 1699611786.453099
+            }
+        ],
+        "timestamp": 1699611786.440674
+    },
+    {
+        "idChat": "c2",
+        "users": [
+            "user25",
+            "user91"
+        ],
+        "messages": [
+            {
+                "user": "user91",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.440683
+            },
+            {
+                "user": "user25",
+                "text": "Giardino fiorito affascinante",
+                "timestamp": 1699611786.440686
+            },
+            {
+                "user": "user25",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.44069
+            },
+            {
+                "user": "user25",
+                "text": "Sciarpa calda tiene caldo",
+                "timestamp": 1699611786.440694
+            },
+            {
+                "user": "user91",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.440697
+            },
+            {
+                "user": "user91",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.4407
+            },
+            {
+                "user": "user25",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.440704
+            },
+            {
+                "user": "user91",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.440707
+            },
+            {
+                "user": "user25",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.440711
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": []
+        },
+        "stickers": [],
+        "timestamp": 1699611786.440711
+    },
+    {
+        "idChat": "c3",
+        "users": [
+            "user27",
+            "user43"
+        ],
+        "messages": [
+            {
+                "user": "user27",
+                "text": "Fiamme crepitano camino",
+                "timestamp": 1699611786.440721
+            },
+            {
+                "user": "user43",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.440725
+            },
+            {
+                "user": "user27",
+                "text": "Ragazzi corrono felici fuori",
+                "timestamp": 1699611786.440728
+            },
+            {
+                "user": "user43",
+                "text": "Pizza calda deliziosa",
+                "timestamp": 1699611786.440732
+            },
+            {
+                "user": "user43",
+                "text": "Gocce pioggia cadono leggere",
+                "timestamp": 1699611786.440735
+            },
+            {
+                "user": "user27",
+                "text": "Gocce pioggia cadono leggere",
+                "timestamp": 1699611786.440739
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker22",
+                "text": "Martello",
+                "media": "animatedSticker",
+                "idAvatar": "user27",
+                "timestamp": 1699611786.453011
+            }
+        ],
+        "timestamp": 1699611786.440739
+    },
+    {
+        "idChat": "c4",
+        "users": [
+            "user81",
+            "user28"
+        ],
+        "messages": [
+            {
+                "user": "user81",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.440748
+            },
+            {
+                "user": "user28",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.440751
+            },
+            {
+                "user": "user81",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.440754
+            },
+            {
+                "user": "user28",
+                "text": "Luna splende notte",
+                "timestamp": 1699611786.440758
+            },
+            {
+                "user": "user28",
+                "text": "Fiamme danzano fuoco",
+                "timestamp": 1699611786.440762
+            },
+            {
+                "user": "user81",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.440765
+            },
+            {
+                "user": "user81",
+                "text": "Ragazzi corrono felici fuori",
+                "timestamp": 1699611786.440769
+            },
+            {
+                "user": "user28",
+                "text": "Alberi ondeggiare al vento",
+                "timestamp": 1699611786.440772
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.440772
+    },
+    {
+        "idChat": "c5",
+        "users": [
+            "user39",
+            "user37"
+        ],
+        "messages": [
+            {
+                "user": "user39",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.440782
+            },
+            {
+                "user": "user37",
+                "text": "Risate sono contagiose sempre",
+                "timestamp": 1699611786.440785
+            },
+            {
+                "user": "user37",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.440789
+            },
+            {
+                "user": "user37",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.440792
+            },
+            {
+                "user": "user37",
+                "text": "Luna piena affascinante",
+                "timestamp": 1699611786.440795
+            },
+            {
+                "user": "user37",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.440799
+            },
+            {
+                "user": "user37",
+                "text": "Libri trasportano luoghi lontani",
+                "timestamp": 1699611786.440802
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.440802
+    },
+    {
+        "idChat": "c6",
+        "users": [
+            "user40",
+            "user77"
+        ],
+        "messages": [
+            {
+                "user": "user40",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.440811
+            },
+            {
+                "user": "user77",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.440815
+            },
+            {
+                "user": "user77",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.440818
+            },
+            {
+                "user": "user40",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.440821
+            },
+            {
+                "user": "user77",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.440825
+            },
+            {
+                "user": "user77",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.440829
+            },
+            {
+                "user": "user77",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.440833
+            },
+            {
+                "user": "user77",
+                "text": "Profumo fiori incantevole",
+                "timestamp": 1699611786.440836
+            },
+            {
+                "user": "user40",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.44084
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker31",
+                "text": "Cuscino",
+                "media": "animatedSticker",
+                "idAvatar": "user77",
+                "timestamp": 1699611786.453045
+            },
+            {
+                "idSticker": "sticker36",
+                "text": "Specchio",
+                "media": "staticSticker",
+                "idAvatar": "user40",
+                "timestamp": 1699611786.453063
+            },
+            {
+                "idSticker": "sticker42",
+                "text": "Acqua",
+                "media": "animatedSticker",
+                "idAvatar": "user77",
+                "timestamp": 1699611786.453085
+            }
+        ],
+        "timestamp": 1699611786.44084
+    },
+    {
+        "idChat": "c7",
+        "users": [
+            "user42",
+            "user0"
+        ],
+        "messages": [
+            {
+                "user": "user42",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.44085
+            },
+            {
+                "user": "user42",
+                "text": "Passi leggeri sabbia",
+                "timestamp": 1699611786.440854
+            },
+            {
+                "user": "user0",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.440858
+            },
+            {
+                "user": "user42",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.440861
+            },
+            {
+                "user": "user42",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.440865
+            },
+            {
+                "user": "user0",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.440869
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker52",
+                "text": "Pianeta",
+                "media": "staticSticker",
+                "idAvatar": "user0",
+                "timestamp": 1699611786.453121
+            }
+        ],
+        "timestamp": 1699611786.440869
+    },
+    {
+        "idChat": "c8",
+        "users": [
+            "user18",
+            "user56"
+        ],
+        "messages": [
+            {
+                "user": "user56",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.440878
+            },
+            {
+                "user": "user18",
+                "text": "Musica rende cuore felice",
+                "timestamp": 1699611786.440881
+            },
+            {
+                "user": "user56",
+                "text": "Colori brillano sole",
+                "timestamp": 1699611786.440884
+            },
+            {
+                "user": "user56",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.440888
+            },
+            {
+                "user": "user18",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.440891
+            },
+            {
+                "user": "user56",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.440895
+            },
+            {
+                "user": "user18",
+                "text": "Rane saltano acqua fresca",
+                "timestamp": 1699611786.440898
+            },
+            {
+                "user": "user18",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.440901
+            },
+            {
+                "user": "user56",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.440905
+            },
+            {
+                "user": "user18",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.440908
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.440908
+    },
+    {
+        "idChat": "c9",
+        "users": [
+            "user18",
+            "user64"
+        ],
+        "messages": [
+            {
+                "user": "user64",
+                "text": "Fiume scorre avanti",
+                "timestamp": 1699611786.440918
+            },
+            {
+                "user": "user64",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.440921
+            },
+            {
+                "user": "user64",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.440924
+            },
+            {
+                "user": "user64",
+                "text": "Pizza calda deliziosa",
+                "timestamp": 1699611786.440928
+            },
+            {
+                "user": "user18",
+                "text": "Ombrelli proteggono pioggia",
+                "timestamp": 1699611786.440931
+            },
+            {
+                "user": "user64",
+                "text": "Cani giocano felici parco",
+                "timestamp": 1699611786.440934
+            },
+            {
+                "user": "user64",
+                "text": "Bambini ridono ora",
+                "timestamp": 1699611786.440938
+            },
+            {
+                "user": "user64",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.440941
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.440941
+    },
+    {
+        "idChat": "c10",
+        "users": [
+            "user42",
+            "user83"
+        ],
+        "messages": [
+            {
+                "user": "user42",
+                "text": "Colori brillano sole",
+                "timestamp": 1699611786.44095
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker6",
+                "text": "Sedia",
+                "media": "animatedSticker",
+                "idAvatar": "user83",
+                "timestamp": 1699611786.45295
+            }
+        ],
+        "timestamp": 1699611786.44095
+    },
+    {
+        "idChat": "c11",
+        "users": [
+            "user28",
+            "user34"
+        ],
+        "messages": [
+            {
+                "user": "user28",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.440959
+            },
+            {
+                "user": "user28",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.440962
+            },
+            {
+                "user": "user34",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.440965
+            },
+            {
+                "user": "user28",
+                "text": "Dolci abbracci confortanti",
+                "timestamp": 1699611786.440968
+            },
+            {
+                "user": "user34",
+                "text": "Alberi ondeggiare al vento",
+                "timestamp": 1699611786.440972
+            },
+            {
+                "user": "user34",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.440975
+            },
+            {
+                "user": "user28",
+                "text": "Ciao",
+                "timestamp": 1699611786.440979
+            },
+            {
+                "user": "user28",
+                "text": "Cani giocano parco",
+                "timestamp": 1699611786.440982
+            },
+            {
+                "user": "user34",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.440985
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": []
+        },
+        "stickers": [],
+        "timestamp": 1699611786.440985
+    },
+    {
+        "idChat": "c12",
+        "users": [
+            "user59",
+            "user68"
+        ],
+        "messages": [
+            {
+                "user": "user68",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.440994
+            },
+            {
+                "user": "user59",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.440997
+            },
+            {
+                "user": "user59",
+                "text": "Luna piena affascinante",
+                "timestamp": 1699611786.441001
+            },
+            {
+                "user": "user68",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.441004
+            },
+            {
+                "user": "user68",
+                "text": "Passi leggeri sabbia",
+                "timestamp": 1699611786.441007
+            },
+            {
+                "user": "user59",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.441011
+            },
+            {
+                "user": "user68",
+                "text": "Nuova avventura inizia adesso",
+                "timestamp": 1699611786.441014
+            },
+            {
+                "user": "user59",
+                "text": "Cani giocano parco",
+                "timestamp": 1699611786.441017
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker11",
+                "text": "Giardino",
+                "media": "animatedSticker",
+                "idAvatar": "user68",
+                "timestamp": 1699611786.452969
+            },
+            {
+                "idSticker": "sticker20",
+                "text": "Telefono",
+                "media": "gif",
+                "idAvatar": "user68",
+                "timestamp": 1699611786.453004
+            },
+            {
+                "idSticker": "sticker59",
+                "text": "Fotografia",
+                "media": "animatedSticker",
+                "idAvatar": "user59",
+                "timestamp": 1699611786.453147
+            }
+        ],
+        "timestamp": 1699611786.441017
+    },
+    {
+        "idChat": "c13",
+        "users": [
+            "user76",
+            "user1"
+        ],
+        "messages": [
+            {
+                "user": "user76",
+                "text": "Giardino fiorito affascinante",
+                "timestamp": 1699611786.441027
+            },
+            {
+                "user": "user1",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.44103
+            },
+            {
+                "user": "user76",
+                "text": "Ragazzi corrono felici fuori",
+                "timestamp": 1699611786.441033
+            },
+            {
+                "user": "user1",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.441036
+            },
+            {
+                "user": "user1",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.441039
+            },
+            {
+                "user": "user1",
+                "text": "Luna sorge cielo",
+                "timestamp": 1699611786.441043
+            },
+            {
+                "user": "user1",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.441046
+            },
+            {
+                "user": "user1",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.441049
+            },
+            {
+                "user": "user1",
+                "text": "Mela rossa \u00e8 gustosa",
+                "timestamp": 1699611786.441053
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker7",
+                "text": "Giardino",
+                "media": "staticSticker",
+                "idAvatar": "user1",
+                "timestamp": 1699611786.452954
+            }
+        ],
+        "timestamp": 1699611786.441053
+    },
+    {
+        "idChat": "c14",
+        "users": [
+            "user78",
+            "user79"
+        ],
+        "messages": [
+            {
+                "user": "user78",
+                "text": "Fiamme crepitano camino",
+                "timestamp": 1699611786.441063
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker33",
+                "text": "Cancro",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453052
+            },
+            {
+                "idSticker": "sticker48",
+                "text": "Carta",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453107
+            },
+            {
+                "idSticker": "sticker49",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.45311
+            },
+            {
+                "idSticker": "sticker71",
+                "text": "Bottone",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453195
+            }
+        ],
+        "timestamp": 1699611786.441063
+    },
+    {
+        "idChat": "c15",
+        "users": [
+            "user60",
+            "user66"
+        ],
+        "messages": [
+            {
+                "user": "user66",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.441071
+            },
+            {
+                "user": "user60",
+                "text": "Pizza calda deliziosa",
+                "timestamp": 1699611786.441075
+            },
+            {
+                "user": "user60",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.441078
+            },
+            {
+                "user": "user60",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.441082
+            },
+            {
+                "user": "user60",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.441085
+            },
+            {
+                "user": "user60",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.441089
+            },
+            {
+                "user": "user66",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.441092
+            },
+            {
+                "user": "user66",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.441095
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker23",
+                "text": "Pesca",
+                "media": "gif",
+                "idAvatar": "user66",
+                "timestamp": 1699611786.453015
+            },
+            {
+                "idSticker": "sticker95",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user66",
+                "timestamp": 1699611786.453279
+            }
+        ],
+        "timestamp": 1699611786.441095
+    },
+    {
+        "idChat": "c16",
+        "users": [
+            "user78",
+            "user55"
+        ],
+        "messages": [
+            {
+                "user": "user55",
+                "text": "Cani giocano parco",
+                "timestamp": 1699611786.441104
+            },
+            {
+                "user": "user55",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.441108
+            },
+            {
+                "user": "user55",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.441111
+            },
+            {
+                "user": "user55",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.441115
+            },
+            {
+                "user": "user55",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.441119
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker33",
+                "text": "Cancro",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453052
+            },
+            {
+                "idSticker": "sticker48",
+                "text": "Carta",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453107
+            },
+            {
+                "idSticker": "sticker49",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.45311
+            },
+            {
+                "idSticker": "sticker71",
+                "text": "Bottone",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453195
+            }
+        ],
+        "timestamp": 1699611786.441119
+    },
+    {
+        "idChat": "c17",
+        "users": [
+            "user62",
+            "user63"
+        ],
+        "messages": [
+            {
+                "user": "user63",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.441127
+            },
+            {
+                "user": "user62",
+                "text": "Gita montagna avventurosa",
+                "timestamp": 1699611786.441131
+            },
+            {
+                "user": "user63",
+                "text": "Fiamme crepitano camino",
+                "timestamp": 1699611786.441134
+            },
+            {
+                "user": "user62",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.441137
+            },
+            {
+                "user": "user63",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.441141
+            },
+            {
+                "user": "user63",
+                "text": "Sorrisi fanno giorno migliore",
+                "timestamp": 1699611786.441144
+            },
+            {
+                "user": "user63",
+                "text": "Bambini giocano pallone",
+                "timestamp": 1699611786.441147
+            },
+            {
+                "user": "user63",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.441151
+            },
+            {
+                "user": "user63",
+                "text": "Bambini giocano pallone",
+                "timestamp": 1699611786.441154
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker29",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user62",
+                "timestamp": 1699611786.453038
+            },
+            {
+                "idSticker": "sticker34",
+                "text": "Cuscino",
+                "media": "staticSticker",
+                "idAvatar": "user63",
+                "timestamp": 1699611786.453056
+            },
+            {
+                "idSticker": "sticker61",
+                "text": "Telefono",
+                "media": "gif",
+                "idAvatar": "user63",
+                "timestamp": 1699611786.453154
+            },
+            {
+                "idSticker": "sticker84",
+                "text": "Penna",
+                "media": "animatedSticker",
+                "idAvatar": "user63",
+                "timestamp": 1699611786.453241
+            }
+        ],
+        "timestamp": 1699611786.441154
+    },
+    {
+        "idChat": "c18",
+        "users": [
+            "user22",
+            "user57"
+        ],
+        "messages": [
+            {
+                "user": "user22",
+                "text": "Vento sibila foglie",
+                "timestamp": 1699611786.441163
+            },
+            {
+                "user": "user57",
+                "text": "Gatti giocano corda",
+                "timestamp": 1699611786.441166
+            },
+            {
+                "user": "user57",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.44117
+            },
+            {
+                "user": "user22",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.441173
+            },
+            {
+                "user": "user57",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.441177
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker35",
+                "text": "Pesce",
+                "media": "gif",
+                "idAvatar": "user22",
+                "timestamp": 1699611786.453059
+            },
+            {
+                "idSticker": "sticker56",
+                "text": "Specchio",
+                "media": "animatedSticker",
+                "idAvatar": "user22",
+                "timestamp": 1699611786.453136
+            },
+            {
+                "idSticker": "sticker86",
+                "text": "Lupo",
+                "media": "animatedSticker",
+                "idAvatar": "user57",
+                "timestamp": 1699611786.453248
+            }
+        ],
+        "timestamp": 1699611786.441177
+    },
+    {
+        "idChat": "c19",
+        "users": [
+            "user87",
+            "user14"
+        ],
+        "messages": [
+            {
+                "user": "user87",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.441186
+            },
+            {
+                "user": "user87",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.441189
+            },
+            {
+                "user": "user14",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.441192
+            },
+            {
+                "user": "user87",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.441195
+            },
+            {
+                "user": "user87",
+                "text": "Gatti dormono accoccolati insieme",
+                "timestamp": 1699611786.441199
+            },
+            {
+                "user": "user14",
+                "text": "Risate scuotono cuore",
+                "timestamp": 1699611786.441202
+            },
+            {
+                "user": "user87",
+                "text": "Luna piena affascinante",
+                "timestamp": 1699611786.441206
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker10",
+                "text": "Gelato",
+                "media": "animatedSticker",
+                "idAvatar": "user87",
+                "timestamp": 1699611786.452965
+            },
+            {
+                "idSticker": "sticker62",
+                "text": "Bottiglia",
+                "media": "staticSticker",
+                "idAvatar": "user87",
+                "timestamp": 1699611786.453157
+            }
+        ],
+        "timestamp": 1699611786.441206
+    },
+    {
+        "idChat": "c20",
+        "users": [
+            "user21",
+            "user36"
+        ],
+        "messages": [
+            {
+                "user": "user21",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.441215
+            },
+            {
+                "user": "user21",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.441218
+            },
+            {
+                "user": "user36",
+                "text": "Rane saltano acqua fresca",
+                "timestamp": 1699611786.441221
+            },
+            {
+                "user": "user21",
+                "text": "Colori brillano sole",
+                "timestamp": 1699611786.441224
+            },
+            {
+                "user": "user21",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.441228
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker73",
+                "text": "Gioielli",
+                "media": "gif",
+                "idAvatar": "user21",
+                "timestamp": 1699611786.453202
+            }
+        ],
+        "timestamp": 1699611786.441228
+    },
+    {
+        "idChat": "c21",
+        "users": [
+            "user59",
+            "user66"
+        ],
+        "messages": [
+            {
+                "user": "user59",
+                "text": "Cani giocano parco",
+                "timestamp": 1699611786.441236
+            },
+            {
+                "user": "user59",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.44124
+            },
+            {
+                "user": "user66",
+                "text": "Sorrisi fanno giorno migliore",
+                "timestamp": 1699611786.441243
+            },
+            {
+                "user": "user59",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.441246
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker23",
+                "text": "Pesca",
+                "media": "gif",
+                "idAvatar": "user66",
+                "timestamp": 1699611786.453015
+            },
+            {
+                "idSticker": "sticker59",
+                "text": "Fotografia",
+                "media": "animatedSticker",
+                "idAvatar": "user59",
+                "timestamp": 1699611786.453147
+            },
+            {
+                "idSticker": "sticker95",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user66",
+                "timestamp": 1699611786.453279
+            }
+        ],
+        "timestamp": 1699611786.441246
+    },
+    {
+        "idChat": "c22",
+        "users": [
+            "user79",
+            "user40"
+        ],
+        "messages": [
+            {
+                "user": "user79",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.441255
+            },
+            {
+                "user": "user40",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.441258
+            },
+            {
+                "user": "user79",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.441261
+            },
+            {
+                "user": "user40",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.441265
+            },
+            {
+                "user": "user40",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.441268
+            },
+            {
+                "user": "user40",
+                "text": "Colori brillano sole",
+                "timestamp": 1699611786.441272
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker36",
+                "text": "Specchio",
+                "media": "staticSticker",
+                "idAvatar": "user40",
+                "timestamp": 1699611786.453063
+            }
+        ],
+        "timestamp": 1699611786.441272
+    },
+    {
+        "idChat": "c23",
+        "users": [
+            "user41",
+            "user75"
+        ],
+        "messages": [
+            {
+                "user": "user75",
+                "text": "Musica riempie aria serena",
+                "timestamp": 1699611786.44128
+            },
+            {
+                "user": "user75",
+                "text": "Sole riscalda viso",
+                "timestamp": 1699611786.441289
+            },
+            {
+                "user": "user41",
+                "text": "Dolci abbracci confortanti",
+                "timestamp": 1699611786.441292
+            },
+            {
+                "user": "user41",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.441296
+            },
+            {
+                "user": "user75",
+                "text": "Dolci abbracci confortanti",
+                "timestamp": 1699611786.441299
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker39",
+                "text": "Stella",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.453074
+            },
+            {
+                "idSticker": "sticker90",
+                "text": "Lupo",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.453262
+            },
+            {
+                "idSticker": "sticker98",
+                "text": "Sabbia",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.45329
+            }
+        ],
+        "timestamp": 1699611786.441299
+    },
+    {
+        "idChat": "c24",
+        "users": [
+            "user58",
+            "user74"
+        ],
+        "messages": [
+            {
+                "user": "user74",
+                "text": "Musica rende cuore felice",
+                "timestamp": 1699611786.441309
+            },
+            {
+                "user": "user74",
+                "text": "Cani giocano felici parco",
+                "timestamp": 1699611786.441312
+            },
+            {
+                "user": "user58",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.441315
+            },
+            {
+                "user": "user58",
+                "text": "Gita montagna avventurosa",
+                "timestamp": 1699611786.441319
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker67",
+                "text": "Giraffa",
+                "media": "animatedSticker",
+                "idAvatar": "user74",
+                "timestamp": 1699611786.453181
+            },
+            {
+                "idSticker": "sticker89",
+                "text": "Porta",
+                "media": "gif",
+                "idAvatar": "user58",
+                "timestamp": 1699611786.453259
+            }
+        ],
+        "timestamp": 1699611786.441319
+    },
+    {
+        "idChat": "c25",
+        "users": [
+            "user54",
+            "user56"
+        ],
+        "messages": [
+            {
+                "user": "user56",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.441328
+            },
+            {
+                "user": "user54",
+                "text": "Gocce pioggia finestra",
+                "timestamp": 1699611786.441331
+            },
+            {
+                "user": "user54",
+                "text": "Giardino fiorito affascinante",
+                "timestamp": 1699611786.441334
+            },
+            {
+                "user": "user54",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.441337
+            },
+            {
+                "user": "user56",
+                "text": "Uccelli cantano canzoni armoniose",
+                "timestamp": 1699611786.44134
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.44134
+    },
+    {
+        "idChat": "c26",
+        "users": [
+            "user73",
+            "user91"
+        ],
+        "messages": [
+            {
+                "user": "user91",
+                "text": "Luna splende notte",
+                "timestamp": 1699611786.441349
+            },
+            {
+                "user": "user73",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.441352
+            },
+            {
+                "user": "user91",
+                "text": "Profumo fiori incantevole",
+                "timestamp": 1699611786.441356
+            },
+            {
+                "user": "user91",
+                "text": "Ombrelli proteggono pioggia",
+                "timestamp": 1699611786.441359
+            },
+            {
+                "user": "user73",
+                "text": "Gocce pioggia cadono leggere",
+                "timestamp": 1699611786.441363
+            },
+            {
+                "user": "user73",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.441366
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker26",
+                "text": "Puzzle",
+                "media": "gif",
+                "idAvatar": "user73",
+                "timestamp": 1699611786.453027
+            },
+            {
+                "idSticker": "sticker97",
+                "text": "Nuvola",
+                "media": "animatedSticker",
+                "idAvatar": "user73",
+                "timestamp": 1699611786.453286
+            }
+        ],
+        "timestamp": 1699611786.441366
+    },
+    {
+        "idChat": "c27",
+        "users": [
+            "user34",
+            "user49"
+        ],
+        "messages": [
+            {
+                "user": "user34",
+                "text": "Neve copre tutto attorno",
+                "timestamp": 1699611786.441399
+            },
+            {
+                "user": "user34",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.44143
+            },
+            {
+                "user": "user49",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.441457
+            },
+            {
+                "user": "user49",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.441476
+            },
+            {
+                "user": "user49",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.441479
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.441479
+    },
+    {
+        "idChat": "c28",
+        "users": [
+            "user70",
+            "user53"
+        ],
+        "messages": [
+            {
+                "user": "user53",
+                "text": "Luna lancia luce argentea",
+                "timestamp": 1699611786.441519
+            },
+            {
+                "user": "user70",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.441523
+            },
+            {
+                "user": "user53",
+                "text": "Sciarpa calda tiene caldo",
+                "timestamp": 1699611786.441527
+            },
+            {
+                "user": "user53",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.441545
+            },
+            {
+                "user": "user53",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.441548
+            },
+            {
+                "user": "user53",
+                "text": "Risate sono contagiose sempre",
+                "timestamp": 1699611786.441551
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker40",
+                "text": "Cancro",
+                "media": "animatedSticker",
+                "idAvatar": "user53",
+                "timestamp": 1699611786.453078
+            },
+            {
+                "idSticker": "sticker44",
+                "text": "Papera",
+                "media": "gif",
+                "idAvatar": "user70",
+                "timestamp": 1699611786.453092
+            }
+        ],
+        "timestamp": 1699611786.441551
+    },
+    {
+        "idChat": "c29",
+        "users": [
+            "user78",
+            "user69"
+        ],
+        "messages": [
+            {
+                "user": "user69",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.441563
+            },
+            {
+                "user": "user69",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.441566
+            },
+            {
+                "user": "user78",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.441569
+            },
+            {
+                "user": "user78",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.441573
+            },
+            {
+                "user": "user78",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.441576
+            },
+            {
+                "user": "user78",
+                "text": "Musica rende cuore felice",
+                "timestamp": 1699611786.44158
+            },
+            {
+                "user": "user69",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.441583
+            },
+            {
+                "user": "user78",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.441586
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker18",
+                "text": "Acqua",
+                "media": "staticSticker",
+                "idAvatar": "user69",
+                "timestamp": 1699611786.452996
+            },
+            {
+                "idSticker": "sticker33",
+                "text": "Cancro",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453052
+            },
+            {
+                "idSticker": "sticker48",
+                "text": "Carta",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453107
+            },
+            {
+                "idSticker": "sticker49",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.45311
+            },
+            {
+                "idSticker": "sticker71",
+                "text": "Bottone",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453195
+            }
+        ],
+        "timestamp": 1699611786.441586
+    },
+    {
+        "idChat": "c30",
+        "users": [
+            "user52",
+            "user40"
+        ],
+        "messages": [
+            {
+                "user": "user52",
+                "text": "Fiamme crepitano camino",
+                "timestamp": 1699611786.441596
+            },
+            {
+                "user": "user40",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.4416
+            },
+            {
+                "user": "user52",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.441603
+            },
+            {
+                "user": "user40",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.441606
+            },
+            {
+                "user": "user52",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.441609
+            },
+            {
+                "user": "user52",
+                "text": "Passi leggeri sabbia",
+                "timestamp": 1699611786.441612
+            },
+            {
+                "user": "user40",
+                "text": "Risate rendono mondo migliore",
+                "timestamp": 1699611786.441616
+            },
+            {
+                "user": "user52",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.441619
+            },
+            {
+                "user": "user52",
+                "text": "Fiamme danzano fuoco",
+                "timestamp": 1699611786.441623
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker36",
+                "text": "Specchio",
+                "media": "staticSticker",
+                "idAvatar": "user40",
+                "timestamp": 1699611786.453063
+            },
+            {
+                "idSticker": "sticker91",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user52",
+                "timestamp": 1699611786.453266
+            }
+        ],
+        "timestamp": 1699611786.441623
+    },
+    {
+        "idChat": "c31",
+        "users": [
+            "user76",
+            "user75"
+        ],
+        "messages": [
+            {
+                "user": "user76",
+                "text": "Nuova avventura inizia adesso",
+                "timestamp": 1699611786.441633
+            },
+            {
+                "user": "user75",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.441637
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker39",
+                "text": "Stella",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.453074
+            },
+            {
+                "idSticker": "sticker90",
+                "text": "Lupo",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.453262
+            },
+            {
+                "idSticker": "sticker98",
+                "text": "Sabbia",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.45329
+            }
+        ],
+        "timestamp": 1699611786.441637
+    },
+    {
+        "idChat": "c32",
+        "users": [
+            "user12",
+            "user42"
+        ],
+        "messages": [
+            {
+                "user": "user42",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.441645
+            },
+            {
+                "user": "user12",
+                "text": "Vento sibila foglie",
+                "timestamp": 1699611786.441648
+            },
+            {
+                "user": "user12",
+                "text": "Libri trasportano luoghi lontani",
+                "timestamp": 1699611786.441651
+            },
+            {
+                "user": "user12",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.441655
+            },
+            {
+                "user": "user12",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.441658
+            },
+            {
+                "user": "user12",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.441662
+            },
+            {
+                "user": "user42",
+                "text": "Mela rossa \u00e8 gustosa",
+                "timestamp": 1699611786.441665
+            },
+            {
+                "user": "user12",
+                "text": "Neve copre tutto attorno",
+                "timestamp": 1699611786.441668
+            },
+            {
+                "user": "user42",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.441671
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker53",
+                "text": "Giraffa",
+                "media": "gif",
+                "idAvatar": "user12",
+                "timestamp": 1699611786.453125
+            }
+        ],
+        "timestamp": 1699611786.441671
+    },
+    {
+        "idChat": "c33",
+        "users": [
+            "user5",
+            "user8"
+        ],
+        "messages": [
+            {
+                "user": "user5",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.441681
+            },
+            {
+                "user": "user8",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.441685
+            },
+            {
+                "user": "user8",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.441688
+            },
+            {
+                "user": "user8",
+                "text": "Fiamme danzano fuoco",
+                "timestamp": 1699611786.441691
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker70",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user5",
+                "timestamp": 1699611786.453191
+            },
+            {
+                "idSticker": "sticker72",
+                "text": "Rana",
+                "media": "animatedSticker",
+                "idAvatar": "user8",
+                "timestamp": 1699611786.453198
+            },
+            {
+                "idSticker": "sticker87",
+                "text": "Struzzo",
+                "media": "staticSticker",
+                "idAvatar": "user5",
+                "timestamp": 1699611786.453252
+            }
+        ],
+        "timestamp": 1699611786.441691
+    },
+    {
+        "idChat": "c34",
+        "users": [
+            "user94",
+            "user83"
+        ],
+        "messages": [
+            {
+                "user": "user94",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.441699
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker6",
+                "text": "Sedia",
+                "media": "animatedSticker",
+                "idAvatar": "user83",
+                "timestamp": 1699611786.45295
+            },
+            {
+                "idSticker": "sticker17",
+                "text": "Capelli",
+                "media": "staticSticker",
+                "idAvatar": "user94",
+                "timestamp": 1699611786.452991
+            }
+        ],
+        "timestamp": 1699611786.441699
+    },
+    {
+        "idChat": "c35",
+        "users": [
+            "user16",
+            "user75"
+        ],
+        "messages": [
+            {
+                "user": "user16",
+                "text": "Risate sono contagiose sempre",
+                "timestamp": 1699611786.441707
+            },
+            {
+                "user": "user16",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.441711
+            },
+            {
+                "user": "user75",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.441714
+            },
+            {
+                "user": "user16",
+                "text": "Sorrisi illuminano mondo",
+                "timestamp": 1699611786.441717
+            },
+            {
+                "user": "user75",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.44172
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker5",
+                "text": "Scarpe",
+                "media": "animatedSticker",
+                "idAvatar": "user16",
+                "timestamp": 1699611786.452947
+            },
+            {
+                "idSticker": "sticker39",
+                "text": "Stella",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.453074
+            },
+            {
+                "idSticker": "sticker76",
+                "text": "Cinema",
+                "media": "gif",
+                "idAvatar": "user16",
+                "timestamp": 1699611786.453213
+            },
+            {
+                "idSticker": "sticker88",
+                "text": "Lavagna",
+                "media": "animatedSticker",
+                "idAvatar": "user16",
+                "timestamp": 1699611786.453255
+            },
+            {
+                "idSticker": "sticker90",
+                "text": "Lupo",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.453262
+            },
+            {
+                "idSticker": "sticker98",
+                "text": "Sabbia",
+                "media": "gif",
+                "idAvatar": "user75",
+                "timestamp": 1699611786.45329
+            }
+        ],
+        "timestamp": 1699611786.44172
+    },
+    {
+        "idChat": "c36",
+        "users": [
+            "user55",
+            "user49"
+        ],
+        "messages": [
+            {
+                "user": "user49",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.441729
+            },
+            {
+                "user": "user49",
+                "text": "Amici ridono insieme sempre",
+                "timestamp": 1699611786.441732
+            },
+            {
+                "user": "user55",
+                "text": "Nuova avventura inizia adesso",
+                "timestamp": 1699611786.441735
+            },
+            {
+                "user": "user49",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.441739
+            },
+            {
+                "user": "user49",
+                "text": "Pesci nuotano acqua chiara",
+                "timestamp": 1699611786.441742
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": []
+        },
+        "stickers": [],
+        "timestamp": 1699611786.441742
+    },
+    {
+        "idChat": "c37",
+        "users": [
+            "user28",
+            "user69"
+        ],
+        "messages": [
+            {
+                "user": "user69",
+                "text": "Gita montagna emozionante",
+                "timestamp": 1699611786.441751
+            },
+            {
+                "user": "user69",
+                "text": "Luna brilla cielo",
+                "timestamp": 1699611786.441754
+            },
+            {
+                "user": "user69",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.441757
+            },
+            {
+                "user": "user28",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.44176
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker18",
+                "text": "Acqua",
+                "media": "staticSticker",
+                "idAvatar": "user69",
+                "timestamp": 1699611786.452996
+            }
+        ],
+        "timestamp": 1699611786.44176
+    },
+    {
+        "idChat": "c38",
+        "users": [
+            "user80",
+            "user98"
+        ],
+        "messages": [
+            {
+                "user": "user98",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.441769
+            },
+            {
+                "user": "user98",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.441773
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker21",
+                "text": "Sorriso",
+                "media": "staticSticker",
+                "idAvatar": "user98",
+                "timestamp": 1699611786.453008
+            },
+            {
+                "idSticker": "sticker28",
+                "text": "Pallone",
+                "media": "gif",
+                "idAvatar": "user98",
+                "timestamp": 1699611786.453034
+            }
+        ],
+        "timestamp": 1699611786.441773
+    },
+    {
+        "idChat": "c39",
+        "users": [
+            "user80",
+            "user57"
+        ],
+        "messages": [
+            {
+                "user": "user80",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.441781
+            },
+            {
+                "user": "user57",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.441784
+            },
+            {
+                "user": "user80",
+                "text": "Pesci nuotano acqua chiara",
+                "timestamp": 1699611786.441787
+            },
+            {
+                "user": "user80",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.44179
+            },
+            {
+                "user": "user57",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.441794
+            },
+            {
+                "user": "user57",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.441797
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker86",
+                "text": "Lupo",
+                "media": "animatedSticker",
+                "idAvatar": "user57",
+                "timestamp": 1699611786.453248
+            }
+        ],
+        "timestamp": 1699611786.441797
+    },
+    {
+        "idChat": "c40",
+        "users": [
+            "user95",
+            "user48"
+        ],
+        "messages": [
+            {
+                "user": "user95",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.441806
+            },
+            {
+                "user": "user48",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.441809
+            },
+            {
+                "user": "user95",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.441812
+            },
+            {
+                "user": "user48",
+                "text": "Amici ridono insieme sempre",
+                "timestamp": 1699611786.441816
+            },
+            {
+                "user": "user95",
+                "text": "Risate sono contagiose sempre",
+                "timestamp": 1699611786.441819
+            },
+            {
+                "user": "user95",
+                "text": "Torta cioccolato \u00e8 deliziosa",
+                "timestamp": 1699611786.441822
+            },
+            {
+                "user": "user48",
+                "text": "Pesci nuotano acqua chiara",
+                "timestamp": 1699611786.441826
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker64",
+                "text": "Tempo",
+                "media": "staticSticker",
+                "idAvatar": "user95",
+                "timestamp": 1699611786.453164
+            },
+            {
+                "idSticker": "sticker74",
+                "text": "Penna",
+                "media": "gif",
+                "idAvatar": "user95",
+                "timestamp": 1699611786.453206
+            },
+            {
+                "idSticker": "sticker78",
+                "text": "Scarafaggio",
+                "media": "staticSticker",
+                "idAvatar": "user48",
+                "timestamp": 1699611786.45322
+            }
+        ],
+        "timestamp": 1699611786.441826
+    },
+    {
+        "idChat": "c41",
+        "users": [
+            "user36",
+            "user18"
+        ],
+        "messages": [
+            {
+                "user": "user36",
+                "text": "Sole splende cielo",
+                "timestamp": 1699611786.441835
+            },
+            {
+                "user": "user36",
+                "text": "Gatti dormono accoccolati insieme",
+                "timestamp": 1699611786.441838
+            },
+            {
+                "user": "user18",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.441842
+            },
+            {
+                "user": "user36",
+                "text": "Pizza formaggio gustosa",
+                "timestamp": 1699611786.441845
+            },
+            {
+                "user": "user18",
+                "text": "Uccelli cantano canzoni armoniose",
+                "timestamp": 1699611786.441848
+            },
+            {
+                "user": "user18",
+                "text": "Pizza formaggio gustosa",
+                "timestamp": 1699611786.441852
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.441852
+    },
+    {
+        "idChat": "c42",
+        "users": [
+            "user10",
+            "user11"
+        ],
+        "messages": [
+            {
+                "user": "user11",
+                "text": "Risate scuotono cuore",
+                "timestamp": 1699611786.441882
+            },
+            {
+                "user": "user11",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.441886
+            },
+            {
+                "user": "user11",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.441889
+            },
+            {
+                "user": "user10",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.441892
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker19",
+                "text": "Tappetino",
+                "media": "staticSticker",
+                "idAvatar": "user11",
+                "timestamp": 1699611786.453
+            },
+            {
+                "idSticker": "sticker83",
+                "text": "Avventura",
+                "media": "staticSticker",
+                "idAvatar": "user11",
+                "timestamp": 1699611786.453238
+            }
+        ],
+        "timestamp": 1699611786.441892
+    },
+    {
+        "idChat": "c43",
+        "users": [
+            "user12",
+            "user48"
+        ],
+        "messages": [
+            {
+                "user": "user48",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.441901
+            },
+            {
+                "user": "user48",
+                "text": "Uccelli cantano canzoni armoniose",
+                "timestamp": 1699611786.441905
+            },
+            {
+                "user": "user12",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.441908
+            },
+            {
+                "user": "user12",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.441911
+            },
+            {
+                "user": "user48",
+                "text": "Pallone rotola strada",
+                "timestamp": 1699611786.441915
+            },
+            {
+                "user": "user48",
+                "text": "Pallone rotola strada",
+                "timestamp": 1699611786.441919
+            },
+            {
+                "user": "user12",
+                "text": "Pallone rotola strada",
+                "timestamp": 1699611786.441923
+            },
+            {
+                "user": "user12",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.441926
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker53",
+                "text": "Giraffa",
+                "media": "gif",
+                "idAvatar": "user12",
+                "timestamp": 1699611786.453125
+            },
+            {
+                "idSticker": "sticker78",
+                "text": "Scarafaggio",
+                "media": "staticSticker",
+                "idAvatar": "user48",
+                "timestamp": 1699611786.45322
+            }
+        ],
+        "timestamp": 1699611786.441926
+    },
+    {
+        "idChat": "c44",
+        "users": [
+            "user24",
+            "user50"
+        ],
+        "messages": [
+            {
+                "user": "user50",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.441935
+            },
+            {
+                "user": "user50",
+                "text": "Pizza calda deliziosa",
+                "timestamp": 1699611786.441938
+            },
+            {
+                "user": "user24",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.441941
+            },
+            {
+                "user": "user50",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.441945
+            },
+            {
+                "user": "user50",
+                "text": "Gita montagna avventurosa",
+                "timestamp": 1699611786.441948
+            },
+            {
+                "user": "user24",
+                "text": "Luna lancia luce argentea",
+                "timestamp": 1699611786.441951
+            },
+            {
+                "user": "user50",
+                "text": "Musica riempie aria serena",
+                "timestamp": 1699611786.441954
+            },
+            {
+                "user": "user24",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.441958
+            },
+            {
+                "user": "user24",
+                "text": "Fiume scorre avanti",
+                "timestamp": 1699611786.441961
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker14",
+                "text": "Giardino",
+                "media": "animatedSticker",
+                "idAvatar": "user50",
+                "timestamp": 1699611786.45298
+            },
+            {
+                "idSticker": "sticker27",
+                "text": "Gelato",
+                "media": "staticSticker",
+                "idAvatar": "user24",
+                "timestamp": 1699611786.45303
+            },
+            {
+                "idSticker": "sticker41",
+                "text": "Fragola",
+                "media": "staticSticker",
+                "idAvatar": "user24",
+                "timestamp": 1699611786.453082
+            },
+            {
+                "idSticker": "sticker82",
+                "text": "Treno",
+                "media": "gif",
+                "idAvatar": "user50",
+                "timestamp": 1699611786.453235
+            }
+        ],
+        "timestamp": 1699611786.441961
+    },
+    {
+        "idChat": "c45",
+        "users": [
+            "user8",
+            "user55"
+        ],
+        "messages": [
+            {
+                "user": "user8",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.44197
+            },
+            {
+                "user": "user55",
+                "text": "Bambini giocano pallone",
+                "timestamp": 1699611786.441973
+            },
+            {
+                "user": "user8",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.441977
+            },
+            {
+                "user": "user55",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.44198
+            },
+            {
+                "user": "user55",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.441984
+            },
+            {
+                "user": "user8",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.441987
+            },
+            {
+                "user": "user55",
+                "text": "Pizza formaggio gustosa",
+                "timestamp": 1699611786.44199
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker72",
+                "text": "Rana",
+                "media": "animatedSticker",
+                "idAvatar": "user8",
+                "timestamp": 1699611786.453198
+            }
+        ],
+        "timestamp": 1699611786.44199
+    },
+    {
+        "idChat": "c46",
+        "users": [
+            "user4",
+            "user57"
+        ],
+        "messages": [
+            {
+                "user": "user57",
+                "text": "Ciao",
+                "timestamp": 1699611786.441998
+            },
+            {
+                "user": "user57",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.442002
+            },
+            {
+                "user": "user4",
+                "text": "Luna splende notte",
+                "timestamp": 1699611786.442006
+            },
+            {
+                "user": "user4",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.442009
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker86",
+                "text": "Lupo",
+                "media": "animatedSticker",
+                "idAvatar": "user57",
+                "timestamp": 1699611786.453248
+            }
+        ],
+        "timestamp": 1699611786.442009
+    },
+    {
+        "idChat": "c47",
+        "users": [
+            "user2",
+            "user49"
+        ],
+        "messages": [
+            {
+                "user": "user49",
+                "text": "Gita montagna avventurosa",
+                "timestamp": 1699611786.442017
+            },
+            {
+                "user": "user49",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.442021
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.442021
+    },
+    {
+        "idChat": "c48",
+        "users": [
+            "user1",
+            "user13"
+        ],
+        "messages": [
+            {
+                "user": "user1",
+                "text": "Torta cioccolato \u00e8 deliziosa",
+                "timestamp": 1699611786.442029
+            },
+            {
+                "user": "user13",
+                "text": "Luna brilla cielo",
+                "timestamp": 1699611786.442033
+            },
+            {
+                "user": "user13",
+                "text": "Uccelli cantano all'alba",
+                "timestamp": 1699611786.442036
+            },
+            {
+                "user": "user1",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.442039
+            },
+            {
+                "user": "user13",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.442043
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker7",
+                "text": "Giardino",
+                "media": "staticSticker",
+                "idAvatar": "user1",
+                "timestamp": 1699611786.452954
+            },
+            {
+                "idSticker": "sticker46",
+                "text": "Sedia",
+                "media": "staticSticker",
+                "idAvatar": "user13",
+                "timestamp": 1699611786.453099
+            }
+        ],
+        "timestamp": 1699611786.442043
+    },
+    {
+        "idChat": "c49",
+        "users": [
+            "user47",
+            "user9"
+        ],
+        "messages": [
+            {
+                "user": "user9",
+                "text": "Risate rendono mondo migliore",
+                "timestamp": 1699611786.442051
+            },
+            {
+                "user": "user47",
+                "text": "Fiume scorre avanti",
+                "timestamp": 1699611786.442074
+            },
+            {
+                "user": "user9",
+                "text": "Amici ridono insieme sempre",
+                "timestamp": 1699611786.442077
+            },
+            {
+                "user": "user9",
+                "text": "Fiamme danzano fuoco",
+                "timestamp": 1699611786.44208
+            },
+            {
+                "user": "user9",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.442084
+            },
+            {
+                "user": "user47",
+                "text": "Nuova avventura inizia adesso",
+                "timestamp": 1699611786.442087
+            },
+            {
+                "user": "user47",
+                "text": "Gocce pioggia cadono leggere",
+                "timestamp": 1699611786.442091
+            },
+            {
+                "user": "user9",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.442108
+            },
+            {
+                "user": "user47",
+                "text": "Bambini giocano pallone",
+                "timestamp": 1699611786.442112
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker15",
+                "text": "Cuscino",
+                "media": "animatedSticker",
+                "idAvatar": "user9",
+                "timestamp": 1699611786.452983
+            },
+            {
+                "idSticker": "sticker25",
+                "text": "Pallone",
+                "media": "gif",
+                "idAvatar": "user9",
+                "timestamp": 1699611786.453023
+            },
+            {
+                "idSticker": "sticker45",
+                "text": "Ombrello",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453096
+            },
+            {
+                "idSticker": "sticker69",
+                "text": "Cinema",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453188
+            }
+        ],
+        "timestamp": 1699611786.442112
+    },
+    {
+        "idChat": "c50",
+        "users": [
+            "user88",
+            "user33"
+        ],
+        "messages": [
+            {
+                "user": "user88",
+                "text": "Risate scuotono cuore",
+                "timestamp": 1699611786.442234
+            },
+            {
+                "user": "user33",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.44226
+            },
+            {
+                "user": "user33",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.442266
+            },
+            {
+                "user": "user33",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.442272
+            },
+            {
+                "user": "user33",
+                "text": "Sole riscalda viso",
+                "timestamp": 1699611786.442277
+            },
+            {
+                "user": "user33",
+                "text": "Passi leggeri sabbia",
+                "timestamp": 1699611786.442283
+            },
+            {
+                "user": "user88",
+                "text": "Gocce pioggia finestra",
+                "timestamp": 1699611786.442288
+            },
+            {
+                "user": "user88",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.442294
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker1",
+                "text": "Sedia",
+                "media": "animatedSticker",
+                "idAvatar": "user88",
+                "timestamp": 1699611786.452931
+            }
+        ],
+        "timestamp": 1699611786.442294
+    },
+    {
+        "idChat": "c51",
+        "users": [
+            "user76",
+            "user70"
+        ],
+        "messages": [
+            {
+                "user": "user70",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.442338
+            },
+            {
+                "user": "user76",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.442347
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker44",
+                "text": "Papera",
+                "media": "gif",
+                "idAvatar": "user70",
+                "timestamp": 1699611786.453092
+            }
+        ],
+        "timestamp": 1699611786.442347
+    },
+    {
+        "idChat": "c52",
+        "users": [
+            "user6",
+            "user12"
+        ],
+        "messages": [
+            {
+                "user": "user6",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.442368
+            },
+            {
+                "user": "user12",
+                "text": "Risate sono contagiose sempre",
+                "timestamp": 1699611786.442374
+            },
+            {
+                "user": "user12",
+                "text": "Luna brilla cielo",
+                "timestamp": 1699611786.442379
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker53",
+                "text": "Giraffa",
+                "media": "gif",
+                "idAvatar": "user12",
+                "timestamp": 1699611786.453125
+            }
+        ],
+        "timestamp": 1699611786.442379
+    },
+    {
+        "idChat": "c53",
+        "users": [
+            "user35",
+            "user59"
+        ],
+        "messages": [
+            {
+                "user": "user35",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.442396
+            },
+            {
+                "user": "user59",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.442402
+            },
+            {
+                "user": "user35",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.442407
+            },
+            {
+                "user": "user35",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.442413
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker59",
+                "text": "Fotografia",
+                "media": "animatedSticker",
+                "idAvatar": "user59",
+                "timestamp": 1699611786.453147
+            }
+        ],
+        "timestamp": 1699611786.442413
+    },
+    {
+        "idChat": "c54",
+        "users": [
+            "user31",
+            "user89"
+        ],
+        "messages": [
+            {
+                "user": "user89",
+                "text": "Cani giocano felici parco",
+                "timestamp": 1699611786.442456
+            },
+            {
+                "user": "user31",
+                "text": "Profumo fiori incantevole",
+                "timestamp": 1699611786.4425
+            },
+            {
+                "user": "user89",
+                "text": "Sorrisi illuminano giornate",
+                "timestamp": 1699611786.442508
+            },
+            {
+                "user": "user89",
+                "text": "Risate sono contagiose sempre",
+                "timestamp": 1699611786.442526
+            },
+            {
+                "user": "user31",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.442529
+            },
+            {
+                "user": "user89",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.442533
+            },
+            {
+                "user": "user31",
+                "text": "Uccelli cantano canzoni armoniose",
+                "timestamp": 1699611786.442536
+            },
+            {
+                "user": "user31",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.442539
+            },
+            {
+                "user": "user89",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.442543
+            },
+            {
+                "user": "user89",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.442546
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker80",
+                "text": "Struzzo",
+                "media": "staticSticker",
+                "idAvatar": "user31",
+                "timestamp": 1699611786.453227
+            },
+            {
+                "idSticker": "sticker92",
+                "text": "Cappello",
+                "media": "staticSticker",
+                "idAvatar": "user31",
+                "timestamp": 1699611786.453269
+            }
+        ],
+        "timestamp": 1699611786.442546
+    },
+    {
+        "idChat": "c55",
+        "users": [
+            "user90",
+            "user11"
+        ],
+        "messages": [
+            {
+                "user": "user90",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.442613
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker19",
+                "text": "Tappetino",
+                "media": "staticSticker",
+                "idAvatar": "user11",
+                "timestamp": 1699611786.453
+            },
+            {
+                "idSticker": "sticker30",
+                "text": "Tavola",
+                "media": "staticSticker",
+                "idAvatar": "user90",
+                "timestamp": 1699611786.453041
+            },
+            {
+                "idSticker": "sticker83",
+                "text": "Avventura",
+                "media": "staticSticker",
+                "idAvatar": "user11",
+                "timestamp": 1699611786.453238
+            }
+        ],
+        "timestamp": 1699611786.442613
+    },
+    {
+        "idChat": "c56",
+        "users": [
+            "user20",
+            "user25"
+        ],
+        "messages": [
+            {
+                "user": "user25",
+                "text": "Colori brillano sole",
+                "timestamp": 1699611786.442639
+            },
+            {
+                "user": "user20",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.442644
+            },
+            {
+                "user": "user20",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.442648
+            },
+            {
+                "user": "user25",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.442651
+            },
+            {
+                "user": "user25",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.442655
+            },
+            {
+                "user": "user20",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.442658
+            },
+            {
+                "user": "user25",
+                "text": "Ciao",
+                "timestamp": 1699611786.442662
+            },
+            {
+                "user": "user25",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.442681
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.442681
+    },
+    {
+        "idChat": "c57",
+        "users": [
+            "user14",
+            "user60"
+        ],
+        "messages": [
+            {
+                "user": "user14",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.442694
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.442694
+    },
+    {
+        "idChat": "c58",
+        "users": [
+            "user16",
+            "user23"
+        ],
+        "messages": [
+            {
+                "user": "user23",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.442703
+            },
+            {
+                "user": "user23",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.442707
+            },
+            {
+                "user": "user23",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.44271
+            },
+            {
+                "user": "user16",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.442713
+            },
+            {
+                "user": "user16",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.442717
+            },
+            {
+                "user": "user16",
+                "text": "Sole tramonta colline",
+                "timestamp": 1699611786.44272
+            },
+            {
+                "user": "user23",
+                "text": "Colori arcobaleno vividi",
+                "timestamp": 1699611786.442724
+            },
+            {
+                "user": "user16",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.442727
+            },
+            {
+                "user": "user16",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.442731
+            },
+            {
+                "user": "user23",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.442735
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker5",
+                "text": "Scarpe",
+                "media": "animatedSticker",
+                "idAvatar": "user16",
+                "timestamp": 1699611786.452947
+            },
+            {
+                "idSticker": "sticker63",
+                "text": "Scarpe",
+                "media": "gif",
+                "idAvatar": "user23",
+                "timestamp": 1699611786.453161
+            },
+            {
+                "idSticker": "sticker76",
+                "text": "Cinema",
+                "media": "gif",
+                "idAvatar": "user16",
+                "timestamp": 1699611786.453213
+            },
+            {
+                "idSticker": "sticker88",
+                "text": "Lavagna",
+                "media": "animatedSticker",
+                "idAvatar": "user16",
+                "timestamp": 1699611786.453255
+            }
+        ],
+        "timestamp": 1699611786.442735
+    },
+    {
+        "idChat": "c59",
+        "users": [
+            "user71",
+            "user44"
+        ],
+        "messages": [
+            {
+                "user": "user71",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.442745
+            },
+            {
+                "user": "user71",
+                "text": "Gatti dormono accoccolati insieme",
+                "timestamp": 1699611786.442748
+            },
+            {
+                "user": "user71",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.442752
+            },
+            {
+                "user": "user71",
+                "text": "Passi leggeri sabbia",
+                "timestamp": 1699611786.442755
+            },
+            {
+                "user": "user71",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.442759
+            },
+            {
+                "user": "user44",
+                "text": "Gita montagna emozionante",
+                "timestamp": 1699611786.442762
+            },
+            {
+                "user": "user71",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.442766
+            },
+            {
+                "user": "user71",
+                "text": "Amici ridono insieme sempre",
+                "timestamp": 1699611786.442769
+            },
+            {
+                "user": "user71",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.442772
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker66",
+                "text": "Cielo",
+                "media": "gif",
+                "idAvatar": "user71",
+                "timestamp": 1699611786.453177
+            },
+            {
+                "idSticker": "sticker68",
+                "text": "Bottiglia",
+                "media": "gif",
+                "idAvatar": "user44",
+                "timestamp": 1699611786.453185
+            },
+            {
+                "idSticker": "sticker85",
+                "text": "Tappetino",
+                "media": "staticSticker",
+                "idAvatar": "user44",
+                "timestamp": 1699611786.453245
+            }
+        ],
+        "timestamp": 1699611786.442772
+    },
+    {
+        "idChat": "c60",
+        "users": [
+            "user47",
+            "user15"
+        ],
+        "messages": [
+            {
+                "user": "user15",
+                "text": "Acqua fresca deliziosa",
+                "timestamp": 1699611786.442782
+            },
+            {
+                "user": "user47",
+                "text": "Sole splende cielo",
+                "timestamp": 1699611786.442786
+            },
+            {
+                "user": "user47",
+                "text": "Bambini ridono ora",
+                "timestamp": 1699611786.442789
+            },
+            {
+                "user": "user47",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.442792
+            },
+            {
+                "user": "user15",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.442796
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker0",
+                "text": "Capelli",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452921
+            },
+            {
+                "idSticker": "sticker3",
+                "text": "Pesca",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452939
+            },
+            {
+                "idSticker": "sticker8",
+                "text": "Tavola",
+                "media": "animatedSticker",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452958
+            },
+            {
+                "idSticker": "sticker24",
+                "text": "Musica",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453019
+            },
+            {
+                "idSticker": "sticker45",
+                "text": "Ombrello",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453096
+            },
+            {
+                "idSticker": "sticker69",
+                "text": "Cinema",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453188
+            },
+            {
+                "idSticker": "sticker81",
+                "text": "Lampada",
+                "media": "staticSticker",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453231
+            },
+            {
+                "idSticker": "sticker93",
+                "text": "Acqua",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453273
+            }
+        ],
+        "timestamp": 1699611786.442796
+    },
+    {
+        "idChat": "c61",
+        "users": [
+            "user14",
+            "user44"
+        ],
+        "messages": [
+            {
+                "user": "user14",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.442805
+            },
+            {
+                "user": "user44",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.442808
+            },
+            {
+                "user": "user44",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.442812
+            },
+            {
+                "user": "user14",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.442815
+            },
+            {
+                "user": "user14",
+                "text": "Profumo fiori primavera avvolgente",
+                "timestamp": 1699611786.442818
+            },
+            {
+                "user": "user14",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.442823
+            },
+            {
+                "user": "user14",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.442826
+            },
+            {
+                "user": "user44",
+                "text": "Bambini ridono ora",
+                "timestamp": 1699611786.44283
+            },
+            {
+                "user": "user14",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.442834
+            },
+            {
+                "user": "user14",
+                "text": "Uccelli cantano canzoni allegre",
+                "timestamp": 1699611786.442837
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker68",
+                "text": "Bottiglia",
+                "media": "gif",
+                "idAvatar": "user44",
+                "timestamp": 1699611786.453185
+            },
+            {
+                "idSticker": "sticker85",
+                "text": "Tappetino",
+                "media": "staticSticker",
+                "idAvatar": "user44",
+                "timestamp": 1699611786.453245
+            }
+        ],
+        "timestamp": 1699611786.442837
+    },
+    {
+        "idChat": "c62",
+        "users": [
+            "user24",
+            "user28"
+        ],
+        "messages": [
+            {
+                "user": "user24",
+                "text": "Sorrisi illuminano mondo",
+                "timestamp": 1699611786.442846
+            },
+            {
+                "user": "user24",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.44285
+            },
+            {
+                "user": "user28",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.442854
+            },
+            {
+                "user": "user28",
+                "text": "Gocce pioggia cadono leggere",
+                "timestamp": 1699611786.442857
+            },
+            {
+                "user": "user24",
+                "text": "Colori arcobaleno vividi",
+                "timestamp": 1699611786.44286
+            },
+            {
+                "user": "user28",
+                "text": "Profumo fiori incantevole",
+                "timestamp": 1699611786.442863
+            },
+            {
+                "user": "user28",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.442867
+            },
+            {
+                "user": "user24",
+                "text": "Luna lancia luce argentea",
+                "timestamp": 1699611786.44287
+            },
+            {
+                "user": "user24",
+                "text": "Luna piena affascinante",
+                "timestamp": 1699611786.442873
+            },
+            {
+                "user": "user28",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.442877
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker27",
+                "text": "Gelato",
+                "media": "staticSticker",
+                "idAvatar": "user24",
+                "timestamp": 1699611786.45303
+            },
+            {
+                "idSticker": "sticker41",
+                "text": "Fragola",
+                "media": "staticSticker",
+                "idAvatar": "user24",
+                "timestamp": 1699611786.453082
+            }
+        ],
+        "timestamp": 1699611786.442877
+    },
+    {
+        "idChat": "c63",
+        "users": [
+            "user31",
+            "user49"
+        ],
+        "messages": [
+            {
+                "user": "user31",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.442886
+            },
+            {
+                "user": "user31",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.442889
+            },
+            {
+                "user": "user31",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.442892
+            },
+            {
+                "user": "user31",
+                "text": "Fiamme crepitano camino",
+                "timestamp": 1699611786.442896
+            },
+            {
+                "user": "user31",
+                "text": "Gatti dormono accoccolati insieme",
+                "timestamp": 1699611786.442908
+            },
+            {
+                "user": "user49",
+                "text": "Passi leggeri sabbia",
+                "timestamp": 1699611786.442912
+            },
+            {
+                "user": "user31",
+                "text": "Ombrelli proteggono pioggia",
+                "timestamp": 1699611786.442915
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker80",
+                "text": "Struzzo",
+                "media": "staticSticker",
+                "idAvatar": "user31",
+                "timestamp": 1699611786.453227
+            },
+            {
+                "idSticker": "sticker92",
+                "text": "Cappello",
+                "media": "staticSticker",
+                "idAvatar": "user31",
+                "timestamp": 1699611786.453269
+            }
+        ],
+        "timestamp": 1699611786.442915
+    },
+    {
+        "idChat": "c64",
+        "users": [
+            "user85",
+            "user54"
+        ],
+        "messages": [
+            {
+                "user": "user85",
+                "text": "Profumo fiori primavera avvolgente",
+                "timestamp": 1699611786.442925
+            },
+            {
+                "user": "user85",
+                "text": "Dolci profumi fiori primavera",
+                "timestamp": 1699611786.442928
+            },
+            {
+                "user": "user54",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.442932
+            },
+            {
+                "user": "user85",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.442935
+            },
+            {
+                "user": "user54",
+                "text": "Sorrisi illuminano mondo",
+                "timestamp": 1699611786.442939
+            },
+            {
+                "user": "user85",
+                "text": "Rane saltano acqua fresca",
+                "timestamp": 1699611786.442942
+            },
+            {
+                "user": "user85",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.442965
+            },
+            {
+                "user": "user54",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.442969
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.442969
+    },
+    {
+        "idChat": "c65",
+        "users": [
+            "user65",
+            "user21"
+        ],
+        "messages": [
+            {
+                "user": "user21",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.442979
+            },
+            {
+                "user": "user65",
+                "text": "Sorrisi illuminano mondo",
+                "timestamp": 1699611786.442983
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker12",
+                "text": "Gelato",
+                "media": "staticSticker",
+                "idAvatar": "user65",
+                "timestamp": 1699611786.452973
+            },
+            {
+                "idSticker": "sticker73",
+                "text": "Gioielli",
+                "media": "gif",
+                "idAvatar": "user21",
+                "timestamp": 1699611786.453202
+            }
+        ],
+        "timestamp": 1699611786.442983
+    },
+    {
+        "idChat": "c66",
+        "users": [
+            "user6",
+            "user89"
+        ],
+        "messages": [
+            {
+                "user": "user6",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.443006
+            },
+            {
+                "user": "user6",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.443009
+            },
+            {
+                "user": "user89",
+                "text": "Pizza calda deliziosa",
+                "timestamp": 1699611786.443013
+            },
+            {
+                "user": "user6",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.443016
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.443016
+    },
+    {
+        "idChat": "c67",
+        "users": [
+            "user22",
+            "user97"
+        ],
+        "messages": [
+            {
+                "user": "user22",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.443025
+            },
+            {
+                "user": "user22",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.443028
+            },
+            {
+                "user": "user97",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.443031
+            },
+            {
+                "user": "user22",
+                "text": "Pallone rotola strada",
+                "timestamp": 1699611786.443035
+            },
+            {
+                "user": "user22",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.443039
+            },
+            {
+                "user": "user97",
+                "text": "Vento sibila foglie",
+                "timestamp": 1699611786.443042
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker35",
+                "text": "Pesce",
+                "media": "gif",
+                "idAvatar": "user22",
+                "timestamp": 1699611786.453059
+            },
+            {
+                "idSticker": "sticker56",
+                "text": "Specchio",
+                "media": "animatedSticker",
+                "idAvatar": "user22",
+                "timestamp": 1699611786.453136
+            },
+            {
+                "idSticker": "sticker75",
+                "text": "Rana",
+                "media": "animatedSticker",
+                "idAvatar": "user97",
+                "timestamp": 1699611786.453209
+            }
+        ],
+        "timestamp": 1699611786.443042
+    },
+    {
+        "idChat": "c68",
+        "users": [
+            "user18",
+            "user77"
+        ],
+        "messages": [
+            {
+                "user": "user18",
+                "text": "Luna brilla cielo",
+                "timestamp": 1699611786.443051
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker31",
+                "text": "Cuscino",
+                "media": "animatedSticker",
+                "idAvatar": "user77",
+                "timestamp": 1699611786.453045
+            },
+            {
+                "idSticker": "sticker42",
+                "text": "Acqua",
+                "media": "animatedSticker",
+                "idAvatar": "user77",
+                "timestamp": 1699611786.453085
+            }
+        ],
+        "timestamp": 1699611786.443051
+    },
+    {
+        "idChat": "c69",
+        "users": [
+            "user59",
+            "user90"
+        ],
+        "messages": [
+            {
+                "user": "user59",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.44306
+            },
+            {
+                "user": "user59",
+                "text": "Sorrisi fanno giorno migliore",
+                "timestamp": 1699611786.443063
+            },
+            {
+                "user": "user90",
+                "text": "Risate scuotono cuore",
+                "timestamp": 1699611786.443066
+            },
+            {
+                "user": "user90",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.44307
+            },
+            {
+                "user": "user90",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.443073
+            },
+            {
+                "user": "user59",
+                "text": "Ombra albero offre refrigerio",
+                "timestamp": 1699611786.443077
+            },
+            {
+                "user": "user90",
+                "text": "Bambini giocano pallone",
+                "timestamp": 1699611786.44308
+            },
+            {
+                "user": "user59",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.443083
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker30",
+                "text": "Tavola",
+                "media": "staticSticker",
+                "idAvatar": "user90",
+                "timestamp": 1699611786.453041
+            },
+            {
+                "idSticker": "sticker59",
+                "text": "Fotografia",
+                "media": "animatedSticker",
+                "idAvatar": "user59",
+                "timestamp": 1699611786.453147
+            }
+        ],
+        "timestamp": 1699611786.443083
+    },
+    {
+        "idChat": "c70",
+        "users": [
+            "user40",
+            "user85"
+        ],
+        "messages": [
+            {
+                "user": "user85",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.443092
+            },
+            {
+                "user": "user85",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.443096
+            },
+            {
+                "user": "user85",
+                "text": "Acqua fresca deliziosa",
+                "timestamp": 1699611786.443099
+            },
+            {
+                "user": "user40",
+                "text": "Giardino fiorito affascinante",
+                "timestamp": 1699611786.443102
+            },
+            {
+                "user": "user85",
+                "text": "Torta fragola deliziosa",
+                "timestamp": 1699611786.443106
+            },
+            {
+                "user": "user40",
+                "text": "Gocce pioggia foglie",
+                "timestamp": 1699611786.443109
+            },
+            {
+                "user": "user85",
+                "text": "Pesci nuotano acqua chiara",
+                "timestamp": 1699611786.443112
+            },
+            {
+                "user": "user85",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.443116
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker36",
+                "text": "Specchio",
+                "media": "staticSticker",
+                "idAvatar": "user40",
+                "timestamp": 1699611786.453063
+            }
+        ],
+        "timestamp": 1699611786.443116
+    },
+    {
+        "idChat": "c71",
+        "users": [
+            "user84",
+            "user35"
+        ],
+        "messages": [
+            {
+                "user": "user35",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.443125
+            },
+            {
+                "user": "user84",
+                "text": "Ombrelli proteggono pioggia",
+                "timestamp": 1699611786.443128
+            },
+            {
+                "user": "user35",
+                "text": "Neve copre tutto attorno",
+                "timestamp": 1699611786.443131
+            },
+            {
+                "user": "user84",
+                "text": "Uccelli cantano all'alba",
+                "timestamp": 1699611786.443135
+            },
+            {
+                "user": "user84",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.443139
+            },
+            {
+                "user": "user84",
+                "text": "Sorrisi illuminano mondo",
+                "timestamp": 1699611786.443142
+            },
+            {
+                "user": "user84",
+                "text": "Luna piena affascinante",
+                "timestamp": 1699611786.443145
+            },
+            {
+                "user": "user84",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.443149
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.443149
+    },
+    {
+        "idChat": "c72",
+        "users": [
+            "user86",
+            "user40"
+        ],
+        "messages": [
+            {
+                "user": "user86",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.443158
+            },
+            {
+                "user": "user86",
+                "text": "Risate rendono mondo migliore",
+                "timestamp": 1699611786.443161
+            },
+            {
+                "user": "user40",
+                "text": "Profumo fiori primavera avvolgente",
+                "timestamp": 1699611786.443164
+            },
+            {
+                "user": "user40",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.443167
+            },
+            {
+                "user": "user40",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.44317
+            },
+            {
+                "user": "user86",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.443174
+            },
+            {
+                "user": "user40",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.443177
+            },
+            {
+                "user": "user86",
+                "text": "Sole brillante",
+                "timestamp": 1699611786.443181
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker36",
+                "text": "Specchio",
+                "media": "staticSticker",
+                "idAvatar": "user40",
+                "timestamp": 1699611786.453063
+            },
+            {
+                "idSticker": "sticker51",
+                "text": "Bottiglia",
+                "media": "gif",
+                "idAvatar": "user86",
+                "timestamp": 1699611786.453117
+            }
+        ],
+        "timestamp": 1699611786.443181
+    },
+    {
+        "idChat": "c73",
+        "users": [
+            "user78",
+            "user62"
+        ],
+        "messages": [
+            {
+                "user": "user62",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.44319
+            },
+            {
+                "user": "user62",
+                "text": "Sole tramonta ora",
+                "timestamp": 1699611786.443193
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker29",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user62",
+                "timestamp": 1699611786.453038
+            },
+            {
+                "idSticker": "sticker33",
+                "text": "Cancro",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453052
+            },
+            {
+                "idSticker": "sticker48",
+                "text": "Carta",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453107
+            },
+            {
+                "idSticker": "sticker49",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.45311
+            },
+            {
+                "idSticker": "sticker71",
+                "text": "Bottone",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453195
+            }
+        ],
+        "timestamp": 1699611786.443193
+    },
+    {
+        "idChat": "c74",
+        "users": [
+            "user5",
+            "user43"
+        ],
+        "messages": [
+            {
+                "user": "user43",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.443201
+            },
+            {
+                "user": "user5",
+                "text": "Sorrisi illuminano mondo",
+                "timestamp": 1699611786.443205
+            },
+            {
+                "user": "user43",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.443208
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker70",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user5",
+                "timestamp": 1699611786.453191
+            },
+            {
+                "idSticker": "sticker87",
+                "text": "Struzzo",
+                "media": "staticSticker",
+                "idAvatar": "user5",
+                "timestamp": 1699611786.453252
+            }
+        ],
+        "timestamp": 1699611786.443208
+    },
+    {
+        "idChat": "c75",
+        "users": [
+            "user88",
+            "user93"
+        ],
+        "messages": [
+            {
+                "user": "user93",
+                "text": "Gatti dormono accoccolati insieme",
+                "timestamp": 1699611786.443216
+            },
+            {
+                "user": "user88",
+                "text": "Neve copre tutto attorno",
+                "timestamp": 1699611786.443226
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker1",
+                "text": "Sedia",
+                "media": "animatedSticker",
+                "idAvatar": "user88",
+                "timestamp": 1699611786.452931
+            },
+            {
+                "idSticker": "sticker96",
+                "text": "Orologio",
+                "media": "gif",
+                "idAvatar": "user93",
+                "timestamp": 1699611786.453283
+            }
+        ],
+        "timestamp": 1699611786.443226
+    },
+    {
+        "idChat": "c76",
+        "users": [
+            "user61",
+            "user62"
+        ],
+        "messages": [
+            {
+                "user": "user62",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.443235
+            },
+            {
+                "user": "user61",
+                "text": "Fiamme danzano fuoco",
+                "timestamp": 1699611786.443239
+            },
+            {
+                "user": "user62",
+                "text": "Torta cioccolato \u00e8 deliziosa",
+                "timestamp": 1699611786.443242
+            },
+            {
+                "user": "user61",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.443246
+            },
+            {
+                "user": "user61",
+                "text": "Neve cade oggi",
+                "timestamp": 1699611786.443249
+            },
+            {
+                "user": "user62",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.443252
+            },
+            {
+                "user": "user62",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.443255
+            },
+            {
+                "user": "user61",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.443259
+            },
+            {
+                "user": "user62",
+                "text": "Cani giocano felici parco",
+                "timestamp": 1699611786.443286
+            },
+            {
+                "user": "user61",
+                "text": "Alberi ondeggiare al vento",
+                "timestamp": 1699611786.443289
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker29",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user62",
+                "timestamp": 1699611786.453038
+            }
+        ],
+        "timestamp": 1699611786.443289
+    },
+    {
+        "idChat": "c77",
+        "users": [
+            "user90",
+            "user33"
+        ],
+        "messages": [
+            {
+                "user": "user33",
+                "text": "Fiume scorre avanti",
+                "timestamp": 1699611786.443316
+            },
+            {
+                "user": "user90",
+                "text": "Giardino fiorito affascinante",
+                "timestamp": 1699611786.443319
+            },
+            {
+                "user": "user90",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.443322
+            },
+            {
+                "user": "user90",
+                "text": "Sorrisi fanno giorno migliore",
+                "timestamp": 1699611786.443325
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker30",
+                "text": "Tavola",
+                "media": "staticSticker",
+                "idAvatar": "user90",
+                "timestamp": 1699611786.453041
+            }
+        ],
+        "timestamp": 1699611786.443325
+    },
+    {
+        "idChat": "c78",
+        "users": [
+            "user68",
+            "user89"
+        ],
+        "messages": [
+            {
+                "user": "user89",
+                "text": "Acqua fresca deliziosa",
+                "timestamp": 1699611786.443334
+            },
+            {
+                "user": "user68",
+                "text": "Uccelli cantano all'alba",
+                "timestamp": 1699611786.443338
+            },
+            {
+                "user": "user89",
+                "text": "Torta cioccolato \u00e8 deliziosa",
+                "timestamp": 1699611786.443342
+            },
+            {
+                "user": "user68",
+                "text": "Musica rende cuore felice",
+                "timestamp": 1699611786.443345
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker11",
+                "text": "Giardino",
+                "media": "animatedSticker",
+                "idAvatar": "user68",
+                "timestamp": 1699611786.452969
+            },
+            {
+                "idSticker": "sticker20",
+                "text": "Telefono",
+                "media": "gif",
+                "idAvatar": "user68",
+                "timestamp": 1699611786.453004
+            }
+        ],
+        "timestamp": 1699611786.443345
+    },
+    {
+        "idChat": "c79",
+        "users": [
+            "user31",
+            "user13"
+        ],
+        "messages": [
+            {
+                "user": "user31",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.443353
+            },
+            {
+                "user": "user13",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.443357
+            },
+            {
+                "user": "user13",
+                "text": "Amici ridono insieme sempre",
+                "timestamp": 1699611786.443361
+            },
+            {
+                "user": "user31",
+                "text": "Risate rendono mondo migliore",
+                "timestamp": 1699611786.443364
+            },
+            {
+                "user": "user13",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.443367
+            },
+            {
+                "user": "user13",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.443371
+            },
+            {
+                "user": "user13",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.443374
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker46",
+                "text": "Sedia",
+                "media": "staticSticker",
+                "idAvatar": "user13",
+                "timestamp": 1699611786.453099
+            },
+            {
+                "idSticker": "sticker80",
+                "text": "Struzzo",
+                "media": "staticSticker",
+                "idAvatar": "user31",
+                "timestamp": 1699611786.453227
+            },
+            {
+                "idSticker": "sticker92",
+                "text": "Cappello",
+                "media": "staticSticker",
+                "idAvatar": "user31",
+                "timestamp": 1699611786.453269
+            }
+        ],
+        "timestamp": 1699611786.443374
+    },
+    {
+        "idChat": "c80",
+        "users": [
+            "user30",
+            "user97"
+        ],
+        "messages": [
+            {
+                "user": "user97",
+                "text": "Fiume scorre avanti",
+                "timestamp": 1699611786.443383
+            }
+        ],
+        "media": {
+            "pics": [],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker75",
+                "text": "Rana",
+                "media": "animatedSticker",
+                "idAvatar": "user97",
+                "timestamp": 1699611786.453209
+            },
+            {
+                "idSticker": "sticker94",
+                "text": "Tempo",
+                "media": "staticSticker",
+                "idAvatar": "user30",
+                "timestamp": 1699611786.453276
+            }
+        ],
+        "timestamp": 1699611786.443383
+    },
+    {
+        "idChat": "c81",
+        "users": [
+            "user58",
+            "user23"
+        ],
+        "messages": [
+            {
+                "user": "user58",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.443391
+            },
+            {
+                "user": "user58",
+                "text": "Cielo notte stellato",
+                "timestamp": 1699611786.443395
+            },
+            {
+                "user": "user23",
+                "text": "Torta cioccolato \u00e8 deliziosa",
+                "timestamp": 1699611786.443398
+            },
+            {
+                "user": "user23",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.443401
+            },
+            {
+                "user": "user23",
+                "text": "Uccelli cantano canzoni armoniose",
+                "timestamp": 1699611786.443405
+            },
+            {
+                "user": "user58",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.443408
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker63",
+                "text": "Scarpe",
+                "media": "gif",
+                "idAvatar": "user23",
+                "timestamp": 1699611786.453161
+            },
+            {
+                "idSticker": "sticker89",
+                "text": "Porta",
+                "media": "gif",
+                "idAvatar": "user58",
+                "timestamp": 1699611786.453259
+            }
+        ],
+        "timestamp": 1699611786.443408
+    },
+    {
+        "idChat": "c82",
+        "users": [
+            "user78",
+            "user39"
+        ],
+        "messages": [
+            {
+                "user": "user39",
+                "text": "Gatto riposa sereno",
+                "timestamp": 1699611786.443416
+            },
+            {
+                "user": "user39",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.44342
+            },
+            {
+                "user": "user39",
+                "text": "Libri trasportano luoghi lontani",
+                "timestamp": 1699611786.443423
+            },
+            {
+                "user": "user78",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.443427
+            },
+            {
+                "user": "user78",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.443431
+            },
+            {
+                "user": "user78",
+                "text": "Colori pittura vivaci",
+                "timestamp": 1699611786.443434
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker33",
+                "text": "Cancro",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453052
+            },
+            {
+                "idSticker": "sticker48",
+                "text": "Carta",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453107
+            },
+            {
+                "idSticker": "sticker49",
+                "text": "Neve",
+                "media": "staticSticker",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.45311
+            },
+            {
+                "idSticker": "sticker71",
+                "text": "Bottone",
+                "media": "gif",
+                "idAvatar": "user78",
+                "timestamp": 1699611786.453195
+            }
+        ],
+        "timestamp": 1699611786.443434
+    },
+    {
+        "idChat": "c83",
+        "users": [
+            "user1",
+            "user15"
+        ],
+        "messages": [
+            {
+                "user": "user1",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.443443
+            },
+            {
+                "user": "user1",
+                "text": "Gatti giocano corda",
+                "timestamp": 1699611786.443446
+            },
+            {
+                "user": "user1",
+                "text": "Risate scuotono cuore",
+                "timestamp": 1699611786.44345
+            },
+            {
+                "user": "user1",
+                "text": "Sole splende estate",
+                "timestamp": 1699611786.443453
+            },
+            {
+                "user": "user1",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.443456
+            },
+            {
+                "user": "user15",
+                "text": "Sole tramonta colline",
+                "timestamp": 1699611786.443459
+            },
+            {
+                "user": "user15",
+                "text": "Vento soffia forza",
+                "timestamp": 1699611786.443463
+            },
+            {
+                "user": "user15",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.443466
+            },
+            {
+                "user": "user1",
+                "text": "Gita montagna avventurosa",
+                "timestamp": 1699611786.443469
+            },
+            {
+                "user": "user15",
+                "text": "Gocce pioggia foglie",
+                "timestamp": 1699611786.44348
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker0",
+                "text": "Capelli",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452921
+            },
+            {
+                "idSticker": "sticker3",
+                "text": "Pesca",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452939
+            },
+            {
+                "idSticker": "sticker7",
+                "text": "Giardino",
+                "media": "staticSticker",
+                "idAvatar": "user1",
+                "timestamp": 1699611786.452954
+            },
+            {
+                "idSticker": "sticker8",
+                "text": "Tavola",
+                "media": "animatedSticker",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452958
+            },
+            {
+                "idSticker": "sticker24",
+                "text": "Musica",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453019
+            },
+            {
+                "idSticker": "sticker81",
+                "text": "Lampada",
+                "media": "staticSticker",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453231
+            },
+            {
+                "idSticker": "sticker93",
+                "text": "Acqua",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453273
+            }
+        ],
+        "timestamp": 1699611786.44348
+    },
+    {
+        "idChat": "c84",
+        "users": [
+            "user67",
+            "user77"
+        ],
+        "messages": [
+            {
+                "user": "user77",
+                "text": "Ciao",
+                "timestamp": 1699611786.443491
+            },
+            {
+                "user": "user67",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.443495
+            },
+            {
+                "user": "user67",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.443498
+            },
+            {
+                "user": "user77",
+                "text": "Fiume scorre avanti",
+                "timestamp": 1699611786.443501
+            },
+            {
+                "user": "user77",
+                "text": "Luna splende notte",
+                "timestamp": 1699611786.443505
+            },
+            {
+                "user": "user77",
+                "text": "Libri trasportano luoghi lontani",
+                "timestamp": 1699611786.443508
+            },
+            {
+                "user": "user77",
+                "text": "Farfalle svolazzano fiori",
+                "timestamp": 1699611786.443511
+            },
+            {
+                "user": "user77",
+                "text": "Nuovi giorni portano opportunit\u00e0",
+                "timestamp": 1699611786.443514
+            },
+            {
+                "user": "user67",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.443518
+            },
+            {
+                "user": "user67",
+                "text": "Pesci nuotano acqua chiara",
+                "timestamp": 1699611786.443521
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker31",
+                "text": "Cuscino",
+                "media": "animatedSticker",
+                "idAvatar": "user77",
+                "timestamp": 1699611786.453045
+            },
+            {
+                "idSticker": "sticker42",
+                "text": "Acqua",
+                "media": "animatedSticker",
+                "idAvatar": "user77",
+                "timestamp": 1699611786.453085
+            }
+        ],
+        "timestamp": 1699611786.443521
+    },
+    {
+        "idChat": "c85",
+        "users": [
+            "user4",
+            "user45"
+        ],
+        "messages": [
+            {
+                "user": "user45",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.443531
+            },
+            {
+                "user": "user45",
+                "text": "Profumo fiori primavera avvolgente",
+                "timestamp": 1699611786.443534
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker4",
+                "text": "Dado",
+                "media": "gif",
+                "idAvatar": "user45",
+                "timestamp": 1699611786.452943
+            },
+            {
+                "idSticker": "sticker32",
+                "text": "Lampada",
+                "media": "staticSticker",
+                "idAvatar": "user45",
+                "timestamp": 1699611786.453048
+            },
+            {
+                "idSticker": "sticker58",
+                "text": "Arancia",
+                "media": "gif",
+                "idAvatar": "user45",
+                "timestamp": 1699611786.453143
+            }
+        ],
+        "timestamp": 1699611786.443534
+    },
+    {
+        "idChat": "c86",
+        "users": [
+            "user90",
+            "user57"
+        ],
+        "messages": [
+            {
+                "user": "user90",
+                "text": "Gatti giocano corda",
+                "timestamp": 1699611786.443548
+            },
+            {
+                "user": "user90",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.443552
+            },
+            {
+                "user": "user57",
+                "text": "Ciao, a presto",
+                "timestamp": 1699611786.443555
+            },
+            {
+                "user": "user57",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.443559
+            },
+            {
+                "user": "user57",
+                "text": "Vento soffia alberi",
+                "timestamp": 1699611786.443562
+            },
+            {
+                "user": "user90",
+                "text": "Gocce pioggia finestra",
+                "timestamp": 1699611786.443565
+            },
+            {
+                "user": "user57",
+                "text": "Profumo fiori primavera avvolgente",
+                "timestamp": 1699611786.443568
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker30",
+                "text": "Tavola",
+                "media": "staticSticker",
+                "idAvatar": "user90",
+                "timestamp": 1699611786.453041
+            },
+            {
+                "idSticker": "sticker86",
+                "text": "Lupo",
+                "media": "animatedSticker",
+                "idAvatar": "user57",
+                "timestamp": 1699611786.453248
+            }
+        ],
+        "timestamp": 1699611786.443568
+    },
+    {
+        "idChat": "c87",
+        "users": [
+            "user74",
+            "user15"
+        ],
+        "messages": [
+            {
+                "user": "user15",
+                "text": "Sciarpa calda tiene caldo",
+                "timestamp": 1699611786.443578
+            },
+            {
+                "user": "user74",
+                "text": "Gita montagna avventurosa",
+                "timestamp": 1699611786.443581
+            },
+            {
+                "user": "user74",
+                "text": "Sciarpa calda tiene caldo",
+                "timestamp": 1699611786.443608
+            },
+            {
+                "user": "user74",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.443612
+            },
+            {
+                "user": "user15",
+                "text": "Luna lancia luce argentea",
+                "timestamp": 1699611786.443615
+            },
+            {
+                "user": "user74",
+                "text": "Ciao",
+                "timestamp": 1699611786.443618
+            },
+            {
+                "user": "user74",
+                "text": "Acqua fresca deliziosa",
+                "timestamp": 1699611786.443636
+            },
+            {
+                "user": "user74",
+                "text": "Vento soffia ora",
+                "timestamp": 1699611786.44364
+            },
+            {
+                "user": "user15",
+                "text": "Risate rendono mondo migliore",
+                "timestamp": 1699611786.443643
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker0",
+                "text": "Capelli",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452921
+            },
+            {
+                "idSticker": "sticker3",
+                "text": "Pesca",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452939
+            },
+            {
+                "idSticker": "sticker8",
+                "text": "Tavola",
+                "media": "animatedSticker",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.452958
+            },
+            {
+                "idSticker": "sticker24",
+                "text": "Musica",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453019
+            },
+            {
+                "idSticker": "sticker67",
+                "text": "Giraffa",
+                "media": "animatedSticker",
+                "idAvatar": "user74",
+                "timestamp": 1699611786.453181
+            },
+            {
+                "idSticker": "sticker81",
+                "text": "Lampada",
+                "media": "staticSticker",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453231
+            },
+            {
+                "idSticker": "sticker93",
+                "text": "Acqua",
+                "media": "gif",
+                "idAvatar": "user15",
+                "timestamp": 1699611786.453273
+            }
+        ],
+        "timestamp": 1699611786.443643
+    },
+    {
+        "idChat": "c88",
+        "users": [
+            "user33",
+            "user83"
+        ],
+        "messages": [
+            {
+                "user": "user83",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.443652
+            },
+            {
+                "user": "user83",
+                "text": "Pallone rotola strada",
+                "timestamp": 1699611786.443655
+            },
+            {
+                "user": "user33",
+                "text": "Gocce pioggia foglie",
+                "timestamp": 1699611786.443659
+            },
+            {
+                "user": "user33",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.443662
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker6",
+                "text": "Sedia",
+                "media": "animatedSticker",
+                "idAvatar": "user83",
+                "timestamp": 1699611786.45295
+            }
+        ],
+        "timestamp": 1699611786.443662
+    },
+    {
+        "idChat": "c89",
+        "users": [
+            "user1",
+            "user74"
+        ],
+        "messages": [
+            {
+                "user": "user1",
+                "text": "Vento sibila foglie",
+                "timestamp": 1699611786.44367
+            },
+            {
+                "user": "user1",
+                "text": "Gatti dormono sonni tranquilli",
+                "timestamp": 1699611786.443674
+            },
+            {
+                "user": "user1",
+                "text": "Profumo fiori primavera inebriante",
+                "timestamp": 1699611786.443677
+            },
+            {
+                "user": "user74",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.443681
+            },
+            {
+                "user": "user74",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.443684
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker7",
+                "text": "Giardino",
+                "media": "staticSticker",
+                "idAvatar": "user1",
+                "timestamp": 1699611786.452954
+            },
+            {
+                "idSticker": "sticker67",
+                "text": "Giraffa",
+                "media": "animatedSticker",
+                "idAvatar": "user74",
+                "timestamp": 1699611786.453181
+            }
+        ],
+        "timestamp": 1699611786.443684
+    },
+    {
+        "idChat": "c90",
+        "users": [
+            "user39",
+            "user95"
+        ],
+        "messages": [
+            {
+                "user": "user95",
+                "text": "Profumo fiori incantevole",
+                "timestamp": 1699611786.443693
+            },
+            {
+                "user": "user39",
+                "text": "Colori arcobaleno vividi",
+                "timestamp": 1699611786.443697
+            },
+            {
+                "user": "user39",
+                "text": "Uccelli cantano all'alba",
+                "timestamp": 1699611786.4437
+            },
+            {
+                "user": "user39",
+                "text": "Volo uccelli sopra testa",
+                "timestamp": 1699611786.443703
+            },
+            {
+                "user": "user95",
+                "text": "Sorrisi fanno giorno migliore",
+                "timestamp": 1699611786.443707
+            },
+            {
+                "user": "user95",
+                "text": "Colori arcobaleno vividi",
+                "timestamp": 1699611786.44371
+            },
+            {
+                "user": "user39",
+                "text": "Acqua fresca deliziosa",
+                "timestamp": 1699611786.443713
+            },
+            {
+                "user": "user39",
+                "text": "Sole splende pioggia",
+                "timestamp": 1699611786.443716
+            },
+            {
+                "user": "user39",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.44372
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker64",
+                "text": "Tempo",
+                "media": "staticSticker",
+                "idAvatar": "user95",
+                "timestamp": 1699611786.453164
+            },
+            {
+                "idSticker": "sticker74",
+                "text": "Penna",
+                "media": "gif",
+                "idAvatar": "user95",
+                "timestamp": 1699611786.453206
+            }
+        ],
+        "timestamp": 1699611786.44372
+    },
+    {
+        "idChat": "c91",
+        "users": [
+            "user29",
+            "user27"
+        ],
+        "messages": [
+            {
+                "user": "user27",
+                "text": "Dolci ricordi durano per sempre",
+                "timestamp": 1699611786.443729
+            },
+            {
+                "user": "user29",
+                "text": "Nuova musica suona adesso",
+                "timestamp": 1699611786.443732
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker22",
+                "text": "Martello",
+                "media": "animatedSticker",
+                "idAvatar": "user27",
+                "timestamp": 1699611786.453011
+            },
+            {
+                "idSticker": "sticker65",
+                "text": "Oro",
+                "media": "animatedSticker",
+                "idAvatar": "user29",
+                "timestamp": 1699611786.453173
+            }
+        ],
+        "timestamp": 1699611786.443732
+    },
+    {
+        "idChat": "c92",
+        "users": [
+            "user92",
+            "user58"
+        ],
+        "messages": [
+            {
+                "user": "user92",
+                "text": "Bambini ridono di gusto",
+                "timestamp": 1699611786.443741
+            },
+            {
+                "user": "user58",
+                "text": "Palloncini fluttuano cielo",
+                "timestamp": 1699611786.443744
+            },
+            {
+                "user": "user92",
+                "text": "Pizza formaggio gustosa",
+                "timestamp": 1699611786.443747
+            },
+            {
+                "user": "user58",
+                "text": "Sorrisi illuminano giornate",
+                "timestamp": 1699611786.443751
+            },
+            {
+                "user": "user92",
+                "text": "Profumo fiori primavera avvolgente",
+                "timestamp": 1699611786.443754
+            },
+            {
+                "user": "user58",
+                "text": "Sole riscalda viso",
+                "timestamp": 1699611786.443758
+            },
+            {
+                "user": "user92",
+                "text": "Giardino fiorito affascinante",
+                "timestamp": 1699611786.443761
+            },
+            {
+                "user": "user58",
+                "text": "Rane saltano acqua fresca",
+                "timestamp": 1699611786.443764
+            },
+            {
+                "user": "user58",
+                "text": "Risate rendono mondo migliore",
+                "timestamp": 1699611786.443768
+            },
+            {
+                "user": "user92",
+                "text": "Gocce pioggia cadono leggere",
+                "timestamp": 1699611786.443771
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker38",
+                "text": "Cuscino",
+                "media": "staticSticker",
+                "idAvatar": "user92",
+                "timestamp": 1699611786.453071
+            },
+            {
+                "idSticker": "sticker89",
+                "text": "Porta",
+                "media": "gif",
+                "idAvatar": "user58",
+                "timestamp": 1699611786.453259
+            }
+        ],
+        "timestamp": 1699611786.443771
+    },
+    {
+        "idChat": "c93",
+        "users": [
+            "user47",
+            "user62"
+        ],
+        "messages": [
+            {
+                "user": "user47",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.44378
+            },
+            {
+                "user": "user62",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.443784
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0"
+            ],
+            "docs": []
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker29",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user62",
+                "timestamp": 1699611786.453038
+            },
+            {
+                "idSticker": "sticker45",
+                "text": "Ombrello",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453096
+            },
+            {
+                "idSticker": "sticker69",
+                "text": "Cinema",
+                "media": "gif",
+                "idAvatar": "user47",
+                "timestamp": 1699611786.453188
+            }
+        ],
+        "timestamp": 1699611786.443784
+    },
+    {
+        "idChat": "c94",
+        "users": [
+            "user70",
+            "user81"
+        ],
+        "messages": [
+            {
+                "user": "user81",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.443792
+            },
+            {
+                "user": "user70",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.443795
+            },
+            {
+                "user": "user70",
+                "text": "Giardino fiori affascinante",
+                "timestamp": 1699611786.443798
+            },
+            {
+                "user": "user81",
+                "text": "Rane saltano acqua fresca",
+                "timestamp": 1699611786.443801
+            },
+            {
+                "user": "user70",
+                "text": "Sole tramonta colline",
+                "timestamp": 1699611786.443804
+            },
+            {
+                "user": "user70",
+                "text": "Colori arcobaleno meravigliosi",
+                "timestamp": 1699611786.443807
+            },
+            {
+                "user": "user81",
+                "text": "Rane saltano acqua fresca",
+                "timestamp": 1699611786.443811
+            },
+            {
+                "user": "user81",
+                "text": "Mela rossa \u00e8 gustosa",
+                "timestamp": 1699611786.443814
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3",
+                "pic4"
+            ],
+            "docs": [
+                "doc0",
+                "doc1"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker44",
+                "text": "Papera",
+                "media": "gif",
+                "idAvatar": "user70",
+                "timestamp": 1699611786.453092
+            }
+        ],
+        "timestamp": 1699611786.443814
+    },
+    {
+        "idChat": "c95",
+        "users": [
+            "user21",
+            "user98"
+        ],
+        "messages": [
+            {
+                "user": "user98",
+                "text": "Torta cioccolato \u00e8 deliziosa",
+                "timestamp": 1699611786.443823
+            },
+            {
+                "user": "user98",
+                "text": "Farfalle danzano aria fresca",
+                "timestamp": 1699611786.443827
+            },
+            {
+                "user": "user98",
+                "text": "Mela rossa \u00e8 gustosa",
+                "timestamp": 1699611786.44383
+            },
+            {
+                "user": "user21",
+                "text": "Sole splende cielo",
+                "timestamp": 1699611786.443833
+            },
+            {
+                "user": "user98",
+                "text": "Ombrelli proteggono pioggia",
+                "timestamp": 1699611786.443836
+            },
+            {
+                "user": "user21",
+                "text": "Luna sorge cielo",
+                "timestamp": 1699611786.44384
+            },
+            {
+                "user": "user98",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.443843
+            },
+            {
+                "user": "user21",
+                "text": "Libri aprono porte immaginazione",
+                "timestamp": 1699611786.443846
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2",
+                "pic3"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3",
+                "doc4"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker21",
+                "text": "Sorriso",
+                "media": "staticSticker",
+                "idAvatar": "user98",
+                "timestamp": 1699611786.453008
+            },
+            {
+                "idSticker": "sticker28",
+                "text": "Pallone",
+                "media": "gif",
+                "idAvatar": "user98",
+                "timestamp": 1699611786.453034
+            },
+            {
+                "idSticker": "sticker73",
+                "text": "Gioielli",
+                "media": "gif",
+                "idAvatar": "user21",
+                "timestamp": 1699611786.453202
+            }
+        ],
+        "timestamp": 1699611786.443846
+    },
+    {
+        "idChat": "c96",
+        "users": [
+            "user54",
+            "user53"
+        ],
+        "messages": [
+            {
+                "user": "user53",
+                "text": "Luna lancia luce argentea",
+                "timestamp": 1699611786.443882
+            },
+            {
+                "user": "user53",
+                "text": "Gocce pioggia finestra",
+                "timestamp": 1699611786.443886
+            },
+            {
+                "user": "user53",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.44389
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker40",
+                "text": "Cancro",
+                "media": "animatedSticker",
+                "idAvatar": "user53",
+                "timestamp": 1699611786.453078
+            }
+        ],
+        "timestamp": 1699611786.44389
+    },
+    {
+        "idChat": "c97",
+        "users": [
+            "user54",
+            "user80"
+        ],
+        "messages": [
+            {
+                "user": "user54",
+                "text": "Neve copre paesaggio bianco",
+                "timestamp": 1699611786.4439
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [],
+        "timestamp": 1699611786.4439
+    },
+    {
+        "idChat": "c98",
+        "users": [
+            "user30",
+            "user62"
+        ],
+        "messages": [
+            {
+                "user": "user62",
+                "text": "Risate rendono felici tutti",
+                "timestamp": 1699611786.44393
+            },
+            {
+                "user": "user30",
+                "text": "Nuvole bianche fluttuano lente",
+                "timestamp": 1699611786.443933
+            },
+            {
+                "user": "user62",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.443937
+            },
+            {
+                "user": "user30",
+                "text": "Musica riempie aria serena",
+                "timestamp": 1699611786.44394
+            },
+            {
+                "user": "user30",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.443944
+            },
+            {
+                "user": "user62",
+                "text": "Salti alti sono divertenti",
+                "timestamp": 1699611786.443962
+            },
+            {
+                "user": "user30",
+                "text": "Colori brillano sole",
+                "timestamp": 1699611786.443965
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker29",
+                "text": "Nuvola",
+                "media": "staticSticker",
+                "idAvatar": "user62",
+                "timestamp": 1699611786.453038
+            },
+            {
+                "idSticker": "sticker94",
+                "text": "Tempo",
+                "media": "staticSticker",
+                "idAvatar": "user30",
+                "timestamp": 1699611786.453276
+            }
+        ],
+        "timestamp": 1699611786.443965
+    },
+    {
+        "idChat": "c99",
+        "users": [
+            "user26",
+            "user33"
+        ],
+        "messages": [
+            {
+                "user": "user26",
+                "text": "Cielo notte stellato incantevole",
+                "timestamp": 1699611786.443974
+            },
+            {
+                "user": "user26",
+                "text": "Libri aprono nuovi mondi",
+                "timestamp": 1699611786.443978
+            },
+            {
+                "user": "user33",
+                "text": "Cani giocano felici parco",
+                "timestamp": 1699611786.443982
+            },
+            {
+                "user": "user26",
+                "text": "Mare onde cullano mente",
+                "timestamp": 1699611786.443985
+            },
+            {
+                "user": "user33",
+                "text": "Gatti cacciano topi notte",
+                "timestamp": 1699611786.443989
+            },
+            {
+                "user": "user33",
+                "text": "Gatti giocano corda",
+                "timestamp": 1699611786.443992
+            },
+            {
+                "user": "user33",
+                "text": "Sole splende cielo",
+                "timestamp": 1699611786.443996
+            },
+            {
+                "user": "user33",
+                "text": "Dolci abbracci riscaldano cuore",
+                "timestamp": 1699611786.443999
+            },
+            {
+                "user": "user33",
+                "text": "Pizza formaggio deliziosa",
+                "timestamp": 1699611786.444002
+            }
+        ],
+        "media": {
+            "pics": [
+                "pic0",
+                "pic1",
+                "pic2"
+            ],
+            "docs": [
+                "doc0",
+                "doc1",
+                "doc2",
+                "doc3"
+            ]
+        },
+        "stickers": [
+            {
+                "idSticker": "sticker37",
+                "text": "Terra",
+                "media": "staticSticker",
+                "idAvatar": "user26",
+                "timestamp": 1699611786.453067
+            }
+        ],
+        "timestamp": 1699611786.444002
+    }
+]

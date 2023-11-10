@@ -74,12 +74,12 @@ def generate_users():
             "blocked": []
         }) 
         
-    with open('output/user.json', 'w') as outfile:
+    with open('data/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
         
 def generate_snaps():
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
     snaps_array = []
@@ -101,7 +101,7 @@ def generate_snaps():
                 "timestamp": datetime.datetime.now().timestamp()
             })
         
-    with open('output/snap.json', 'w') as outfile:
+    with open('data/snap.json', 'w') as outfile:
         json.dump(snaps_array, outfile, indent=4)
         
 
@@ -109,7 +109,7 @@ def generate_snaps():
 def generate_stickers():
     sticker_array = []
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
     username_list = (list(map(lambda x: x["username"], users_array)))
@@ -123,13 +123,13 @@ def generate_stickers():
             "timestamp": datetime.datetime.now().timestamp()
         })
 
-    with open('output/sticker.json', 'w') as outfile:
+    with open('data/sticker.json', 'w') as outfile:
         json.dump(sticker_array, outfile, indent=4)
         
 
 def generate_notify():
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
     notify_array = []
@@ -145,16 +145,16 @@ def generate_notify():
                 "text": ""
             })
 
-    with open('output/notify.json', 'w') as outfile:
+    with open('data/notify.json', 'w') as outfile:
         json.dump(notify_array, outfile, indent=4)
         
 
 def update_notify():
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
-    notify_file = open('output/notify.json')
+    notify_file = open('data/notify.json')
     notify_array = json.load(notify_file)
     
     for notify in notify_array:
@@ -168,20 +168,20 @@ def update_notify():
             notify["text"] = "New message"
             notify["idNotify"] += "Message"
             
-    with open('output/notify.json', 'w') as outfile:
+    with open('data/notify.json', 'w') as outfile:
         json.dump(notify_array, outfile, indent=4)
         
     for user in users_array:
         for i in range(random.randint(0,5)):
             user["notify"].append(random.choice(notify_array))
     
-    with open('output/user.json', 'w') as outfile:
+    with open('data/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
     
 
 def generate_chats():
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
     usernames = [user["username"] for user in users_array]
@@ -223,17 +223,17 @@ def generate_chats():
         chats.append(chat)
 
             
-    with open('output/chat.json', 'w') as chat_file:
+    with open('data/chat.json', 'w') as chat_file:
         json.dump(chats, chat_file, indent=4)
     
 
     
 def update_chats():
     
-    chat_file = open('output/chat.json')
+    chat_file = open('data/chat.json')
     chats_array = json.load(chat_file)
     
-    sticker_file = open('output/sticker.json')
+    sticker_file = open('data/sticker.json')
     stickers_array = json.load(sticker_file)
     
     for chat in chats_array:
@@ -249,13 +249,13 @@ def update_chats():
         for i in range(random.randint(0,MAX_MEDIADOC_IMAGES)):
             chats["media"]["docs"].append((f"doc{i}"))
             
-    with open('output/chat.json', 'w') as outfile:
+    with open('data/chat.json', 'w') as outfile:
         json.dump(chats_array, outfile, indent=4)
 
         
 def update_users():
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
     # AGGIUNTA FRIENDS
@@ -282,7 +282,7 @@ def update_users():
             user["blocked"].append(rand_user)
                         
                 
-    snap_file = open('output/snap.json')
+    snap_file = open('data/snap.json')
     snaps_array = json.load(snap_file)
     
     # AGGIUNTA NUMERO SNAP PER UTENTE
@@ -296,7 +296,7 @@ def update_users():
             if snap["ownSnaps"] == user["username"]:
                 user["ownSnaps"].append(snap["idSnap"])
                 
-    with open('output/user.json', 'w') as outfile:
+    with open('data/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
     
     # AGGIUNTA MAPS CON GHOSTFRIENDS
@@ -330,15 +330,15 @@ def update_users():
             }
         })
 
-    with open('output/map.json', 'w') as outfile:
+    with open('data/map.json', 'w') as outfile:
         json.dump(maps_array, outfile, indent=4)
 
 def update_snaps():
    
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
 
-    snap_file = open('output/snap.json')
+    snap_file = open('data/snap.json')
     snaps_array = json.load(snap_file)
 
     username_list = (list(map(lambda x: x["username"], users_array)))
@@ -350,12 +350,12 @@ def update_snaps():
         for i in range(random.randint(0,MAX_TAGGED_USERS)):
             snap["tagUsers"].append(random.choice(list(set(username_list)-set(snap["tagUsers"]))))
     
-    with open('output/snap.json', 'w') as outfile:
+    with open('data/snap.json', 'w') as outfile:
         json.dump(snaps_array, outfile, indent=4)
     
 def update_business():
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
     
     for i in range(USERS_NUMBER):
@@ -365,19 +365,19 @@ def update_business():
             users_array[i]["businessInfo"]["bLocation"] = random.choice(coordinates)
             users_array[i]["businessInfo"]["bLikesCount"] = random.randint(0, 100)
                 
-    with open('output/user.json', 'w') as outfile:
+    with open('data/user.json', 'w') as outfile:
         json.dump(users_array, outfile, indent=4)
 
 
 def update_maps():
     
-    snap_file = open('output/snap.json')
+    snap_file = open('data/snap.json')
     snaps_array = json.load(snap_file)
     
-    maps_file = open('output/map.json')
+    maps_file = open('data/map.json')
     maps_array = json.load(maps_file)
     
-    user_file = open('output/user.json')
+    user_file = open('data/user.json')
     users_array = json.load(user_file)
         
     for snap in snaps_array:
@@ -385,7 +385,7 @@ def update_maps():
             if snap["location"] and snap["ownSnaps"] == maps["user"]:
                 maps["snaps"].append(snap["idSnap"])
             
-    with open('output/map.json', 'w') as outfile:
+    with open('data/map.json', 'w') as outfile:
         json.dump(maps_array, outfile, indent=4)
             
 if __name__ == '__main__':
